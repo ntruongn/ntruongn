@@ -1,0 +1,28 @@
+title: Ngoc-Truong Nguyen
+markdown: kramdown
+url: "https://nguyenngoctruong.id.vn"
+baseurl: ""
+
+author:
+  name: Ngoc-Truong Nguyen
+  email: 2k1.nguyenngoctruong@gmail.com
+  github: ntruongn
+  linkedin: nguyenngoctruong
+description:
+  Blog of Ngoc-Truong Nguyen
+tagline:
+  Researcher in Machine Learning, Computer Vision, and Security.
+
+ntruongn:
+  date_format: "%Y-%m-%d"
+  font_awesome: "357d91f838"
+
+collections:
+  disclosures:
+    output: true
+  researchs:
+    output: true
+  tutorials:
+    output: true
+  yet_another_collection:
+    output: true

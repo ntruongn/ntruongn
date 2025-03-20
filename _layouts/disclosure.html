@@ -1,0 +1,18 @@
+---
+layout: page
+---
+
+{% assign date_format = site.darkhack.date_format | default: "%x" %}
+
+<div class="ruler">==================================</div>
+<div class="disclosure">
+    <ul>
+        <li>Release date: {{ page.date | default:site.time | date: date_format }}</li>
+        <li>Vulnerability type: {{ page.vuln_type }}</li> 
+        <li>Severity: {{ page.severity }}</li>
+        <li>{{ page.cve }}</li>
+    </ul>
+</div>
+<div class="ruler">==================================</div>
+
+{{ content }}

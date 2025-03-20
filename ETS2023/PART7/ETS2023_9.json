@@ -1,0 +1,670 @@
+[
+  {
+    "context_question_img": [
+      "https://study4.com/media/ets2023/img/9/image34.png"
+    ],
+    "context_transcript": "<p><b>D\u1ecbch ngh\u0129a:</b></p><p><span>T\u1edbi: Jeanne Vasseur</span></p><p><span>T\u1eeb: Milo Bailey</span></p><p><span>Ng\u00e0y: 8 th\u00e1ng 2</span></p><p><span>Ch\u1ee7 \u0111\u1ec1: Th\u00f4ng tin</span></p><p><span></span></p><p><span>G\u1eedi Jane,</span></p><p><span>T\u00f4i ngh\u0129 r\u1eb1ng ch\u00fang ta \u0111\u00e3 \u0111\u01b0a ra quy\u1ebft \u0111\u1ecbnh \u0111\u00fang \u0111\u1eafn khi thu\u00ea Carol. C\u00f4 \u1ea5y c\u00f3 m\u1ed9t v\u00e0i \u00fd t\u01b0\u1edfng tuy\u1ec7t v\u1eddi cho vi\u1ec7c thi\u1ebft k\u1ebf h\u00ecnh \u1ea3nh v\u00e0 n\u1ed9i dung cho trang web c\u1ee7a ch\u00fang ta. Trang web m\u1edbi m\u00e0 c\u00f4 \u1ea5y t\u1ea1o ra s\u1ebd gi\u00fap ch\u00fang ta thu h\u00fat \u0111\u01b0\u1ee3c kh\u00e1ch h\u00e0ng m\u1edbi v\u00e0 gi\u00fap nh\u1eefng kh\u00e1ch h\u00e0ng hi\u1ec7n nay c\u1ee7a ch\u00fang ta c\u00f3 th\u1ec3 t\u00ecm \u0111\u01b0\u1ee3c th\u00f4ng tin m\u00e0 h\u1ecd c\u1ea7n.</span></p><p><span>\u0110i c\u00f9ng v\u1edbi m\u1ed9t s\u1ed1 thay \u0111\u1ed5i nh\u1ecf m\u00e0 b\u1ea1n g\u1ee3i \u00fd tr\u01b0\u1edbc \u0111\u00e2y, ch\u00fang ta n\u00ean c\u00f3 m\u1ed9t blog \u1edf tr\u00ean trang web \u0111\u1ec3 \u0111\u0103ng c\u00e1c m\u1eb9o k\u1ebf to\u00e1n v\u00e0 chia s\u1ebb m\u1ed9t s\u1ed1 m\u1ea9u chuy\u1ec7n h\u00e0i. Ch\u00fang ta n\u00ean ng\u1ed3i l\u1ea1i \u0111\u1ec3 chia s\u1ebb c\u00f9ng Carol nh\u1eefng suy ngh\u0129 c\u1ee7a m\u00ecnh. L\u1ecbch tr\u00ecnh c\u1ee7a c\u00f4 \u1ea5y c\u00f2n tr\u1ed1ng v\u00e0o s\u00e1ng ng\u00e0y mai, l\u00fac \u0111\u00f3 b\u1ea1n c\u00f3 r\u1ea3nh kh\u00f4ng?</span></p><p><span>Tr\u00e2n tr\u1ecdng,</span></p><p><span>Milo</span></p>",
+    "questions": [
+      {
+        "question": "Why did Mr. Bailey send the e-mail to Ms. Vasseur?",
+        "number": "147",
+        "A": "To inquire about a product",
+        "B": "To explain a new process to her",
+        "C": "To discuss changes to a Web site",
+        "D": "To ask her to contact a new client.",
+        "answer": "C",
+        "detail": "<p><span>147. T\u1ea1i sao \u00f4ng Bailey g\u1eedi e-mail cho c\u00f4 Vasseur?</span></p><p><span>(A) \u0110\u1ec3 h\u1ecfi th\u00f4ng tin v\u1ec1 m\u1ed9t s\u1ea3n ph\u1ea9m</span></p><p><span>(B) \u0110\u1ec3 gi\u1ea3i th\u00edch m\u1ed9t quy tr\u00ecnh m\u1edbi cho c\u00f4 \u1ea5y</span></p><p><span>(C) \u0110\u1ec3 b\u00e0n v\u1ec1 c\u00e1c thay \u0111\u1ed5i cho trang web</span></p><p><span>(D) \u0110\u1ec3 y\u00eau c\u1ea7u c\u00f4 \u1ea5y li\u00ean l\u1ea1c v\u1edbi m\u1ed9t kh\u00e1ch h\u00e0ng</span></p>"
+      },
+      {
+        "question": "What does Mr. Bailey want to do?",
+        "number": "148",
+        "A": "Review a schedule",
+        "B": "Hire additional staff",
+        "C": "Open a new account",
+        "D": "Meet with a new employee",
+        "answer": "D",
+        "detail": "<p><span>148. \u00d4ng Bailey mu\u1ed1n l\u00e0m g\u00ec?</span></p><p><span>(A) Xem x\u00e9t l\u1ea1i l\u1ecbch tr\u00ecnh</span></p><p><span>(B) Thu\u00ea th\u00eam m\u1ed9t nh\u00e2n vi\u00ean</span></p><p><span>(C) M\u1edf th\u00eam m\u1ed9t t\u00e0i kho\u1ea3n m\u1edbi</span></p><p><span>(D) G\u1eb7p g\u1ee1 nh\u00e2n vi\u00ean m\u1edbi</span></p><p><span></span></p>"
+      }
+    ]
+  },
+  {
+    "context_question_img": [
+      "https://study4.com/media/ets2023/img/9/image35.png"
+    ],
+    "context_transcript": "<p><b>D\u1ecbch ngh\u0129a:</b></p><p><span>Gi\u00e0y Th\u1ec3 thao Green\u2019s</span></p><p><span>18502 \u0110\u1ea1i l\u1ed9 Oriole</span></p><p><span>Chicago, IL 60800</span></p><p><span>(312)555-0132</span></p><p><span></span></p><p><span>Ng\u00e0y 5 th\u00e1ng 8. 11:27 S\u00e1ng</span></p><p><span>S\u1ed1 h\u00f3a \u0111\u01a1n: 5926</span></p><p><span></span></p><p><span>Gi\u00e0y ch\u1ea1y b\u1ed9 Lunarwave</span></p><p><span>Ki\u1ec3u d\u00e1ng: Nhanh nh\u1ea1y, c\u1ee1 nam 10$119.00</span></p><p><span></span></p><p><span>T\u1ea5t ch\u1ea1y b\u1ed9 Suresocks b\u1eb1ng v\u1ea3i cotton</span></p><p><span>C\u1ee1 l\u1edbn nam$4.99</span></p><p><span></span></p><p><span>\u00c1o ph\u00f4ng Coolbreeze</span></p><p><span>C\u1ee1 v\u1eeba nam</span></p><p><span>B\u00ecnh th\u01b0\u1eddng gi\u00e1 $14.00, \u0111ang \u0111\u01b0\u1ee3c gi\u1ea3m 15%$11.90</span></p><p><span></span></p><p><span>C\u1ed9ng ti\u1ec1n h\u00e0ng$135.89</span></p><p><span>Thu\u1ebf ti\u00eau th\u1ee5 (6.25%)$8.49</span></p><p><span>T\u1ed5ng ti\u1ec1n$ 144.38</span></p><p><span>C\u1ea3m \u01a1n v\u00ec \u0111\u00e3 mua s\u1eafm t\u1ea1i Gi\u00e0y th\u1ec3 thao Green\u2019s!</span></p><p><span>Xin vui l\u00f2ng \u0111i\u1ec1n kh\u1ea3o s\u00e1t kh\u00e1ch h\u00e0ng t\u1ea1i www.greensathletic.com.</span></p><p><span>T\u1ea5t c\u1ea3 \u0111\u01a1n h\u00e0ng ho\u00e0n tr\u1ea3 ph\u1ea3i \u0111\u01b0\u1ee3c th\u1ef1c hi\u1ec7n trong v\u00f2ng 30 ng\u00e0y.</span></p><p><span>Y\u00eau c\u1ea7u xu\u1ea5t tr\u00ecnh h\u00f3a \u0111\u01a1n \u0111\u1ec3 c\u00f3 th\u1ec3 ho\u00e0n tr\u1ea3 h\u00e0ng.</span></p>",
+    "questions": [
+      {
+        "question": "What is indicated about the T-shirt?",
+        "number": "149",
+        "A": "It was made by Lunarwave.",
+        "B": "It is a size large.",
+        "C": "It is made of cotton.",
+        "D": "It was sold at a discounted price.",
+        "answer": "D",
+        "detail": "<p><span>149. Nh\u1eefng \u0111i\u1ec1u g\u00ec \u0111\u00e3 \u0111\u01b0\u1ee3c bi\u1ec3u th\u1ecb t\u1eeb m\u1eb7t h\u00e0ng \u00e1o ph\u00f4ng?</span></p><p><span>A. \u0110\u01b0\u1ee3c l\u00e0m b\u1edfi Lunarwave</span></p><p><span>B. C\u1ee1 l\u1edbn</span></p><p><span>C. \u0110\u01b0\u1ee3c l\u00e0m t\u1eeb v\u1ea3i cotton</span></p><p><span>D. \u0110\u01b0\u1ee3c b\u00e1n v\u1edbi gi\u00e1 \u0111\u00e3 gi\u1ea3m</span></p>"
+      },
+      {
+        "question": "What must a customer do to return an item?",
+        "number": "150",
+        "A": "Complete an online form",
+        "B": "Bring the item back within six months",
+        "C": "Show an original store receipt",
+        "D": "Mail the item to the manufacturer",
+        "answer": "C",
+        "detail": "<p><span>150. \u0110\u1ec3 ho\u00e0n tr\u1ea3 h\u00e0ng, kh\u00e1ch h\u00e0ng c\u1ea7n ph\u1ea3i l\u00e0m g\u00ec?</span></p><p><span>A. Ho\u00e0n th\u00e0nh m\u1ed9t bi\u1ec3u m\u1eabu tr\u1ef1c tuy\u1ebfn</span></p><p><span>B. Mang m\u00f3n h\u00e0ng tr\u1edf l\u1ea1i c\u1ee7a h\u00e0ng trong v\u00f2ng 6 th\u00e1ng</span></p><p><span>C. Xu\u1ea5t tr\u00ecnh h\u00f3a \u0111\u01a1n b\u00e1n h\u00e0ng g\u1ed1c</span></p><p><span>D. G\u1eedi m\u00f3n h\u00e0ng l\u1ea1i nh\u00e0 s\u1ea3n xu\u1ea5t</span></p><p><span></span></p>"
+      }
+    ]
+  },
+  {
+    "context_question_img": [
+      "https://study4.com/media/ets2023/img/9/image36.png"
+    ],
+    "context_transcript": "<p><b>D\u1ecbch ngh\u0129a:</b></p><p><span>Monica Blanco (10:43 SA):</span></p><p><span>Ch\u00e0o Carrie, B\u1ea1n c\u00f3 l\u00e0m vi\u1ec7c v\u00e0o th\u1ee9 S\u00e1u tu\u1ea7n n\u00e0y kh\u00f4ng? T\u00f4i s\u1ebd ch\u1ec9 l\u00e0m n\u1eeda ca th\u00f4i v\u00e0 t\u00f4i t\u1ef1 h\u1ecfi kh\u00f4ng bi\u1ebft b\u1ea1n c\u00f3 th\u1ec3 h\u1ed7 tr\u1ee3 l\u00e0m h\u1ed9 t\u00f4i \u0111\u01b0\u1ee3c kh\u00f4ng. Ti\u1ec7c sinh nh\u1eadt c\u1ee7a em t\u00f4i s\u1ebd di\u1ec5n ra v\u00e0o ng\u00e0y \u0111\u00f3.</span></p><p><span>Carrie Morgan (11:25 SA):</span></p><p><span>T\u00f4i c\u0169ng ch\u1ec9 l\u00e0m n\u1eeda ca th\u00f4i. B\u1ea1n \u0111\u01b0\u1ee3c x\u1ebfp ca l\u00fac m\u1ea5y gi\u1edd v\u1eady?</span></p><p><span>Monica Blanco (11:37 SA):</span></p><p><span>T\u1eeb 8 gi\u1edd s\u00e1ng \u0111\u1ebfn tr\u01b0a.</span></p><p><span>Carrie Morgan (11:37 SA):</span></p><p><span>T\u00f4i c\u00f3 th\u1ec3 l\u00e0m \u0111\u01b0\u1ee3c \u0111\u1ea5y. Th\u1ef1c t\u1ebf th\u00ec t\u00f4i c\u00f3 th\u1ec3 l\u00e0m \u0111\u01b0\u1ee3c c\u1ea3 ng\u00e0y h\u00f4m \u0111\u00f3. T\u00f4i \u0111\u01b0\u1ee3c x\u1ebfp l\u1ecbch ngay sau b\u1ea1n.</span></p><p><span>Monica Blanco (11:40 SA):</span></p><p><span>OK</span></p><p><span>Carrie Morgan (11:41 SA):</span></p><p><span>T\u00f4i \u0111ang \u0111i l\u00e0m \u0111\u00e2y. Khi t\u00f4i g\u1eb7p \u00f4ng Cho, t\u00f4i s\u1ebd h\u1ecfi \u00f4ng \u1ea5y li\u1ec7u t\u00f4i c\u00f3 th\u1ec3 l\u00e0m ca c\u1ee7a b\u1ea1n c\u0169ng nh\u01b0 c\u1ee7a t\u00f4i lu\u00f4n \u0111\u01b0\u1ee3c kh\u00f4ng.</span></p><p><span>Monica Blanco (11:50 SA):</span></p><p><span>C\u1ea3m \u01a1n b\u1ea1n! T\u00f4i r\u1ea5t c\u1ea3m k\u00edch.</span></p>",
+    "questions": [
+      {
+        "question": "At 11:39 A.M., what does Ms. Morgan mean when she writes, ''I might be able to''?",
+        "number": "151",
+        "A": "She could help organize a weekend event.",
+        "B": "She could work Ms. Blanco\u2019s hours on Friday.",
+        "C": "She could pick up some food for a party.",
+        "D": "She could meet with Ms. Blanco during her break.",
+        "answer": "B",
+        "detail": "<p><span>151. V\u00e0o 11:39 s\u00e1ng, C\u00f4 Morgan c\u00f3 \u00fd g\u00ec khi vi\u1ebft ''I might be able to''?</span></p><p><span>(A) C\u00f4 \u1ea5y c\u00f3 th\u1ec3 gi\u00fap t\u1ed5 ch\u1ee9c m\u1ed9t s\u1ef1 ki\u1ec7n cu\u1ed1i tu\u1ea7n.</span></p><p><span>(B) C\u00f4 \u1ea5y c\u00f3 th\u1ec3 l\u00e0m ca l\u00e0m c\u1ee7a c\u00f4 Blanco v\u00e0o th\u1ee9 S\u00e1u.</span></p><p><span>(C) C\u00f4 \u1ea5y c\u00f3 th\u1ec3 l\u1ea5y \u0111\u1ed3 \u0103n cho m\u1ed9t bu\u1ed5i ti\u1ec7c.</span></p><p><span>(D) C\u00f4 \u1ea5y c\u00f3 th\u1ec3 g\u1eb7p c\u00f4 Blanco trong k\u1ef3 ngh\u1ec9 c\u1ee7a c\u00f4 \u1ea5y.</span></p>"
+      },
+      {
+        "question": "Who most likely is Mr. Cho?",
+        "number": "152",
+        "A": "A temporary worker",
+        "B": "A party planner",
+        "C": "A supervisor",
+        "D": "A friend of Ms. Blanco\u2019s",
+        "answer": "C",
+        "detail": "<p><span>152. \u00d4ng Cho c\u00f3 th\u1ec3 l\u00e0 ai?</span></p><p><span>(A) M\u1ed9t nh\u00e2n vi\u00ean th\u1eddi v\u1ee5</span></p><p><span>(B) M\u1ed9t ng\u01b0\u1eddi l\u1eadp k\u1ebf ho\u1ea1ch ti\u1ec7c</span></p><p><span>(C) M\u1ed9t ng\u01b0\u1eddi gi\u00e1m s\u00e1t</span></p><p><span>(D) M\u1ed9t ng\u01b0\u1eddi b\u1ea1n c\u1ee7a c\u00f4 Blanco</span></p><p><span></span></p>"
+      }
+    ]
+  },
+  {
+    "context_question_img": [
+      "https://study4.com/media/ets2023/img/9/image37.png"
+    ],
+    "context_transcript": "<p><b>D\u1ecbch ngh\u0129a:</b></p><p><span>Th\u00f4ng b\u00e1o n\u1ed9i b\u1ed9</span></p><p><span>T\u1edbi: T\u1ea5t c\u1ea3 c\u00e1c nh\u00e2n vi\u00ean c\u1ee7a Avisomark</span></p><p><span>T\u1eeb: Eungenia Bajorek, Tr\u1ee3 l\u00fd Gi\u00e1m \u0111\u1ed1c Truy\u1ec1n th\u00f4ng</span></p><p><span>Ng\u00e0y: 30 th\u00e1ng 1</span></p><p><span>Tr\u1ea3 l\u1eddi: B\u1ea3n tin \u0111i\u1ec7n t\u1eed c\u1ee7a c\u00f4ng ty ch\u00fang ta</span></p><p><span></span></p><p><span>\u0110\u00f3ng vai tr\u00f2 nh\u01b0 m\u1ed9t ph\u1ea7n trong n\u1ed7 l\u1ef1c to\u00e0n c\u00f4ng ty gi\u1ea3m thi\u1ec3u ch\u1ea5t th\u1ea3i, ch\u00fang t\u00f4i s\u1ebd d\u1eebng s\u1ea3n xu\u1ea5t phi\u00ean b\u1ea3n in gi\u1ea5y c\u1ee7a b\u1ea3n tin h\u00e0ng tu\u1ea7n c\u1ee7a c\u00f4ng ty, c\u00f3 hi\u1ec7u l\u1ef1c t\u1eeb ng\u00e0y 1 th\u00e1ng 3. T\u1eeb ng\u00e0y \u0111\u00f3 tr\u1edf \u0111i, b\u1ea3n tin s\u1ebd ch\u1ec9 \u0111\u01b0\u1ee3c ph\u00e1t h\u00e0nh tr\u1ef1c tuy\u1ebfn. Th\u00eam v\u00e0o \u0111\u00f3, b\u1eaft \u0111\u1ea7u t\u1eeb th\u00e1ng 3, h\u1ea1n n\u1ed9p cho m\u1ee5c Tin t\u1ee9c Nh\u00e2n vi\u00ean c\u1ee7a b\u1ea3n tin s\u1ebd thay \u0111\u1ed5i t\u1eeb ng\u00e0y th\u1ee9 S\u00e1u th\u1ee9 3 h\u00e0ng th\u00e1ng sang ng\u00e0y th\u1ee9 S\u00e1u th\u1ee9 2 h\u00e0ng th\u00e1ng. S\u1ef1 thay \u0111\u1ed5i n\u00e0y s\u1ebd gi\u00fap Markus Quimby c\u00f3 th\u00eam th\u1eddi gian \u0111\u1ec3 x\u1eed l\u00fd v\u00e0 ch\u1ec9nh s\u1eeda. Ti\u1ebfn tr\u00ecnh n\u1ed9p v\u1eabn gi\u1eef nguy\u00ean: g\u1eedi tr\u1ef1c ti\u1ebfp e-mail cho Markus theo \u0111\u1ecba ch\u1ec9 e-mail: <a class=\"__cf_email__\" data-cfemail=\"1a776b6f73777876635a7b6c736975777b687134797577\" href=\"/cdn-cgi/l/email-protection\">[email\u00a0protected]</a></span></p>",
+    "questions": [
+      {
+        "question": "Why was the memo written?",
+        "number": "153",
+        "A": "To announce a recent decision",
+        "B": "To introduce a new staff member",
+        "C": "To describe a volunteer opportunity",
+        "D": "To invite feedback on a new practice",
+        "answer": "A",
+        "detail": "<p><span>153. T\u1ea1i sao th\u00f4ng b\u00e1o n\u1ed9i b\u1ed9 n\u00e0y \u0111\u01b0\u1ee3c t\u1ea1o ra?</span></p><p><span>(A) \u0110\u1ec3 th\u00f4ng b\u00e1o v\u1ec1 m\u1ed9t quy\u1ebft \u0111\u1ecbnh g\u1ea7n \u0111\u00e2y</span></p><p><span>(B) \u0110\u1ec3 gi\u1edbi thi\u1ec7u m\u1ed9t nh\u00e2n vi\u00ean m\u1edbi</span></p><p><span>(C) \u0110\u1ec3 mi\u00eau t\u1ea3 v\u1ec1 m\u1ed9t c\u01a1 h\u1ed9i ho\u1ea1t \u0111\u1ed9ng t\u00ecnh nguy\u1ec7n</span></p><p><span>(D) \u0110\u1ec3 m\u1eddi ph\u1ea3n h\u1ed3i v\u1ec1 m\u1ed9t c\u00f4ng vi\u1ec7c m\u1edbi</span></p>"
+      },
+      {
+        "question": "According to the memo, why would employees e-mail Mr. Quimby?",
+        "number": "154",
+        "A": "To update their personal information",
+        "B": "To request a copy of a newsletter",
+        "C": "To express their opinion on the newsletter format",
+        "D": "To send in their latest news",
+        "answer": "D",
+        "detail": "<p><span>154. Theo nh\u01b0 th\u00f4ng b\u00e1o tr\u00ean, t\u1ea1i sao nh\u00e2n vi\u00ean g\u1eedi e-mail cho \u00f4ng Quimby?</span></p><p><span>(A) \u0110\u1ec3 c\u1eadp nh\u1eadt th\u00f4ng tin c\u00e1 nh\u00e2n</span></p><p><span>(B) \u0110\u1ec3 y\u00eau c\u1ea7u m\u1ed9t b\u1ea3n c\u1ee7a b\u1ea3n tin</span></p><p><span>(C) \u0110\u1ec3 chia s\u1ebb quan \u0111i\u1ec3m v\u1ec1 h\u00ecnh th\u1ee9c c\u1ee7a b\u1ea3n tin</span></p><p><span>(D) \u0110\u1ec3 g\u1eedi nh\u1eefng tin t\u1ee9c m\u1edbi nh\u1ea5t c\u1ee7a h\u1ecd</span></p><p><span></span></p>"
+      }
+    ]
+  },
+  {
+    "context_question_img": [
+      "https://study4.com/media/ets2023/img/9/image38.png"
+    ],
+    "context_transcript": "<p><b>D\u1ecbch ngh\u0129a:</b></p><p><span>Xe bu\u00fdt kh\u00f4ng ng\u01b0\u1eddi l\u00e1i t\u1ea1i Swansea?</span></p><p><span>SWANSEA (12 th\u00e1ng 5) \u2013 M\u1ed9t \u0111o\u00e0n c\u00e1c quan ch\u1ee9c ch\u00ednh ph\u1ee7 th\u00e0nh ph\u1ed1 v\u00e0 c\u00e1c l\u00e3nh \u0111\u1ea1o doanh nghi\u1ec7p \u0111\u1ecba ph\u01b0\u01a1ng \u0111ang c\u00e2n nh\u1eafc v\u1ec1 vi\u1ec7c mua c\u00e1c xe bu\u00fdt kh\u00f4ng ng\u01b0\u1eddi l\u00e1i cho m\u1ed9t s\u1ed1 tuy\u1ebfn trong th\u00e0nh ph\u1ed1. \u0110\u01b0\u1ee3c \u1ee7y th\u00e1c vi\u1ec7c t\u00ecm ki\u1ebfm nh\u1eefng l\u1ef1a ch\u1ecdn \u0111\u1ec3 n\u00e2ng cao h\u1ec7 th\u1ed1ng giao th\u00f4ng \u1edf Swansea v\u00e0 c\u00e1c v\u00f9ng l\u00e2n c\u1eadn, nh\u00f3m n\u00e0y \u0111\u00e3 c\u1eed 3 th\u00e0nh vi\u00ean \u0111\u1ebfn Malaga, T\u00e2y Ban Nha, n\u01a1i nh\u1eefng chi\u1ebfc xe bu\u00fdt kh\u00f4ng ng\u01b0\u1eddi l\u00e1i ch\u1ea1y nh\u1eefng tuy\u1ebfn d\u00e0i 8 c\u00e2y s\u1ed1 v\u00e0i l\u1ea7n trong m\u1ed9t ng\u00e0y.</span></p><p><span>Th\u00e0nh vi\u00ean \u0111o\u00e0n Gareth Elias \u0111\u00e3 \u1ea5n t\u01b0\u1ee3ng b\u1edfi nh\u1eefng g\u00ec anh \u1ea5y \u0111\u01b0\u1ee3c h\u1ecdc. M\u1eb7c d\u00f9 c\u00f3 nh\u1eefng m\u1ed1i lo ng\u1ea1i v\u1ec1 an to\u00e0n v\u00e0 c\u00e1c lu\u1eadt l\u1ec7 giao th\u00f4ng, \u00f4ng Elias c\u00f3 th\u1ec3 th\u1ea5y \u0111\u01b0\u1ee3c xe bu\u00fdt kh\u00f4ng ng\u01b0\u1eddi l\u00e1i tr\u1edf th\u00e0nh hi\u1ec7n th\u1ef1c t\u1eeb \u0111\u00e3 l\u00e2u, nh\u01b0ng ch\u1ec9 trong m\u1ed9t v\u00e0i tr\u01b0\u1eddng h\u1ee3p \u0111\u1eb7c bi\u1ec7t. \u201cT\u00f4i tin r\u1eb1ng ch\u00fang s\u1ebd \u0111\u1eb7c bi\u1ec7t h\u1eefu \u00edch trong c\u00e1c m\u00f9a l\u1ec5 h\u1ed9i v\u00e0 c\u00e1c s\u1ef1 ki\u1ec7n \u0111\u1eb7c bi\u1ec7t.\u201d, \u00f4ng n\u00f3i, \u201cT\u00f4i kh\u00f4ng th\u1ec3 t\u01b0\u1edfng t\u01b0\u1ee3ng \u0111\u01b0\u1ee3c vi\u1ec7c ch\u00fang \u1edf tr\u00ean \u0111\u01b0\u1eddng ph\u1ed1 m\u1ed7i ng\u00e0y.\u201d Anisha Deepak, m\u1ed9t k\u1ef9 s\u01b0 chuy\u00ean v\u1ec1 c\u1ea3i ti\u1ebfn giao th\u00f4ng, l\u00e0m vi\u1ec7c v\u1edbi t\u01b0 c\u00e1ch m\u1ed9t c\u1ed1 v\u1ea5n k\u1ef9 thu\u1eadt trong chuy\u1ebfn \u0111i. C\u00f4 \u1ea5y \u0111\u00e3 b\u1ecb \u1ea5n t\u01b0\u1ee3ng b\u1edfi s\u1ef1 ph\u1ee9c t\u1ea1p c\u1ee7a h\u1ec7 th\u1ed1ng tr\u00ed tu\u1ec7 nh\u00e2n t\u1ea1o c\u1ee7a c\u00e1c xe bu\u00fdt, th\u1ee9 cho ph\u00e9p ch\u00fang h\u1ecdc t\u1eadp khi thu th\u1eadt d\u1eef li\u1ec7u trong t\u1eebng chuy\u1ebfn \u0111i</span></p><p><span>\u201cTr\u00ed tu\u1ec7 nh\u00e2n t\u1ea1o gi\u00fap nh\u1eefng chi\u1ebfc xe bu\u00fdt n\u00e0y r\u1ea5t an to\u00e0n trong nh\u1eefng t\u00ecnh hu\u1ed1ng \u1edf th\u1ebf gi\u1edbi th\u1ef1c\u201d c\u00f4 \u1ea5y n\u00f3i. \u201cTuy nhi\u00ean, c\u00f3 m\u1ed9t nh\u00e2n vi\u00ean v\u1eadn h\u00e0nh con ng\u01b0\u1eddi s\u1eb5n s\u00e0ng tr\u00ean xe ph\u00f2ng tr\u1eeb tr\u01b0\u1eddng h\u1ee3p kh\u1ea9n c\u1ea5p l\u00e0 t\u1ed1t nh\u1ea5t.\u201d</span></p><p><span>M\u1ed9t di\u1ec5n \u0111\u00e0n c\u1ed9ng \u0111\u1ed3ng m\u1edf \u0111\u01b0\u1ee3c l\u00ean l\u1ecbch v\u00e0o ng\u00e0y m\u00f9ng 2 th\u00e1ng S\u00e1u \u0111\u1ec3 b\u00e0n v\u1ec1 nh\u1eefng l\u1ee3i \u00edch v\u00e0 b\u1ea5t c\u1eadp c\u1ee7a xe bu\u00fdt kh\u00f4ng ng\u01b0\u1eddi l\u00e1i. Tham gia website c\u1ee7a H\u1ed9i \u0111\u1ed3ng Th\u00e0nh ph\u1ed1 Swansea t\u1ea1i www.swanseatown council.gov.uk \u0111\u1ec3 bi\u1ebft th\u00eam.</span></p>",
+    "questions": [
+      {
+        "question": "What is the purpose of the article-?",
+        "number": "155",
+        "A": "To explain how a new technology works",
+        "B": "To report on a group\u2019s recent activities",
+        "C": "To recruit participants for a travel forum",
+        "D": "To announce changes to a bus schedule",
+        "answer": "B",
+        "detail": "<p><span>155. M\u1ee5c \u0111\u00edch c\u1ee7a b\u00e0i b\u00e1o n\u00e0y l\u00e0 g\u00ec?</span></p><p><span>(A) \u0110\u1ec3 gi\u1ea3i th\u00edch c\u00f4ng ngh\u1ec7 m\u1edbi ho\u1ea1t \u0111\u1ed9ng nh\u01b0 th\u1ebf n\u00e0o</span></p><p><span>(B) \u0110\u1ec3 b\u00e1o c\u00e1o v\u1ec1 ho\u1ea1t \u0111\u1ed9ng g\u1ea7n \u0111\u00e2y c\u1ee7a m\u1ed9t nh\u00f3m</span></p><p><span>(C) \u0110\u1ec3 tuy\u1ec3n th\u00eam ng\u01b0\u1eddi tham gia cho m\u1ed9t di\u1ec5n \u0111\u00e0n du l\u1ecbch</span></p><p><span>(D) \u0110\u1ec3 th\u00f4ng b\u00e1o v\u1ec1 nh\u1eefng thay \u0111\u1ed5i trong l\u1ecbch tr\u00ecnh xe bu\u00fdt</span></p>"
+      },
+      {
+        "question": "What opinion does Mr. Elias express about driverless buses?",
+        "number": "156",
+        "A": "They are not safe under any circumstances.",
+        "B": "Traffic regulations must be revised to accommodate them.",
+        "C": "They are practical for limited purposes.",
+        "D": "They are appropriate for Malaga but not for Swansea.",
+        "answer": "C",
+        "detail": "<p>156. \u00d4ng Elias \u0111\u00e3 b\u00e0y t\u1ecf quan \u0111i\u1ec3m g\u00ec v\u1ec1 xe bu\u00fdt kh\u00f4ng ng\u01b0\u1eddi l\u00e1i?</p>\n<p>(A) Ch\u00fang kh\u00f4ng an to\u00e0n trong b\u1ea5t k\u1ef3 tr\u01b0\u1eddng h\u1ee3p n\u00e0o.</p>\n<p>(B) Lu\u1eadt l\u1ec7 giao th\u00f4ng c\u1ea7n \u0111\u01b0\u1ee3c ch\u1ec9nh s\u1eeda \u0111\u1ec3 s\u1eed d\u1ee5ng ch\u00fang.</p>\n<p>(C) Ch\u00fang r\u1ea5t thi\u1ebft th\u1ef1c cho m\u1ed9t v\u00e0i tr\u01b0\u1eddng h\u1ee3p nh\u1ea5t \u0111\u1ecbnh.</p>\n<p>(D) Ch\u00fang ph\u00f9 h\u1ee3p v\u1edbi Malaga nh\u01b0ng kh\u00f4ng ph\u00f9 h\u1ee3p v\u1edbi Swansea.</p>\n<p>\u00a0</p>"
+      },
+      {
+        "question": "What is indicated about Ms. Deepak?",
+        "number": "157",
+        "A": "She was recently elected to the Swansea Town Council.",
+        "B": "She collected data for a computer system.",
+        "C": "She took notes during an emergency meeting.",
+        "D": "She traveled to Malaga as a consultant.",
+        "answer": "D",
+        "detail": "<p><span>157. \u0110i\u1ec1u g\u00ec \u0111\u00e3 \u0111\u01b0\u1ee3c ch\u1ec9 ra v\u1ec1 c\u00f4 Deepak?</span></p><p><span>(A) C\u00f4 \u1ea5y v\u1eeba m\u1edbi \u0111\u01b0\u1ee3c ch\u1ecdn v\u00e0o H\u1ed9i \u0111\u1ed3ng Thanh ph\u1ed1 Swansea.</span></p><p><span>(B) C\u00f4 \u1ea5y thu th\u1eadp d\u1eef li\u1ec7u cho m\u1ed9t h\u1ec7 th\u1ed1ng m\u00e1y t\u00ednh.</span></p><p><span>(C) C\u00f4 \u1ea5y ghi ch\u00fa trong m\u1ed9t bu\u1ed5i h\u1ecdp kh\u1ea9n c\u1ea5p.</span></p><p><span>(D) C\u00f4 \u1ea5y \u0111\u1ebfn Malaga v\u1edbi t\u01b0 c\u00e1ch m\u1ed9t c\u1ed1 v\u1ea5n.</span></p><p><span></span></p>"
+      }
+    ]
+  },
+  {
+    "context_question_img": [
+      "https://study4.com/media/ets2023/img/9/image15.png"
+    ],
+    "context_transcript": "<p><b>D\u1ecbch ngh\u0129a:</b></p><p><span>Ph\u00f2ng th\u00ed nghi\u1ec7m Morves c\u1ee7a Seoul \u0111ang t\u00ecm ki\u1ebfm m\u1ed9t c\u1ed9ng t\u00e1c vi\u00ean nghi\u00ean c\u1ee9u khoa h\u1ecdc s\u1ebd h\u1ee3p t\u00e1c c\u00f9ng l\u00e0m vi\u1ec7c v\u1edbi m\u1ed9t nh\u00f3m c\u00e1c nh\u00e0 khoa h\u1ecdc kh\u00e1c trong B\u1ed9 ph\u1eadn Nghi\u00ean c\u1ee9u v\u00e0 Ph\u00e1t tri\u1ec3n.</span></p><p><span>Ph\u00f2ng th\u00ed nghi\u1ec7m Morves c\u00f3 h\u01a1n 85,000 nh\u00e2n vi\u00ean t\u1ea1i v\u0103n ph\u00f2ng v\u00e0 t\u1ea1i ph\u00f2ng th\u00ed nghi\u1ec7m \u1edf ch\u00e2u \u00c1, ch\u00e2u \u00c2u v\u00e0 B\u1eafc M\u1ef9, nh\u1eefng ng\u01b0\u1eddi tham gia v\u00e0o ph\u00e1t tri\u1ec3n, s\u1ea3n xu\u1ea5t v\u00e0 b\u00e1n nh\u1eefng lo\u1ea1i thu\u1ed1c ti\u00ean ti\u1ebfn nh\u1ea5t. B\u1ed9 ph\u1eadn Nghi\u00ean c\u1ee9u v\u00e0 Ph\u00e1t tri\u1ec3n c\u00f3 vai tr\u00f2 trong vi\u1ec7c \u0111\u1ea1t \u0111\u01b0\u1ee3c m\u1ee5c ti\u00eau c\u01a1 b\u1ea3n c\u1ee7a c\u00f4ng ty l\u00e0 t\u1ea1o ra c\u00e1c lo\u1ea1i thu\u1ed1c m\u1edbi v\u00e0 hi\u1ec7u qu\u1ea3 cho to\u00e0n th\u1ebf gi\u1edbi.</span></p><p><span>Ch\u1ee9c n\u0103ng c\u01a1 b\u1ea3n c\u1ee7a c\u00f4ng vi\u1ec7c:</span></p><p><span>\u2022Thi\u1ebft k\u1ebf v\u00e0 ti\u1ebfn h\u00e0nh c\u00e1c th\u00ed nghi\u1ec7m trong ph\u00f2ng th\u00ed nghi\u1ec7m.</span></p><p><span>\u2022Th\u1ef1c hi\u1ec7n ph\u00e2n t\u00edch d\u1eef li\u1ec7u nghi\u00eam ng\u1eb7t</span></p><p><span>\u2022H\u1ee3p t\u00e1c \u0111\u1ec3 vi\u1ebft b\u00e1o c\u00e1o chi ti\u1ebft</span></p><p><span>\u2022Tr\u00ecnh b\u00e0y k\u1ebft qu\u1ea3 nghi\u00ean c\u1ee9u n\u1ed9i b\u1ed9 v\u00e0 b\u00ean ngo\u00e0i cho kh\u00e1ch h\u00e0ng t\u1ea1i c\u00e1c cu\u1ed9c h\u1ecdp.</span></p><p><span>Y\u00eau c\u1ea7u cho v\u1ecb tr\u00ed:</span></p><p><span>\u2022C\u00f3 b\u1eb1ng Th\u1ea1c s\u0129 trong ng\u00e0nh Sinh h\u1ecdc</span></p><p><span>\u2022\u00cdt nh\u1ea5t 5 n\u0103m kinh nghi\u1ec7m l\u00e0m vi\u1ec7c t\u1ea1i ph\u00f2ng th\u00ed nghi\u1ec7m</span></p><p><span>\u2022K\u1ef9 n\u0103ng n\u00f3i v\u00e0 vi\u1ebft xu\u1ea5t s\u1eafc</span></p><p><span>\u0110\u1ec3 \u1ee9ng tuy\u1ec3n, n\u1ed9p b\u1ea3n s\u01a1 y\u1ebfu l\u00fd l\u1ecbch v\u00e0 th\u01b0 xin vi\u1ec7c t\u1ea1i www.morverslaboratories.co.kr/careers tr\u01b0\u1edbc ng\u00e0y 10 th\u00e1ng 11.</span></p>",
+    "questions": [
+      {
+        "question": "What does the job posting indicate about Morves Laboratories?",
+        "number": "158",
+        "A": "It offers excellent employee benefits.",
+        "B": "Its workforce is primarily based in Europe.",
+        "C": "Its main purpose is to develop new medicines.",
+        "D": "It partners with another company for product distribution.",
+        "answer": "C",
+        "detail": "<p><span>158. B\u00e0i \u0111\u0103ng vi\u1ec7c l\u00e0m \u0111\u00e3 ch\u1ec9 ra \u0111i\u1ec1u g\u00ec v\u1ec1 Ph\u00f2ng th\u00ed nghi\u1ec7m Morves?</span></p><p><span>(A) H\u1ecd cung c\u1ea5p ph\u00fac l\u1ee3i xu\u1ea5t s\u1eafc cho nh\u00e2n vi\u00ean.</span></p><p><span>(B) Nh\u00e2n l\u1ef1c ch\u1ee7 y\u1ebfu c\u1ee7a h\u1ecd \u1edf ch\u00e2u \u00c2u.</span></p><p><span>(C) M\u1ee5c \u0111\u00edch ch\u00ednh c\u1ee7a h\u1ecd l\u00e0 ph\u00e1t tri\u1ec3n nhi\u1ec1u thu\u1ed1c m\u1edbi.</span></p><p><span>(D) H\u1ecd l\u00e0m vi\u1ec7c v\u1edbi 1 c\u00f4ng ty kh\u00e1c \u0111\u1ec3 ph\u00e2n ph\u1ed1i s\u1ea3n ph\u1ea9m.</span></p>"
+      },
+      {
+        "question": "What is one responsibility of the position?",
+        "number": "159",
+        "A": "Analyzing information from experiments",
+        "B": "Designing safe packaging materials",
+        "C": "Operating manufacturing equipment",
+        "D": "Responding to patient inquiries",
+        "answer": "A",
+        "detail": "<p><span>159. \u0110\u00e2u l\u00e0 m\u1ed9t tr\u00e1ch nhi\u1ec7m c\u1ee7a v\u1ecb tr\u00ed n\u00e0y?</span></p><p><span>(A) Ph\u00e2n t\u00edch th\u00f4ng tin t\u1eeb c\u00e1c th\u00ed nghi\u1ec7m</span></p><p><span>(B) Thi\u1ebft k\u1ebf c\u00e1c v\u1eadt li\u1ec7u \u0111\u00f3ng g\u00f3i an to\u00e0n</span></p><p><span>(C) V\u1eadn h\u00e0nh c\u00e1c thi\u1ebft b\u1ecb s\u1ea3n xu\u1ea5t</span></p><p><span>(D) Ph\u1ea3n h\u1ed3i c\u00e1c th\u1eafc m\u1eafc c\u1ee7a b\u1ec7nh nh\u00e2n</span></p>"
+      },
+      {
+        "question": "According to the job posting, what should an applicant possess?",
+        "number": "160",
+        "A": "Knowledge of medical regulations",
+        "B": "Expertise in editing medical journals",
+        "C": "A background in teaching biology",
+        "D": "Experience working in a laboratory",
+        "answer": "D",
+        "detail": "<p><span>160. Theo nh\u01b0 b\u00e0i \u0111\u0103ng tuy\u1ec3n d\u1ee5ng, \u1ee9ng vi\u00ean c\u1ea7n \u0111\u00e1p \u1ee9ng \u0111i\u1ec1u g\u00ec?</span></p><p><span>(A) Hi\u1ec3u bi\u1ebft v\u1ec1 quy \u0111\u1ecbnh y t\u1ebf</span></p><p><span>(B) Chuy\u00ean v\u1ec1 vi\u1ec7c bi\u00ean t\u1eadp t\u1ea1p ch\u00ed y khoa</span></p><p><span>(C) C\u00f3 n\u1ec1n t\u1ea3ng d\u1ea1y m\u00f4n Sinh h\u1ecdc</span></p><p><span>(D) C\u00f3 kinh nghi\u1ec7m l\u00e0m vi\u1ec7c \u1edf ph\u00f2ng th\u00ed nghi\u1ec7m</span></p>"
+      },
+      {
+        "question": "How should someone apply for the position?",
+        "number": "161",
+        "A": "By visiting the company\u2019s offices",
+        "B": "By submitting a resume online",
+        "C": "By calling a recruiting professional",
+        "D": "By e-mailing a current employee",
+        "answer": "B",
+        "detail": "<p><span>161. \u1ee8ng vi\u00ean \u1ee9ng tuy\u1ec3n cho v\u1ecb tr\u00ed n\u00e0y nh\u01b0 th\u1ebf n\u00e0o?</span></p><p><span>(A) B\u1eb1ng c\u00e1ch \u0111\u1ebfn v\u0103n ph\u00f2ng c\u1ee7a c\u00f4ng ty</span></p><p><span>(B) B\u1eb1ng c\u00e1ch n\u1ed9p s\u01a1 y\u1ebfu l\u00fd l\u1ecbch tr\u1ef1c tuy\u1ebfn</span></p><p><span>(C) B\u1eb1ng c\u00e1ch g\u1ecdi chuy\u00ean vi\u00ean tuy\u1ec3n d\u1ee5ng</span></p><p><span>(D) B\u1eb1ng c\u00e1ch g\u1eedi e-mail cho m\u1ed9t nh\u00e2n vi\u00ean hi\u1ec7n t\u1ea1i c\u1ee7a c\u00f4ng ty</span></p><p><span></span></p>"
+      }
+    ]
+  },
+  {
+    "context_question_img": [
+      "https://study4.com/media/ets2023/img/9/image16.png"
+    ],
+    "context_transcript": "<p><b>D\u1ecbch ngh\u0129a:</b></p><p><span>\u0110\u1ebfn: <a class=\"__cf_email__\" data-cfemail=\"067263676b467469756372726f76677572672865696b286773\" href=\"/cdn-cgi/l/email-protection\">[email\u00a0protected]</a></span></p><p><span>T\u1eeb: <a class=\"__cf_email__\" data-cfemail=\"c4b2a5a8a1aab0adaaa59bb6abb7a1b0b0ad84b6abb7a1b0b0adb4a5b7b0a5eaa7aba9eaa5b1\" href=\"/cdn-cgi/l/email-protection\">[email\u00a0protected]</a></span></p><p><span>Ng\u00e0y: 20 th\u00e1ng 8</span></p><p><span>Ch\u1ee7 \u0111\u1ec1: C\u1eadp nh\u1eadt</span></p><p><span>Th\u00e2n g\u1eedi \u0111\u1ed9i,</span></p><p><span>V\u00e0i n\u0103m v\u1eeba qua \u0111\u00e3 tr\u00f4i qua r\u1ea5t nha --(1)--. N\u0103m n\u0103m v\u1eeba qua, khi t\u00f4i b\u1eaft \u0111\u1ea7u b\u00e1n m\u00f3n m\u1ef3 nh\u00e0 l\u00e0m c\u1ee7a m\u00ecnh, t\u00f4i ch\u01b0a bao gi\u1edd ngh\u0129 \u0111\u1ebfn vi\u1ec7c c\u1ea7n m\u1ed9t kh\u00f4ng gian l\u1edbn h\u01a1n c\u0103n b\u1ebfp c\u1ee7a m\u00ecnh t\u1ea1i nh\u00e0. M\u1ecdi th\u1ee9 \u0111\u00e3 thay \u0111\u1ed5i! Tu\u1ea7n n\u00e0y, doanh nghi\u1ec7p c\u1ee7a ch\u00fang ta \u0111\u00e3 tr\u00fang th\u1ea7u m\u1ed9t h\u1ee3p \u0111\u1ed3ng cung c\u1ea5p cho m\u1ed9t nh\u00e0 ph\u00e2n ph\u1ed1i th\u1ef1c ph\u1ea9m khu v\u1ef1c \u1edf \u0110\u00f4ng \u00dac.</span></p><p><span>Th\u00e0nh t\u00edch n\u00e0y ch\u1eafc ch\u1eafn s\u1ebd kh\u00f4ng th\u1ec3 \u0111\u1ea1t \u0111\u01b0\u1ee3c n\u1ebfu thi\u1ebfu b\u1ea1n. \u2013(2)--. T\u1ea5t c\u1ea3 c\u00e1c b\u1ea1n \u0111\u1ec1u \u0111\u00e3 l\u00e0m vi\u1ec7c ch\u0103m ch\u1ec9 \u0111\u1ec3 c\u00f3 th\u1ec3 theo k\u1ecbp \u0111\u01b0\u1ee3c t\u1ed1c \u0111\u1ed9 ph\u00e1t tri\u1ec3n m\u00e3nh li\u1ec7t, v\u00e0 \u0111i\u1ec1u n\u00e0y kh\u00f4ng ph\u1ea3i l\u00fac n\u00e0o c\u0169ng d\u1ec5 d\u00e0ng. \u0110\u1ec3 th\u1ec3 hi\u1ec7n s\u1ef1 c\u1ea3m k\u00edch c\u1ee7a m\u00ecnh, t\u00f4i quy\u1ebft \u0111\u1ecbnh r\u1eb1ng t\u1ea5t c\u1ea3 c\u00e1c b\u1ea1n \u0111\u1ec1u nh\u1eadn \u0111\u01b0\u1ee3c m\u1ed9t kho\u1ea3n ti\u1ec1n th\u01b0\u1edfng. \u2013(3)\u2014</span></p><p><span>V\u1edbi \u0111\u1ed9i ng\u0169 v\u1eefng v\u00e0ng v\u00e0 quy tr\u00ecnh s\u1ea3n xu\u1ea5t h\u1ee3p l\u00fd, t\u00f4i r\u1ea5t l\u1ea1c quan khi ngh\u0129 r\u1eb1ng ch\u00fang ta c\u00f3 th\u1ec3 nh\u00ecn th\u1ea5y s\u1ea3n ph\u1ea9m c\u1ee7a m\u00ecnh \u0111\u01b0\u1ee3c \u0111\u1eb7t tr\u00ean nhi\u1ec1u k\u1ec7 h\u00e0ng trong si\u00eau th\u1ecb h\u01a1n n\u1eefa. \u2013(4)--. T\u01b0\u01a1ng lai t\u01b0\u01a1i s\u00e1ng \u0111ang ch\u1edd ch\u00fang ta.</span></p><p><span>Ch\u00e2n th\u00e0nh,</span></p><p><span>Valentina Rosetti,</span></p><p><span>Gi\u00e1m \u0111\u1ed1c \u0110i\u1ec1u h\u00e0nh, C\u00f4ng ty TNHH Rosetti Pasta.</span></p>",
+    "questions": [
+      {
+        "question": "Why did Ms. Rosetti send the e-mail?",
+        "number": "162",
+        "A": "To thank employees",
+        "B": "To present a business plan",
+        "C": "To announce a postponement",
+        "D": "To request assistance with a project",
+        "answer": "A",
+        "detail": "<p><span>162. T\u1ea1i sao c\u00f4 Rosetti g\u1eedi e-mail?</span></p><p><span>(A) \u0110\u1ec3 c\u1ea3m \u01a1n nh\u00e2n vi\u00ean</span></p><p><span>(B) \u0110\u1ec3 tr\u00ecnh b\u00e0y k\u1ebf ho\u1ea1ch kinh doanh</span></p><p><span>(C) \u0110\u1ec3 th\u00f4ng b\u00e1o v\u1ec1 m\u1ed9t s\u1ef1 tr\u00ec ho\u00e3n</span></p><p><span>(D) \u0110\u1ec3 y\u00eau c\u1ea7u s\u1ef1 tr\u1ee3 gi\u00fap cho m\u1ed9t d\u1ef1 \u00e1n</span></p>"
+      },
+      {
+        "question": "What does Ms. Rosetti express confidence about?",
+        "number": "163",
+        "A": "The development of a new product line",
+        "B": "The potential for more company growth",
+        "C": "The success of an advertising campaign",
+        "D": "The possibility of replacing old machinery",
+        "answer": "B",
+        "detail": "<p><span>163. C\u00f4 Rosetti \u0111\u00e3 b\u00e0y t\u1ecf s\u1ef1 t\u1ef1 tin v\u1ec1 \u0111i\u1ec1u g\u00ec?</span></p><p><span>(A) S\u1ef1 ph\u00e1t tri\u1ec3n c\u1ee7a d\u00f2ng s\u1ea3n ph\u1ea9m m\u1edbi</span></p><p><span>(B) Ti\u1ec1m n\u0103ng ph\u00e1t tri\u1ec3n c\u1ee7a c\u00f4ng ty</span></p><p><span>(C) S\u1ef1 th\u00e0nh c\u00f4ng c\u1ee7a m\u1ed9t chi\u1ebfn d\u1ecbch qu\u1ea3ng c\u00e1o</span></p><p><span>(D) Kh\u1ea3 n\u0103ng thay th\u1ebf m\u00e1y m\u00f3c c\u0169</span></p>"
+      },
+      {
+        "question": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? \u201cIt will appear in your accounts on Friday.1\u2019",
+        "number": "164",
+        "A": "[1]",
+        "B": "[2]",
+        "C": "[3]",
+        "D": "[4]",
+        "answer": "C",
+        "detail": "<p><span>164. Trong c\u00e1c v\u1ecb tr\u00ed \u0111\u01b0\u1ee3c \u0111\u00e1nh d\u1ea5u [1], [2], [3], [4], v\u1ecb tr\u00ed n\u00e0o ph\u00f9 h\u1ee3p \u0111\u1ec3 \u0111i\u1ec1n c\u00e2u d\u01b0\u1edbi \u0111\u00e2y nh\u1ea5t?</span></p><p><span>\u201cN\u00f3 s\u1ebd xu\u1ea5t hi\u1ec7n trong t\u00e0i kho\u1ea3n c\u1ee7a b\u1ea1n v\u00e0o th\u1ee9 S\u00e1u ng\u00e0y 1\u201d</span></p><p><span>(A) [1]</span></p><p><span>(B) [2]</span></p><p><span>(C) [3]</span></p><p><span>(D) [4]</span></p><p><span>Gi\u1ea3i th\u00edch: C\u00e2u tr\u01b0\u1edbc n\u00f3i v\u1ec1 t\u1ea5t c\u1ea3 c\u00e1c th\u00e0nh vi\u00ean \u0111\u1ec1u \u0111\u01b0\u1ee3c nh\u1eadn m\u1ed9t kho\u1ea3n ti\u1ec1n th\u01b0\u1edfng. C\u00e2u trong \u0111\u1ec1 b\u00e0i: \u201cN\u00f3 s\u1ebd xu\u1ea5t hi\u1ec7n trong t\u00e0i kho\u1ea3n c\u1ee7a b\u1ea1n v\u00e0o th\u1ee9 S\u00e1u\u201d \uf0e0 N\u00f3 \u1edf \u0111\u00e2y l\u00e0 \u201ckho\u1ea3n ti\u1ec1n th\u01b0\u1edfng\u201d. V\u1eady, \u00fd ch\u00ednh c\u1ee7a \u0111o\u1ea1n s\u1ebd l\u00e0 c\u00e1c th\u00e0nh vi\u00ean s\u1ebd nh\u1eadn \u0111\u01b0\u1ee3c ti\u1ec1n th\u01b0\u1edfng v\u00e0 ti\u1ec1n th\u01b0\u1edfng s\u1ebd \u0111\u01b0\u1ee3c g\u1eedi \u0111\u1ebfn t\u00e0i kho\u1ea3n ng\u00e2n h\u00e0ng c\u00e1 nh\u00e2n v\u00e0o th\u1ee9 S\u00e1u.</span></p><p><span></span></p>"
+      }
+    ]
+  },
+  {
+    "context_question_img": [
+      "https://study4.com/media/ets2023/img/9/image17.png"
+    ],
+    "context_transcript": "<p><b>D\u1ecbch ngh\u0129a:</b></p><p><span>T\u1edbi: Sid Shepard</span></p><p><span>T\u1eeb: C\u00f4ng ty B\u1ea3o v\u1ec7</span></p><p><span>Ng\u00e0y: 2 th\u00e1ng 7</span></p><p><span>Ch\u1ee7 \u0111\u1ec1: Huy hi\u1ec7u nh\u1eadn d\u1ea1ng c\u1ee7a b\u1ea1n</span></p><p><span>G\u1eedi \u00f4ng Shepard,</span></p><p><span>Ch\u00fang t\u00f4i \u0111\u00e3 nh\u1eadn \u0111\u01b0\u1ee3c y\u00eau c\u1ea7u c\u1ee7a \u00f4ng v\u00e0o s\u00e1ng ng\u00e0y h\u00f4m nay v\u1ec1 vi\u1ec7c c\u1ea7n h\u1ed7 tr\u1ee3 \u0111\u1ec3 nh\u1eadn \u0111\u01b0\u1ee3c m\u1ed9t huy hi\u1ec7u nh\u1eadn d\u1ea1ng m\u1edbi. V\u00ec huy hi\u1ec7u hi\u1ec7n t\u1ea1i c\u1ee7a \u00f4ng b\u1ecb m\u1ea5t, n\u00f3 \u0111\u00e3 b\u1ecb v\u00f4 hi\u1ec7u h\u00f3a. \u0110\u1ec3 nh\u1eadn \u0111\u01b0\u1ee3c c\u00e1i thay th\u1ebf, h\u00e3y \u0111\u1ebfn v\u0103n ph\u00f2ng c\u00f4ng ty b\u1ea3o v\u1ec7 \u1edf s\u1ea3nh Paulsen t\u1eeb 7 gi\u1edd s\u00e1ng \u0111\u1ebfn 5 gi\u1edd 30 chi\u1ec1u. \u00d4ng s\u1ebd \u0111\u01b0\u1ee3c y\u00eau c\u1ea7u tr\u00ecnh m\u1ed9t gi\u1ea5y t\u1edd nh\u1eadn d\u1ea1ng do ch\u00ednh ph\u1ee7 c\u1ea5p.</span></p><p><span>Trong th\u1eddi gian \u0111\u00f3, \u00f4ng c\u00f3 th\u1ec3 s\u1eed d\u1ee5ng m\u1ed9t s\u00e1ng ki\u1ebfn m\u1edbi c\u1ee7a c\u00f4ng ty. \u1ee8ng d\u1ee5ng c\u1ee7a c\u00f4ng ty tr\u00ean to\u00e0n b\u1ed9 m\u00e1y \u0111i\u1ec7n tho\u1ea1i c\u1ee7a nh\u00e2n vi\u00ean hi\u1ec7n nay \u0111\u00e3 c\u00f3 m\u1ed9t th\u1ebb nh\u1eadn d\u1ea1ng \u0111i\u1ec7n t\u1eed c\u00f3 th\u1ec3 s\u1eed d\u1ee5ng \u0111\u1ec3 c\u00f3 \u0111\u01b0\u1ee3c truy c\u1eadp v\u00e0o nh\u00e0 \u0111\u1ec3 xe v\u00e0 khu\u00f4n vi\u00ean c\u00e1c t\u00f2a nh\u00e0. \u0110\u1ec3 truy c\u1eadp \u0111\u01b0\u1ee3c th\u1ebb nh\u1eadn d\u1ea1ng \u0111i\u1ec7n t\u1eed trong \u1ee9ng d\u1ee5ng, t\u00ecm ki\u1ebfm ph\u1ea7n \u201cID Card\u201d. \u00d4ng c\u00f3 th\u1ec3 qu\u00e9t th\u1ebb nh\u1eadn d\u1ea1ng \u0111i\u1ec7n t\u1eed n\u00e0y \u0111\u1ec3 v\u00e0o t\u1ea5t c\u1ea3 khu v\u1ef1c b\u1ea3o v\u1ec7.</span></p><p><span>N\u1ebfu \u00f4ng c\u00f3 th\u00eam c\u00e2u h\u1ecfi ho\u1eb7c c\u1ea7n th\u00eam tr\u1ee3 gi\u00fap g\u00ec, h\u00e3y g\u1ecdi c\u00f4ng ty b\u1ea3o v\u1ec7 theo s\u1ed1 863-555-0171.</span></p><p><span>C\u1ea3m \u01a1n,</span></p><p><span>C\u00f4ng ty B\u1ea3o v\u1ec7 C\u00f4ng ngh\u1ec7 Hopper</span></p>",
+    "questions": [
+      {
+        "question": "What is the purpose of the e-mail?",
+        "number": "165",
+        "A": "To respond to a request for help",
+        "B": "To promote the sale of a new product",
+        "C": "To alert authorities to a security problem",
+        "D": "To announce a new company policy",
+        "answer": "A",
+        "detail": "<p><span>165. M\u1ee5c \u0111\u00edch c\u1ee7a e-mail n\u00e0y l\u00e0 g\u00ec?</span></p><p><span>(A) \u0110\u1ec3 ph\u1ea3n h\u1ed3i m\u1ed9t y\u00eau c\u1ea7u tr\u1ee3 gi\u00fap</span></p><p><span>(B) \u0110\u1ec3 th\u00fac \u0111\u1ea9y vi\u1ec7c b\u00e1n m\u1ed9t s\u1ea3n ph\u1ea9m m\u1edbi</span></p><p><span>(C) \u0110\u1ec3 c\u1ea3nh b\u00e1o ch\u00ednh quy\u1ec1n v\u1ec1 m\u1ed9t v\u1ea5n \u0111\u1ec1 an ninh</span></p><p><span>(D) \u0110\u1ec3 c\u00f4ng b\u1ed1 m\u1ed9t ch\u00ednh s\u00e1ch m\u1edbi c\u1ee7a c\u00f4ng ty</span></p>"
+      },
+      {
+        "question": "What is suggested about Mr. Shepard?",
+        "number": "166",
+        "A": "He first contacted corporate security two days ago.",
+        "B": "He does not use the corporate parking garage.",
+        "C": "He does not know where Paulsen Hall is located,.",
+        "D": "He has the company app installed on his mobile device.",
+        "answer": "D",
+        "detail": "<p><span>166. \u0110i\u1ec1u g\u00ec \u0111\u01b0\u1ee3c g\u1ee3i \u00fd v\u1ec1 \u00f4ng Shepard?</span></p><p><span>(A) L\u1ea7n \u0111\u1ea7u ti\u00ean \u00f4ng \u1ea5y li\u00ean l\u1ea1c v\u1edbi b\u1ed9 ph\u1eadn an ninh c\u1ee7a c\u00f4ng ty l\u00e0 hai ng\u00e0y tr\u01b0\u1edbc.</span></p><p><span>(B) \u00d4ng \u1ea5y kh\u00f4ng s\u1eed d\u1ee5ng nh\u00e0 \u0111\u1ec3 xe c\u1ee7a c\u00f4ng ty.</span></p><p><span>(C) \u00d4ng \u1ea5y kh\u00f4ng bi\u1ebft Paulsen Hall t\u1ecda l\u1ea1c \u1edf \u0111\u00e2u.</span></p><p><span>(D) \u00d4ng \u1ea5y \u0111\u00e3 c\u00e0i \u0111\u1eb7t \u1ee9ng d\u1ee5ng c\u1ee7a c\u00f4ng ty tr\u00ean thi\u1ebft b\u1ecb di \u0111\u1ed9ng c\u1ee7a m\u00ecnh.</span></p>"
+      },
+      {
+        "question": "The word \u201cgain\u201d in paragraph 2, line 3, is closest in meaning to",
+        "number": "167",
+        "A": "win",
+        "B": "obtain",
+        "C": "collect",
+        "D": "increase",
+        "answer": "B",
+        "detail": "<p><span>167. T\u1eeb \u201cgain\u201d trong \u0111o\u1ea1n 2, d\u00f2ng 3, g\u1ea7n ngh\u0129a nh\u1ea5t v\u1edbi</span></p><p><span>(A) Th\u1eafng</span></p><p><span>(B) C\u00f3 \u0111\u01b0\u1ee3c</span></p><p><span>(C) Thu th\u1eadp</span></p><p><span>(D) T\u0103ng</span></p><p><span></span></p>"
+      }
+    ]
+  },
+  {
+    "context_question_img": [
+      "https://study4.com/media/ets2023/img/9/image18.png"
+    ],
+    "context_transcript": "<p><b>D\u1ecbch ngh\u0129a:</b></p><p><span>Margo Basset [9:16 SA]: Xin ch\u00e0o All. Ch\u00fang ta \u0111\u00e3 b\u00e0n l\u1ecbch tr\u00ecnh cho lo\u1ea1t b\u1eefa \u0103n tr\u01b0a h\u00e0ng tu\u1ea7n New Assets cho c\u00e1c nh\u00e2n vi\u00ean m\u1edbi c\u1ee7a m\u00ecnh \u0111\u1ebfn \u0111\u00e2u r\u1ed3i nh\u1ec9?</span></p><p><span>Stephan Ruess [9:18 SA]: Ch\u00fang ta \u0111\u00e3 ho\u00e0n thi\u1ec7n ch\u1ee7 \u0111\u1ec1 c\u00e1c ph\u1ea7n. T\u00f4i tin r\u1eb1ng ch\u00fang ta \u0111\u00e3 x\u00e1c nh\u1eadn 1 di\u1ec5n gi\u1ea3.</span></p><p><span>Allban Mithat [9:20 SA]: \u0110\u00fang r\u1ed3i \u0111\u00f3. Salima Abunakar t\u1eeb v\u0103n ph\u00f2ng ngo\u1ea1i \u00f4 ph\u00eda b\u1eafc \u0111\u00e3 \u0111\u1ed3ng \u00fd ch\u1ecbu tr\u00e1ch nhi\u1ec7m ph\u1ea7n \u0111\u1ea7u ti\u00ean c\u1ee7a lo\u1ea1t n\u00e0y.</span></p><p><span>Margo Basset [9:24 SA]: Th\u1eadt tuy\u1ec7t v\u1eddi. C\u00f4 \u1ea5y c\u00f3 th\u1ec3 di\u1ec5n thuy\u1ebft v\u00e0o ng\u00e0y 10 th\u00e1ng S\u00e1u nh\u01b0 ch\u00fang ta \u0111\u00e3 l\u00ean k\u1ebf ho\u1ea1ch ch\u1ee9?</span></p><p><span>Allban Mithat [9:26 SA]: C\u00f4 \u1ea5y c\u00f3 v\u00e0 c\u00f4 \u1ea5y \u0111\u1ec1 xu\u1ea5t r\u1eb1ng th\u1ea3o lu\u1eadn nh\u00f3m s\u1ebd g\u1eafn k\u1ebft h\u01a1n d\u00e0nh cho ch\u1ee7 \u0111\u1ec1 c\u1ee7a c\u00f4 \u1ea5y \u2013 n\u0103ng l\u01b0\u1ee3ng t\u00e1i t\u1ea1o. C\u00f4 \u1ea5y s\u1ebd ti\u1ebft ch\u1ebf ph\u1ea7n th\u1ea3o lu\u1eadn. T\u00f4i \u0111\u00e3 g\u1eedi email cho 3 nh\u00e2n vi\u00ean m\u00e0 c\u00f4 \u1ea5y \u0111\u1ec1 xu\u1ea5t l\u00e0m tham lu\u1eadn vi\u00ean.</span></p><p><span>Margo Basset [9:27 SA]: Nghe tuy\u1ec7t \u0111\u00f3. Th\u1ebf c\u00f2n c\u00e1c ph\u1ea7n kh\u00e1c th\u00ec sao?</span></p><p><span>Stephan Ruess [9:28 SA]: C\u00e1c ch\u1ee7 \u0111\u1ec1 cho 6 ph\u1ea7n kh\u00e1c s\u1ebd l\u00e0 ti\u1ec1n \u0111i\u1ec7n t\u1eed, h\u00e0ng h\u00f3a, \u0111\u1ea7u t\u01b0, kh\u1edfi nghi\u1ec7p, b\u1ea5t \u0111\u1ed9ng s\u1ea3n v\u00e0 giao di\u1ec7n \u1ea3o. T\u00f4i mong s\u1ebd c\u00f3 danh s\u00e1ch di\u1ec5n gi\u1ea3 v\u00e0o cu\u1ed1i tu\u1ea7n n\u00e0y.</span></p><p><span>Margo Basset [9:31 SA]: V\u00e0 ch\u00fang s\u1ebd \u0111\u1ec1u \u0111\u01b0\u1ee3c t\u1ed5 ch\u1ee9c t\u1ea1i v\u0103n ph\u00f2ng trung t\u00e2m th\u00e0nh ph\u1ed1.</span></p><p><span>Stephan Ruess [9:32 SA]: Ch\u00ednh x\u00e1c. 4 trong 7 nh\u00e2n vi\u00ean m\u1edbi \u0111ang \u0111\u01b0\u1ee3c t\u1ea1m th\u1eddi ch\u1ec9 \u0111\u1ecbnh l\u00e0m vi\u1ec7c \u1edf v\u0103n ph\u00f2ng trung t\u00e2m th\u00e0nh ph\u1ed1. C\u00e1c nh\u00e2n vi\u00ean m\u1edbi c\u00f2n l\u1ea1i s\u1ebd c\u00f3 m\u1eb7t \u1edf \u0111\u00f3 \u0111\u1ec3 \u0111\u01b0\u1ee3c \u0111\u00e0o t\u1ea1o b\u1eaft bu\u1ed9c.</span></p>",
+    "questions": [
+      {
+        "question": "What is suggested about the New Assets lunch session on June 10 ?",
+        "number": "168",
+        "A": "It will be led by Ms. Abubakar.",
+        "B": "It will be introduced by Mr. Mithat.",
+        "C": "It will feature Ms. Basset.",
+        "D": "It will include information about cryptocurrencies.",
+        "answer": "A",
+        "detail": "<p><span>168. \u0110i\u1ec1u g\u00ec \u0111\u01b0\u1ee3c ch\u1ec9 ra t\u1eeb bu\u1ed5i \u0103n tr\u01b0a New Assets ng\u00e0y 10 th\u00e1ng 6?</span></p><p><span>(A) N\u00f3 s\u1ebd \u0111\u01b0\u1ee3c d\u1eabn d\u1eaft b\u1edfi c\u00f4 Abubakar.</span></p><p><span>(B) N\u00f3 s\u1ebd \u0111\u01b0\u1ee3c gi\u1edbi thi\u1ec7u b\u1edfi \u00f4ng Mithat.</span></p><p><span>(C) N\u00f3 s\u1ebd \u0111\u01b0\u1ee3c tr\u00ecnh b\u00e0y b\u1edfi c\u00f4 Basset.</span></p><p><span>(D) N\u00f3 s\u1ebd bao g\u1ed3m th\u00f4ng tin v\u1ec1 ti\u1ec1n \u0111i\u1ec7n t\u1eed.</span></p>"
+      },
+      {
+        "question": "At 9:27 A.M., what does Ms. Basset mean when she writes, \u201cThat sounds good\u201d?",
+        "number": "169",
+        "A": "She is eager to attend the New Assets funch series.",
+        "B": "She approves of Ms. Abubakar's idea.",
+        "C": "She is pleased with all the session topics.",
+        "D": "She looks forward to meeting the recently hired employees.",
+        "answer": "B",
+        "detail": "<p><span>169. V\u00e0o 9:27 SA, c\u00f4 Basset c\u00f3 \u00fd g\u00ec khi n\u00f3i \u201cThat sounds good\u201d?</span></p><p><span>(A) C\u00f4 \u1ea5y h\u00e1o h\u1ee9c tham d\u1ef1 lo\u1ea1t tr\u00f2 vui c\u1ee7a New Assets.</span></p><p><span>(B) C\u00f4 \u1ea5y t\u00e1n th\u00e0nh \u00fd t\u01b0\u1edfng c\u1ee7a c\u00f4 Abubakar.</span></p><p><span>(C) C\u00f4 \u1ea5y h\u00e0i l\u00f2ng v\u1edbi t\u1ea5t c\u1ea3 c\u00e1c ch\u1ee7 \u0111\u1ec1 c\u1ee7a bu\u1ed5i h\u1ecdc.</span></p><p><span>(D) C\u00f4 \u1ea5y mong \u0111\u01b0\u1ee3c g\u1eb7p nh\u1eefng nh\u00e2n vi\u00ean m\u1edbi \u0111\u01b0\u1ee3c thu\u00ea.</span></p>"
+      },
+      {
+        "question": "How many sessions still need speakers?",
+        "number": "170",
+        "A": "One",
+        "B": "Three",
+        "C": "Four",
+        "D": "Six",
+        "answer": "D",
+        "detail": "<p><span>170. C\u00f2n bao nhi\u00eau ph\u1ea7n n\u1eefa c\u1ea7n t\u00ecm di\u1ec5n gi\u1ea3?</span></p><p><span>(A) M\u1ed9t</span></p><p><span>(B) Ba</span></p><p><span>(C) B\u1ed1n</span></p><p><span>(D) S\u00e1u</span></p>"
+      },
+      {
+        "question": "What is true about the New Assets lunch series?",
+        "number": "171",
+        "A": "It is the main component of employee training.",
+        "B": "It will be held in the same location every week.",
+        "C": "It will consist exclusively of panel discussions.",
+        "D": "It will include presenters from outside the company.",
+        "answer": "B",
+        "detail": "<p><span>171. \u0110i\u1ec1u g\u00ec \u0111\u00fang v\u1ec1 lo\u1ea1t b\u1eefa \u0103n tr\u01b0a New Assets?</span></p><p><span>(A) N\u00f3 l\u00e0 ph\u1ea7n ch\u00ednh c\u1ee7a bu\u1ed5i \u0111\u00e0o t\u1ea1o nh\u00e2n vi\u00ean.</span></p><p><span>(B) N\u00f3 s\u1ebd \u0111\u01b0\u1ee3c t\u1ed5 ch\u1ee9c \u1edf c\u00f9ng m\u1ed9t \u0111\u1ecba \u0111i\u1ec3m h\u00e0ng tu\u1ea7n.</span></p><p><span>(C) N\u00f3 s\u1ebd ch\u1ec9 bao g\u1ed3m c\u00e1c cu\u1ed9c th\u1ea3o lu\u1eadn nh\u00f3m.</span></p><p><span>(D) N\u00f3 s\u1ebd bao g\u1ed3m nh\u1eefng ng\u01b0\u1eddi tr\u00ecnh b\u00e0y t\u1eeb b\u00ean ngo\u00e0i c\u00f4ng ty.</span></p><p><span></span></p>"
+      }
+    ]
+  },
+  {
+    "context_question_img": [
+      "https://study4.com/media/ets2023/img/9/image19.png"
+    ],
+    "context_transcript": "<p><b>D\u1ecbch ngh\u0129a:</b></p><p><span>Tr\u00ecnh b\u00e0y k\u1ebft qu\u1ea3 nghi\u00ean c\u1ee9u</span></p><p><span>GALWAY (1 th\u00e1ng 7) \u2013 Eva Urban v\u00e0 \u0111\u1ed9i nghi\u00ean c\u1ee9u c\u1ee7a c\u00f4 \u1ea5y t\u1ea1i Hi\u1ec7p h\u1ed9i N\u00f4ng nghi\u1ec7p Ireland \u0111\u00e3 tr\u00ecnh b\u00e0y k\u1ebft qu\u1ea3 nghi\u00ean c\u1ee9u cho B\u1ed9 Giao th\u00f4ng c\u1ee7a Galway v\u00e0o th\u1ee9 N\u0103m. Trong v\u00f2ng nghi\u00ean c\u1ee9u 3 ng\u00e0y, \u0111\u1ed9i \u0111\u00e3 \u0111\u01b0\u1ee3c giao nhi\u1ec7m v\u1ee5 t\u00ecm ki\u1ebfm c\u00e1ch \u0111\u1ec3 ph\u00e1t tri\u1ec3n s\u1ef1 th\u00e0nh c\u00f4ng c\u1ee7a vi\u1ec7c tr\u1ed3ng c\u00e2y, b\u1ee5i c\u00e2y d\u1ecdc \u0111\u01b0\u1eddng \u0111i.--(1)--</span></p><p><span>\u201c\u0110\u1ea5t xung quanh nh\u1eefng con \u0111\u01b0\u1eddng m\u1edbi tr\u1ea3i nh\u1ef1a th\u00ec th\u01b0\u1eddng b\u1ecb n\u00e9n ch\u1eb7t b\u1edfi c\u00e1c lo\u1ea1i m\u00e1y m\u00f3c h\u1ea1ng n\u1eb7ng li\u00ean quan t\u1edbi vi\u1ec7c x\u00e2y d\u1ef1ng.\u201d c\u00f4 Urban n\u00f3i. \u201cH\u1eadu qu\u1ea3 l\u00e0 \u0111\u1ea5t kh\u00f4ng th\u1ec3 h\u1ea5p th\u1ee5 n\u01b0\u1edbc hay c\u00e1c ch\u1ea5t dinh d\u01b0\u1ee1ng, \u0111i\u1ec1u n\u00e0y khi\u1ebfn c\u00e1c s\u1ef1 ph\u00e1t tri\u1ec3n m\u1edbi r\u1ea5t kh\u00f3 \u0111\u1ec3 t\u1ef1 c\u00f3 th\u1ec3 thi\u1ebft l\u1eadp. \u2013(2)\u2014\u0110\u1ed9i c\u1ee7a t\u00f4i \u0111\u00e3 s\u1eafp \u0111\u1eb7t c\u00e1c l\u00f4 th\u00ed nghi\u1ec7m d\u1ecdc \u0111\u01b0\u1eddng cao t\u1ed1c v\u00e0 th\u1eed c\u00e1c lo\u1ea1i k\u1ebft h\u1ee3p kh\u00e1c nhau v\u1ec1 c\u00e1ch tr\u1ed3ng c\u00e2y, x\u1edbi \u0111\u1ea5t v\u00e0 s\u1eed d\u1ee5ng c\u00e1c lo\u1ea1i \u0111\u1ea5t kh\u00e1c nhau \u0111\u1ec3 quy\u1ebft \u0111\u1ecbnh c\u00e1i n\u00e0o s\u1ebd hi\u1ec7u qu\u1ea3.K\u1ebft qu\u1ea3 cu\u1ed1i c\u00f9ng c\u1ee7a d\u1ef1 \u00e1n \u0111\u01b0\u1ee3c ch\u00ednh ph\u1ee7 t\u00e0i tr\u1ee3 n\u00e0y \u0111\u01b0\u1ee3c g\u00f3i g\u1ecdn trong m\u1ed9t quy\u1ec3n s\u00e1ch 50 trang. M\u1eb7c d\u00f9 cu\u1ed1n s\u00e1ch \u0111\u01b0\u1ee3c vi\u1ebft \u0111\u1eb7c bi\u1ec7t cho B\u1ed9 giao th\u00f4ng Galway, nh\u1eefng \u0111\u1ec1 xu\u1ea5t c\u00f3 th\u1ec3 \u0111\u01b0\u1ee3c \u00e1p d\u1ee5ng b\u1edfi c\u00e1c c\u01a1 quan th\u00e0nh ph\u1ed1 kh\u00e1c to\u00e0n qu\u1ed1c.--(3)--</span></p><p><span>\u201cT\u1eebng ch\u01b0\u01a1ng nghi\u00ean c\u1ee9u v\u1ec1 1 trong 10 gi\u1ea3i ph\u00e1p t\u1ed1t nh\u1ea5t \u0111\u01b0\u1ee3c ch\u1ec9 ra b\u1edfi c\u1ea3 nh\u00f3m\u201d, c\u00f4 Urban n\u00f3i. \u201cNh\u1eefng ph\u01b0\u01a1ng ph\u00e1p \u0111\u01a1n gi\u1ea3n n\u00e0y s\u1ebd ph\u00f9 h\u1ee3p v\u1edbi b\u1ea5t k\u1ec3 n\u01a1i n\u00e0o m\u00e0 n\u00f3 \u0111\u01b0\u1ee3c \u00e1p d\u1ee5ng. Ph\u1ea7n duy nh\u1ea5t m\u00e0 ph\u1ee5 thu\u1ed9c v\u00e0o n\u01a1i \u00e1p d\u1ee5ng c\u1ee5 th\u1ec3 \u0111\u00f3 l\u00e0 ph\u1ea7n l\u1ef1a ch\u1ecdn c\u00e2y tr\u1ed3ng, v\u00ec n\u00f3 s\u1ebd ph\u1ee5 thu\u1ed9c v\u00e0o t\u00ecnh h\u00ecnh \u0111\u1ecba l\u00fd c\u1ee5 th\u1ec3.\u201d</span></p><p><span>M\u1ed9t \u0111i\u1ec3m \u0111\u00e3 \u0111\u01b0\u1ee3c truy\u1ec1n \u0111\u1ea1t trong nghi\u00ean c\u1ee9u l\u00e0 vi\u1ec7c th\u00e0nh l\u1eadp vi\u1ec7c tr\u1ed3ng c\u00e2y n\u00e0y c\u1ea7n c\u00e1c c\u00e1ch ti\u1ebfp c\u1eadn t\u00edch h\u1ee3p. \u2013(4)--. C\u1ea3i thi\u1ec7n vi\u1ec7c tr\u1ed3ng c\u00e2y ven \u0111\u01b0\u1eddng \u0111\u00f2i h\u1ecfi ph\u1ea3i \u0111\u00e1nh gi\u00e1 k\u1ef9 l\u01b0\u1ee1ng t\u00ecnh tr\u1ea1ng hi\u1ec7n t\u1ea1i c\u1ee7a \u0111\u1ecba \u0111i\u1ec3m c\u0169ng nh\u01b0 nhi\u1ec1u bi\u1ec7n ph\u00e1p qu\u1ea3n l\u00fd kh\u00e1c nhau \u0111\u1ec3 gi\u1ea3i quy\u1ebft t\u1eebng v\u1ea5n \u0111\u1ec1 li\u00ean quan.</span></p>",
+    "questions": [
+      {
+        "question": "What is the subject of the research discussed in the article?",
+        "number": "172",
+        "A": "Keeping vegetation alive along roadways",
+        "B": "Preventing damage to highway surfaces",
+        "C": "Advocating for the use of native plants",
+        "D": "Improving roadside visibility for drivers",
+        "answer": "A",
+        "detail": "<p><span>172. Ch\u1ee7 \u0111\u1ec1 nghi\u00ean c\u1ee9u \u0111\u01b0\u1ee3c th\u1ea3o lu\u1eadn trong b\u00e0i b\u00e1o l\u00e0 g\u00ec?</span></p><p><span>(A) Gi\u1eef cho th\u1ea3m th\u1ef1c v\u1eadt s\u1ed1ng d\u1ecdc theo c\u00e1c con \u0111\u01b0\u1eddng</span></p><p><span>(B) Ng\u0103n ch\u1eb7n thi\u1ec7t h\u1ea1i cho b\u1ec1 m\u1eb7t \u0111\u01b0\u1eddng cao t\u1ed1c</span></p><p><span>(C) V\u1eadn \u0111\u1ed9ng cho vi\u1ec7c s\u1eed d\u1ee5ng th\u1ef1c v\u1eadt b\u1ea3n \u0111\u1ecba</span></p><p><span>(D) C\u1ea3i thi\u1ec7n t\u1ea7m nh\u00ecn b\u00ean \u0111\u01b0\u1eddng cho ng\u01b0\u1eddi l\u00e1i xe</span></p>"
+      },
+      {
+        "question": "Why does Ms. Urban mention heavy machinery?",
+        "number": "173",
+        "A": "To explain why plants may grow poorly in some soil",
+        "B": "To argue that roads can be built more efficiently",
+        "C": "To suggest that road maintenance crews should be careful with young plants",
+        "D": "To describe equipment used by her research team",
+        "answer": "A",
+        "detail": "<p><span>173. T\u1ea1i sao c\u00f4 Urban \u0111\u1ec1 c\u1eadp \u0111\u1ebfn m\u00e1y m\u00f3c h\u1ea1ng n\u1eb7ng?</span></p><p><span>(A) \u0110\u1ec3 gi\u1ea3i th\u00edch t\u1ea1i sao th\u1ef1c v\u1eadt c\u00f3 th\u1ec3 ph\u00e1t tri\u1ec3n k\u00e9m trong m\u1ed9t s\u1ed1 lo\u1ea1i \u0111\u1ea5t</span></p><p><span>(B) \u0110\u1ec3 tranh lu\u1eadn r\u1eb1ng nh\u1eefng con \u0111\u01b0\u1eddng c\u00f3 th\u1ec3 \u0111\u01b0\u1ee3c x\u00e2y d\u1ef1ng hi\u1ec7u qu\u1ea3 h\u01a1n</span></p><p><span>(C) \u0110\u1ec3 g\u1ee3i \u00fd r\u1eb1ng \u0111\u1ed9i b\u1ea3o tr\u00ec \u0111\u01b0\u1eddng n\u00ean c\u1ea9n th\u1eadn v\u1edbi c\u00e2y non</span></p><p><span>(D) \u0110\u1ec3 m\u00f4 t\u1ea3 thi\u1ebft b\u1ecb \u0111\u01b0\u1ee3c s\u1eed d\u1ee5ng b\u1edfi nh\u00f3m nghi\u00ean c\u1ee9u c\u1ee7a c\u00f4 \u1ea5y</span></p>"
+      },
+      {
+        "question": "In the article, what is indicated about a handbook?",
+        "number": "174",
+        "A": "It is only ten pages long.",
+        "B": "It will be distributed to the public.",
+        "C": "It was the subject of a local dispute.",
+        "D": "It is appropriate for use in other parts of the country.",
+        "answer": "D",
+        "detail": "<p><span>174. Trong b\u00e0i vi\u1ebft, cu\u1ed1n s\u1ed5 tay \u0111\u01b0\u1ee3c ch\u1ec9 ra l\u00e0 g\u00ec?</span></p><p><span>(A) N\u00f3 ch\u1ec9 d\u00e0i m\u01b0\u1eddi trang.</span></p><p><span>(B) N\u00f3 s\u1ebd \u0111\u01b0\u1ee3c ph\u00e2n ph\u00e1t cho c\u00f4ng ch\u00fang.</span></p><p><span>(C) \u0110\u00f3 l\u00e0 ch\u1ee7 \u0111\u1ec1 c\u1ee7a m\u1ed9t tranh ch\u1ea5p \u0111\u1ecba ph\u01b0\u01a1ng.</span></p><p><span>(D) N\u00f3 ph\u00f9 h\u1ee3p \u0111\u1ec3 s\u1eed d\u1ee5ng \u1edf c\u00e1c v\u00f9ng kh\u00e1c c\u1ee7a \u0111\u1ea5t n\u01b0\u1edbc.</span></p>"
+      },
+      {
+        "question": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? \u201cIn other words, one action is not enough.\u201d",
+        "number": "175",
+        "A": "[1]",
+        "B": "[2]",
+        "C": "[3]",
+        "D": "[4]",
+        "answer": "D",
+        "detail": "<p><span>175. C\u00e2u n\u00e0o \u0111\u00fang nh\u1ea5t trong c\u00e1c v\u1ecb tr\u00ed \u0111\u01b0\u1ee3c \u0111\u00e1nh d\u1ea5u [1], [2], [3], [4]?</span></p><p><span>\u201cN\u00f3i c\u00e1ch kh\u00e1c, m\u1ed9t h\u00e0nh \u0111\u1ed9ng l\u00e0 kh\u00f4ng \u0111\u1ee7.\u201d</span></p><p><span>(A) [1]</span></p><p><span>(B) [2]</span></p><p><span>(C) [3]</span></p><p><span>(D) [4]</span></p><p><span>Gi\u1ea3i th\u00edch: C\u00e2u tr\u01b0\u1edbc: \u201c\u2026 c\u1ea7n c\u00e1ch ti\u1ebfp c\u1eadn t\u00edch h\u1ee3p\u201d \uf0e0 C\u1ea7n nhi\u1ec1u h\u01a1n 1 c\u00e1ch ti\u1ebfp c\u1eadn</span></p><p><span>C\u00e2u sau: \u201c\u2026 c\u1ea7n \u0111\u00e1nh gi\u00e1 t\u00ecnh tr\u1ea1ng hi\u1ec7n t\u1ea1i \u2026 c\u0169ng nh\u01b0 nhi\u1ec1u bi\u1ec7n ph\u00e1p qu\u1ea3n l\u00fd kh\u00e1c nhau\u201d</span></p><p><span></span></p><p><span></span></p>"
+      }
+    ]
+  },
+  {
+    "context_question_img": [
+      "https://study4.com/media/ets2023/img/9/image20.png",
+      "https://study4.com/media/ets2023/img/9/image21.png"
+    ],
+    "context_transcript": "<p><b>D\u1ecbch ngh\u0129a:</b></p><p><span>T\u00ean kh\u00e1ch h\u00e0ngMaureen Shibata</span></p><p><span>C\u00f4ng tyHi\u1ec7p h\u1ed9i Khu ph\u1ed1 Gardendale (GNA)</span></p><p><span>\u0110\u1ecba ch\u1ec94069 \u0111\u01b0\u1eddng Strother, Gardendale, PA 19061</span></p><p><span>S\u1ed1 \u0111i\u1ec7n tho\u1ea1<a class=\"__cf_email__\" data-cfemail=\"58316c606c756d6d6d7568696d6a1d35393134352b30313a392c39183f392a3c3d363c39343d363976372a3f\" href=\"/cdn-cgi/l/email-protection\">[email\u00a0protected]</a></span></p><p><span>Ng\u00e0y s\u1ef1 ki\u1ec7n15 th\u00e1ng 12Ng\u00e0y t\u1edbi h\u1ea1n13 th\u00e1ng 12</span></p><p><span>M\u00f4 t\u1ea3S\u1ed1 l\u01b0\u1ee3ngGi\u00e1</span></p><p><span>\u0110\u0129a rau s\u1ed1ng \u0103n k\u00e8m c\u00f9ng s\u1ed1t ch\u1ea5m5$125.00</span></p><p><span>G\u00e0 xi\u00ean n\u01b0\u1edbng (khay)5$150.00</span></p><p><span>B\u00e1nh tart m\u1eb7n (khay)5$175.00</span></p><p><span>B\u00e1nh s\u00f4 c\u00f4 la nh\u1ecf (trang tr\u00ed theo y\u00eau c\u1ea7u) 50$250.00</span></p><p><span>T\u1ea0M T\u1ed4NG$700.00</span></p><p><span>\u0110\u1eb7t c\u1ecdc (nh\u1eadn 25/11)-$200.00</span></p><p><span>C\u00f2n l\u1ea1i$500</span></p><p><span>Nh\u1eadn x\u00e9t ho\u1eb7c h\u01b0\u1edbng d\u1eabn \u0111\u1eb7c bi\u1ec7t:</span></p><p><span>Xem email ng\u00e0y 30/11 c\u1ee7a c\u00f4 Shibata v\u1ec1 thi\u1ebft k\u1ebf b\u00e1nh. \u0110\u00e2y s\u1ebd d\u00e0nh cho bu\u1ed5i chi\u00eau \u0111\u00e3i h\u00e0ng n\u0103m c\u1ee7a GNA.</span></p><p><span></span></p><p><span>\u2014-----------------------</span></p><p><span></span></p><p><span>GARDENDALE (20/12) - Gardendale Neighborhood Association (GNA) \u0111\u00e3 vinh danh Th\u1ecb tr\u01b0\u1edfng Karla Fugate t\u1ea1i bu\u1ed5i chi\u00eau \u0111\u00e3i th\u01b0\u1eddng ni\u00ean v\u00e0o th\u1ee9 B\u1ea3y tu\u1ea7n tr\u01b0\u1edbc. Th\u1ecb tr\u01b0\u1edfng Fugate \u0111\u00e3 \u0111\u01b0\u1ee3c y\u00eau c\u1ea7u \u0111\u1ecdc m\u1ed9t b\u00e0i ph\u00e1t bi\u1ec3u ng\u1eafn v\u1ec1 k\u1ebf ho\u1ea1ch x\u00e2y d\u1ef1ng m\u1ed9t trung t\u00e2m gi\u1ea3i tr\u00ed m\u1edbi c\u1ee7a th\u00e0nh ph\u1ed1, sau \u0111\u00f3 b\u00e0 \u0111\u01b0\u1ee3c trao m\u1ed9t t\u1ea5m b\u1ea3ng \u0111\u1eb7c bi\u1ec7t \u0111\u1ec3 c\u1ea3m \u01a1n vai tr\u00f2 c\u1ee7a b\u00e0 trong d\u1ef1 \u00e1n C\u00f4ng vi\u00ean Westside. Theo ch\u1ee7 t\u1ecbch GNA, \u00f4ng Manuel Yuen, ''Th\u1ecb tr\u01b0\u1edfng Fugate \u0111\u00e3 c\u00f3 c\u00f4ng l\u1edbn trong vi\u1ec7c l\u00e0m cho l\u1ec5 h\u1ed9i g\u00e2y qu\u1ef9 n\u0103m ngo\u00e1i cho c\u00f4ng vi\u00ean th\u00e0nh c\u00f4ng r\u1ef1c r\u1ee1.'' L\u1ec5 h\u1ed9i quy\u00ean g\u00f3p \u0111\u01b0\u1ee3c h\u00e0ng ngh\u00ecn \u0111\u00f4 nhi\u1ec1u h\u01a1n so v\u1edbi GNA d\u1ef1 ki\u1ebfn. ''\u0110\u00f3 l\u00e0 m\u1ed9t b\u1ea5t ng\u1edd th\u00fa v\u1ecb,'' Th\u1ecb tr\u01b0\u1edfng Fugate n\u00f3i. Th\u1ecb tr\u01b0\u1edfng ti\u1ebfp t\u1ee5c: \u201cCh\u00fang t\u00f4i \u0111\u1eb7t ra cho m\u00ecnh m\u1ed9t nhi\u1ec7m v\u1ee5 kh\u00f3 kh\u0103n v\u1edbi d\u1ef1 \u00e1n c\u00f4ng vi\u00ean, nh\u01b0ng m\u1ecdi ng\u01b0\u1eddi trong GNA v\u00e0 c\u1ed9ng \u0111\u1ed3ng n\u00f3i chung \u0111\u00e3 ho\u00e0n th\u00e0nh xu\u1ea5t s\u1eafc. L\u1ec5 \u0111\u00f3n GNA \u0111\u01b0\u1ee3c t\u1ed5 ch\u1ee9c t\u1ea1i Gardendale Botanical Garden, n\u01a1i c\u00f3 khung c\u1ea3nh tuy\u1ec7t \u0111\u1eb9p. Th\u1ee9c \u0103n \u0111\u01b0\u1ee3c cung c\u1ea5p b\u1edfi Dawn Sky Catering, bao g\u1ed3m m\u1ed9t chi\u1ebfc b\u00e1nh s\u00f4 c\u00f4 la ri\u00eang cho m\u1ed7i kh\u00e1ch \u0111\u01b0\u1ee3c trang tr\u00ed b\u1eb1ng logo GNA.</span></p>",
+    "questions": [
+      {
+        "question": "What does the invoice suggest about Ms. Shibata?",
+        "number": "176",
+        "A": "She will be the guest of honor at an event.",
+        "B": "She charged the GNAfor its catering order.",
+        "C": "She is the organizer of the GNA\u2019s reception.",
+        "D": "She will be decorating some cakes herself.",
+        "answer": "C",
+        "detail": "<p><span>176. H\u00f3a \u0111\u01a1n g\u1ee3i \u00fd \u0111i\u1ec1u g\u00ec v\u1ec1 c\u00f4 Shibata?</span></p><p><span>(A) C\u00f4 \u1ea5y s\u1ebd l\u00e0 kh\u00e1ch m\u1eddi danh d\u1ef1 t\u1ea1i m\u1ed9t s\u1ef1 ki\u1ec7n.</span></p><p><span>(B) C\u00f4 \u1ea5y \u0111\u00e3 t\u00ednh ph\u00ed GNA cho \u0111\u01a1n \u0111\u1eb7t h\u00e0ng ph\u1ee5c v\u1ee5 \u0103n u\u1ed1ng c\u1ee7a m\u00ecnh.</span></p><p><span>(C) C\u00f4 \u1ea5y l\u00e0 ng\u01b0\u1eddi t\u1ed5 ch\u1ee9c ti\u1ec7c chi\u00eau \u0111\u00e3i c\u1ee7a GNA.</span></p><p><span>(D) C\u00f4 \u1ea5y s\u1ebd t\u1ef1 trang tr\u00ed m\u1ed9t v\u00e0i chi\u1ebfc b\u00e1nh.</span></p>"
+      },
+      {
+        "question": "When was the GNA required to pay $500 to Dawn Sky Catering?",
+        "number": "177",
+        "A": "On November 30",
+        "B": "On December 6",
+        "C": "On December 13",
+        "D": "On December 15",
+        "answer": "C",
+        "detail": "<p>177. Khi n\u00e0o th\u00ec GNA ph\u1ea3i tr\u1ea3 $500 cho Dawn Sky Catering?</p>\n<p>(A) V\u00e0o ng\u00e0y 30 th\u00e1ng 11</p>\n<p>(B) V\u00e0o ng\u00e0y 6 th\u00e1ng 12</p>\n<p>(C) V\u00e0o ng\u00e0y 13 th\u00e1ng 12</p>\n<p>(D) V\u00e0o ng\u00e0y 15 th\u00e1ng 12</p>"
+      },
+      {
+        "question": "According to the article, what happened at the reception?",
+        "number": "178",
+        "A": "Mayor Fugate was given an award.",
+        "B": "Mayor Fugate was asked to reduce her speech.",
+        "C": "Mayor Fugate took questions from the audience.",
+        "D": "Mayor Fugate was invited to join the GN",
+        "answer": "A",
+        "detail": "<p><span>178. Theo b\u00e0i b\u00e1o, chuy\u1ec7n g\u00ec \u0111\u00e3 x\u1ea3y ra \u1edf bu\u1ed5i chi\u00eau \u0111\u00e3i?</span></p><p><span>(A) Th\u1ecb tr\u01b0\u1edfng Fugate \u0111\u01b0\u1ee3c trao gi\u1ea3i th\u01b0\u1edfng.</span></p><p><span>(B) Th\u1ecb tr\u01b0\u1edfng Fugate \u0111\u01b0\u1ee3c y\u00eau c\u1ea7u r\u00fat ng\u1eafn b\u00e0i ph\u00e1t bi\u1ec3u.</span></p><p><span>(C) Th\u1ecb tr\u01b0\u1edfng Fugate nh\u1eadn c\u00e2u h\u1ecfi t\u1eeb kh\u00e1n gi\u1ea3.</span></p><p><span>(D) Th\u1ecb tr\u01b0\u1edfng Fugate \u0111\u01b0\u1ee3c m\u1eddi tham gia GNA.</span></p>"
+      },
+      {
+        "question": "In the article, the word ''instrumental\u201d in paragraph 1, line 12, is closest in meaning to",
+        "number": "179",
+        "A": "mechanical",
+        "B": "informal",
+        "C": "musical",
+        "D": "essential",
+        "answer": "D",
+        "detail": "<p><span>179. Trong b\u00e0i b\u00e1o, t\u1eeb \u201cinstrumental\u201d \u1edf \u0111o\u1ea1n 1, d\u00f2ng 12, g\u1ea7n ngh\u0129a nh\u1ea5t v\u1edbi</span></p><p><span>(A) C\u01a1 kh\u00ed</span></p><p><span>(B) Kh\u00f4ng ch\u00ednh th\u1ee9c</span></p><p><span>(C) \u00c2m nh\u1ea1c</span></p><p><span>(D) Thi\u1ebft y\u1ebfu</span></p>"
+      },
+      {
+        "question": "How many people most likely attended the GNA reception?",
+        "number": "180",
+        "A": "5",
+        "B": "50",
+        "C": "100",
+        "D": "200",
+        "answer": "B",
+        "detail": "<p><span>180. C\u00f3 kho\u1ea3ng bao nhi\u00eau ng\u01b0\u1eddi tham d\u1ef1 ti\u1ec7c chi\u00eau \u0111\u00e3i c\u1ee7a GNA?</span></p><p><span>(A) 5</span></p><p><span>(B) 50</span></p><p><span>(C) 100</span></p><p><span>(D) 200</span></p><p><span></span></p><p><span>Dawn Sky Catering</span></p><p><span>525 \u0111\u01b0\u1eddng Horseshoe</span></p><p><span>Gardendale, PA 19061</span></p><p><span>H\u00f3a \u0111\u01a1n ng\u00e0y: 6 th\u00e1ng 12 H\u00f3a \u0111\u01a1n s\u1ed1: 5688</span></p><p><span></span></p>"
+      }
+    ]
+  },
+  {
+    "context_question_img": [
+      "https://study4.com/media/ets2023/img/9/image22.png",
+      "https://study4.com/media/ets2023/img/9/image23.png"
+    ],
+    "context_transcript": "<p><b>D\u1ecbch ngh\u0129a:</b></p><p><span>H\u1ec7 th\u1ed1ng gaming Chisaka</span></p><p><span>410-1109, Nijo Dencho, Nakagyo-ku Kyoto-shi</span></p><p><span>Kyoto, Nh\u1eadt B\u1ea3n</span></p><p><span>Toby Heisenberger</span></p><p><span>1226 Ph\u1ed1 Lark</span></p><p><span>Albany, New York 12210 Hoa K\u1ef3</span></p><p><span>ng\u00e0y 7 th\u00e1ng 5</span></p><p><span>Thu h\u1ed3i s\u1ea3n ph\u1ea9m:</span></p><p><span>M\u00e1y t\u00ednh ch\u01a1i game t\u1ed1c \u0111\u1ed9 cao CGS-P27</span></p><p><span>Th\u01b0a \u00f4ng Heisenberger,</span></p><p><span>Th\u00f4ng b\u00e1o n\u00e0y nh\u1eb1m th\u00f4ng b\u00e1o cho \u00f4ng r\u1eb1ng m\u00e1y t\u00ednh ch\u01a1i game t\u1ed1c \u0111\u1ed9 cao CGS-P27 \u0111\u00e3 b\u1ecb thu h\u1ed3i. Ch\u00fang t\u00f4i \u0111\u00e3 nh\u1eadn \u0111\u01b0\u1ee3c b\u00e1o c\u00e1o v\u1ec1 c\u00e1c thi\u1ebft b\u1ecb qu\u00e1 n\u00f3ng v\u00e0 kh\u00f4ng s\u1eed d\u1ee5ng \u0111\u01b0\u1ee3c. \u0110\u1ec3 gi\u1ea3i quy\u1ebft v\u1ea5n \u0111\u1ec1 n\u00e0y, ch\u00fang t\u00f4i c\u1ea7n l\u1eafp th\u00eam m\u1ed9t qu\u1ea1t v\u00e0o m\u00e1y t\u00ednh c\u1ee7a \u00f4ng. Vui l\u00f2ng tr\u1ea3 l\u1ea1i b\u1ed9 m\u00e1y cho c\u1eeda h\u00e0ng \u0111\u00e3 mua, s\u1eed d\u1ee5ng m\u00e3 s\u1ed1 nh\u1eadn d\u1ea1ng kh\u00e1ch h\u00e0ng c\u00e1 nh\u00e2n, PCI-70734. H\u1ec7 th\u1ed1ng m\u00e1y c\u1ee7a \u00f4ng sau \u0111\u00f3 s\u1ebd \u0111\u01b0\u1ee3c g\u1eedi l\u1ea1i cho nh\u00e0 s\u1ea3n xu\u1ea5t v\u00e0 s\u1eeda ch\u1eefa mi\u1ec5n ph\u00ed.</span></p><p><span></span></p><p><span>Ch\u00fang t\u00f4i xin l\u1ed7i v\u00ec b\u1ea5t c\u1ee9 s\u1ef1 b\u1ea5t ti\u1ec7n n\u00e0o.</span></p><p><span></span></p><p><span>Tr\u00e2n tr\u1ecdng,</span></p><p><span>Kobu Matsui Kobu Matsui, Ph\u00f3 ch\u1ee7 t\u1ecbch</span></p><p><span>Chisaka Gaming Systems</span></p><p><span>\u2014-----------------------</span></p><p><span></span></p><p><span>T\u1eeb: Virginia Granger</span></p><p><span>T\u1edbi: Jennifer Kinkaid</span></p><p><span>Ng\u00e0y: 12 th\u00e1ng 6</span></p><p><span>Ch\u1ee7 \u0111\u1ec1: Thu h\u1ed3i s\u1ea3n ph\u1ea9m</span></p><p><span></span></p><p><span>K\u00ednh g\u1eedi c\u00f4 Granger,</span></p><p><span>C\u1eeda h\u00e0ng b\u00e1n l\u1ebb c\u1ee7a ch\u00fang t\u00f4i \u0111\u00e3 nh\u1eadn m\u00e1y t\u00ednh ch\u01a1i game t\u1ed1c \u0111\u1ed9 cao CGS-P27 c\u1ee7a c\u00f4 \u0111\u1ec3 s\u1eeda ch\u1eefa theo th\u1ecfa thu\u1eadn. Nh\u01b0 c\u00f4 \u0111\u00e3 bi\u1ebft, ch\u1ee7 s\u1edf h\u1eefu b\u1ed9 m\u00e1y ch\u01a1i game kh\u00f4ng mu\u1ed1n \u0111\u01b0a thi\u1ebft b\u1ecb c\u1ee7a h\u1ecd \u0111\u1ebfn s\u1eeda ch\u1eefa sau khi h\u1ecd nh\u1eadn th\u1ea5y r\u1eb1ng h\u1ecd s\u1ebd kh\u00f4ng \u0111\u01b0\u1ee3c s\u1eed d\u1ee5ng trong hai \u0111\u1ebfn ba tu\u1ea7n. Ri\u00eang h\u00f4m nay, ba kh\u00e1ch h\u00e0ng (PCI-70734, PCI-17503 v\u00e0 PCI-90022) \u0111\u00e3 t\u1eeb ch\u1ed1i s\u1eeda ch\u1eefa b\u1ed9 m\u00e1y c\u1ee7a h\u1ecd.</span></p><p><span>Tin t\u1ed1t l\u00e0 ng\u01b0\u1eddi d\u00f9ng b\u1ed9 m\u00e1y ch\u01a1i game c\u1ee7a c\u00f4 r\u1ea5t trung th\u00e0nh. Tuy nhi\u00ean, \u0111\u1ec3 t\u0103ng t\u00ednh tu\u00e2n th\u1ee7 c\u1ee7a vi\u1ec7c thu h\u1ed3i v\u00e0 v\u1edbi t\u01b0 c\u00e1ch quan h\u1ec7 c\u00f4ng ch\u00fang, c\u00f4 c\u00f3 th\u1ec3 cho ch\u00fang t\u00f4i m\u01b0\u1ee3n m\u1ed9t s\u1ed1 thi\u1ebft b\u1ecb trong th\u1eddi gian s\u1eeda ch\u1eefa. H\u00e3y cho t\u00f4i bi\u1ebft t\u00f4i c\u00f3 th\u1ec3 h\u1ed7 tr\u1ee3 v\u1edbi s\u1eafp x\u1ebfp n\u00e0y nh\u01b0 th\u1ebf n\u00e0o.</span></p><p><span>C\u1ea3m \u01a1n!</span></p><p><span>Jennifer Kinkaid</span></p><p><span>Alban M\u00e1y t\u00ednh, Tr\u00f2 ch\u01a1i, v.v</span></p>",
+    "questions": [
+      {
+        "question": "Why did Mr. Matsui send the letter?",
+        "number": "181",
+        "A": "To advertise a new product",
+        "B": "To alert a customer to a problem",
+        "C": "To confirm that a refund had been issued",
+        "D": "To offer a customer an upgrade",
+        "answer": "B",
+        "detail": "<p><span>181. T\u1ea1i sao \u00f4ng Matsui l\u1ea1i g\u1eedi th\u01b0?</span></p><p><span>(A) \u0110\u1ec3 qu\u1ea3ng c\u00e1o m\u1ed9t s\u1ea3n ph\u1ea9m m\u1edbi</span></p><p><span>(B) \u0110\u1ec3 th\u00f4ng b\u00e1o cho kh\u00e1ch h\u00e0ng v\u1ec1 m\u1ed9t v\u1ea5n \u0111\u1ec1</span></p><p><span>(C) \u0110\u1ec3 x\u00e1c nh\u1eadn r\u1eb1ng kho\u1ea3n ti\u1ec1n ho\u00e0n l\u1ea1i \u0111\u00e3 \u0111\u01b0\u1ee3c c\u1ea5p</span></p><p><span>(D) \u0110\u1ec3 cung c\u1ea5p cho kh\u00e1ch h\u00e0ng m\u1ed9t b\u1ea3n n\u00e2ng c\u1ea5p</span></p>"
+      },
+      {
+        "question": "What type of company does Ms. Granger work for?",
+        "number": "182",
+        "A": "A computer manufacturer",
+        "B": "A retail store",
+        "C": "A repair company",
+        "D": "A game rental service",
+        "answer": "A",
+        "detail": "<p><span>182. C\u00f4 Granger l\u00e0m vi\u1ec7c cho lo\u1ea1i h\u00ecnh c\u00f4ng ty n\u00e0o?</span></p><p><span>(A) M\u1ed9t nh\u00e0 s\u1ea3n xu\u1ea5t m\u00e1y t\u00ednh</span></p><p><span>(B) M\u1ed9t c\u1eeda h\u00e0ng b\u00e1n l\u1ebb</span></p><p><span>(C) M\u1ed9t c\u00f4ng ty s\u1eeda ch\u1eefa</span></p><p><span>(D) M\u1ed9t d\u1ecbch v\u1ee5 cho thu\u00ea tr\u00f2 ch\u01a1i</span></p>"
+      },
+      {
+        "question": "In the e-mail, the word \u201cprogram\u201d in paragraph 2, line 3, is closest in meaning to",
+        "number": "183",
+        "A": "schedule",
+        "B": "plan",
+        "C": "broadcast",
+        "D": "software",
+        "answer": "B",
+        "detail": "<p><span>183. Trong e-mail, t\u1eeb \u201cprogram\u201d \u1edf \u0111o\u1ea1n 2, d\u00f2ng 3, g\u1ea7n ngh\u0129a nh\u1ea5t v\u1edbi</span></p><p><span>(A) L\u1ecbch tr\u00ecnh</span></p><p><span>(B) K\u1ebf ho\u1ea1ch</span></p><p><span>(C) Ph\u00e1t s\u00f3ng</span></p><p><span>(D) Ph\u1ea7n m\u1ec1m</span></p>"
+      },
+      {
+        "question": "What can be concluded about Mr. Heisenberger?",
+        "number": "184",
+        "A": "He was not satisfied with his purchase.",
+        "B": "He called Ms. Granger to discuss options.",
+        "C": "He did not bring his system in for repair.",
+        "D": "He requested a two-week turnaround.",
+        "answer": "C",
+        "detail": "<p><b>D\u1ecbch \u0111\u00e1p \u00e1n:</b></p><p><span>184. C\u00f3 th\u1ec3 k\u1ebft lu\u1eadn g\u00ec v\u1ec1 anh Heisenberger?</span></p><p><span>(A) Anh \u1ea5y kh\u00f4ng h\u00e0i l\u00f2ng v\u1edbi vi\u1ec7c mua h\u00e0ng c\u1ee7a m\u00ecnh.</span></p><p><span>(B) Anh \u1ea5y \u0111\u00e3 g\u1ecdi cho c\u00f4 Granger \u0111\u1ec3 th\u1ea3o lu\u1eadn v\u1ec1 c\u00e1c l\u1ef1a ch\u1ecdn.</span></p><p><span>(C) Anh \u1ea5y \u0111\u00e3 kh\u00f4ng mang h\u1ec7 th\u1ed1ng c\u1ee7a m\u00ecnh \u0111\u1ebfn \u0111\u1ec3 s\u1eeda ch\u1eefa.</span></p><p><span>(D) Anh \u1ea5y y\u00eau c\u1ea7u quay v\u00f2ng trong hai tu\u1ea7n.</span></p>"
+      },
+      {
+        "question": "What does Ms. Kinkaid request in her e-mail?",
+        "number": "185",
+        "A": "Free products",
+        "B": "System upgrades",
+        "C": "Computer monitors",
+        "D": "Temporary replacements",
+        "answer": "D",
+        "detail": "<p><span>185. C\u00f4 Kinkaid y\u00eau c\u1ea7u g\u00ec trong e-mail c\u1ee7a m\u00ecnh?</span></p><p><span>(A) S\u1ea3n ph\u1ea9m mi\u1ec5n ph\u00ed</span></p><p><span>(B) N\u00e2ng c\u1ea5p h\u1ec7 th\u1ed1ng</span></p><p><span>(C) M\u00e0n h\u00ecnh m\u00e1y t\u00ednh</span></p><p><span>(D) Thay th\u1ebf t\u1ea1m th\u1eddi</span></p><p><span></span></p>"
+      }
+    ]
+  },
+  {
+    "context_question_img": [
+      "https://study4.com/media/ets2023/img/9/image24.png",
+      "https://study4.com/media/ets2023/img/9/image2.png",
+      "https://study4.com/media/ets2023/img/9/image3.png"
+    ],
+    "context_transcript": "<p><b>D\u1ecbch ngh\u0129a:</b></p><p><span>T\u1edbi: Marcella Wairimu</span></p><p><span>T\u1eeb: Henry Bunyasi</span></p><p><span>Ng\u00e0y: 3 th\u00e1ng 2</span></p><p><span>Ch\u1ee7 \u0111\u1ec1: Kh\u1ea3o s\u00e1t</span></p><p><span>K\u00ednh g\u1eedi c\u00f4 Wairimu,</span></p><p><span>Ban qu\u1ea3n l\u00fd \u0111\u00e3 y\u00eau c\u1ea7u ch\u00fang t\u00f4i t\u00ecm hi\u1ec3u m\u1ee9c \u0111\u1ed9 h\u00e0i l\u00f2ng c\u1ee7a kh\u00e1ch h\u00e0ng \u0111\u1ed1i v\u1edbi d\u1ecbch v\u1ee5 d\u1ecbch v\u1ee5 ti\u1ebfp th\u1ecb k\u1ef9 thu\u1eadt s\u1ed1 c\u1ee7a ch\u00fang ta. \u0110\u1ec3 \u0111\u1ea1t \u0111\u01b0\u1ee3c m\u1ee5c ti\u00eau \u0111\u00f3, ch\u00fang ta s\u1ebd ti\u1ebfn h\u00e0nh m\u1ed9t cu\u1ed9c kh\u1ea3o s\u00e1t trong th\u00e1ng t\u01b0.</span></p><p><span></span></p><p><span>V\u1edbi chuy\u00ean m\u00f4n c\u1ee7a c\u00f4 trong thi\u1ebft k\u1ebf v\u00e0 ph\u00e2n t\u00edch kh\u1ea3o s\u00e1t, t\u00f4i mu\u1ed1n c\u00f4 ph\u00e1t tri\u1ec3n m\u1ed9t kh\u1ea3o s\u00e1t v\u1ec1 s\u1ef1 h\u00e0i l\u00f2ng c\u1ee7a kh\u00e1ch h\u00e0ng bao g\u1ed3m \u0111\u00e1nh gi\u00e1 v\u1ec1 c\u00e1c d\u1ecbch v\u1ee5 ti\u1ebfp th\u1ecb k\u1ef9 thu\u1eadt s\u1ed1 m\u00e0 ch\u00fang ta qu\u1ea3ng c\u00e1o tr\u00ean trang web c\u1ee7a m\u00ecnh. N\u00f3 s\u1ebd \u0111\u01b0\u1ee3c g\u1eedi \u0111\u1ebfn t\u1eebng kh\u00e1ch h\u00e0ng l\u00e2u n\u0103m c\u1ee7a ch\u00fang ta \u1edf Kenya. Vui l\u00f2ng chu\u1ea9n b\u1ecb s\u1eb5n m\u1ed9t b\u1ea3n nh\u00e1p tr\u01b0\u1edbc ng\u00e0y 17 th\u00e1ng 2 v\u00e0 g\u1eedi n\u00f3 cho c\u00e1c th\u00e0nh vi\u00ean c\u1ee7a nh\u00f3m qu\u1ea3n l\u00fd \u0111\u1ec3 h\u1ecd xem x\u00e9t. C\u00f4 v\u00e0 t\u00f4i s\u1ebd tr\u00ecnh b\u00e0y d\u1ef1 th\u1ea3o t\u1ea1i cu\u1ed9c h\u1ecdp c\u1ee7a nh\u00f3m qu\u1ea3n l\u00fd v\u00e0o ng\u00e0y 23 th\u00e1ng 2 l\u00fac 2:00 chi\u1ec1u.</span></p><p><span></span></p><p><span>Tr\u00e2n tr\u1ecdng,</span></p><p><span>Henry Bunyasi</span></p><p><span>\u2014-----------------------</span></p><p><span></span></p><p><span>https://www.theushindigroup.co.ke/services_survey</span></p><p><span>V\u1ec1 ch\u00fang t\u00f4i D\u1ecbch v\u1ee5 K\u1ebf ho\u1ea1ch v\u00e0 gi\u00e1 c\u1ea3 Tin t\u1ee9c c\u00f4ng ty</span></p><p><span>Kh\u1ea3o s\u00e1t m\u1ee9c \u0111\u1ed9 h\u00e0i l\u00f2ng</span></p><p><span>1 th\u00e1ng 5</span></p><p><span>T\u1ea1i T\u1eadp \u0111o\u00e0n Ushindi, ch\u00fang t\u00f4i c\u1ed1 g\u1eafng cung c\u1ea5p cho b\u1ea1n c\u00e1c d\u1ecbch v\u1ee5 ti\u1ebfp th\u1ecb ch\u1ea5t l\u01b0\u1ee3ng h\u00e0ng \u0111\u1ea7u. \u0110\u00f3 l\u00e0 l\u00fd do t\u1ea1i sao ch\u00fang t\u00f4i y\u00eau c\u1ea7u c\u00e1c kh\u00e1ch h\u00e0ng l\u00e2u n\u0103m c\u1ee7a m\u00ecnh ho\u00e0n th\u00e0nh b\u1ea3n kh\u1ea3o s\u00e1t ng\u1eafn n\u00e0y v\u1ec1 c\u00e1c d\u1ecbch v\u1ee5 ti\u1ebfp th\u1ecb k\u1ef9 thu\u1eadt s\u1ed1 c\u1ee7a ch\u00fang t\u00f4i. V\u1edbi th\u00f4ng tin b\u1ea1n cung c\u1ea5p, ch\u00fang t\u00f4i c\u00f3 th\u1ec3 x\u00e1c \u0111\u1ecbnh c\u00e1c l\u0129nh v\u1ef1c c\u1ea7n c\u1ea3i thi\u1ec7n. Vui l\u00f2ng g\u1eedi c\u00e2u tr\u1ea3 l\u1eddi c\u1ee7a b\u1ea1n v\u00e0o ho\u1eb7c tr\u01b0\u1edbc ng\u00e0y 19 th\u00e1ng 5. C\u1ea3m \u01a1n b\u1ea1n \u0111\u00e3 gi\u00fap ch\u00fang t\u00f4i ph\u1ee5c v\u1ee5 b\u1ea1n t\u1ed1t h\u01a1n.</span></p><p><span>Vui l\u00f2ng nh\u1eadp m\u1ed9t trong c\u00e1c gi\u00e1 tr\u1ecb sau v\u00e0o \u00f4 th\u00edch h\u1ee3p cho t\u1eebng d\u1ecbch v\u1ee5. 1 = r\u1ea5t kh\u00f4ng h\u00e0i l\u00f2ng, 2 = kh\u00f4ng h\u00e0i l\u00f2ng, 3 = kh\u00f4ng c\u00f3 \u00fd ki\u1ebfn, 4 = h\u00e0i l\u00f2ng, 5 = r\u1ea5t h\u00e0i l\u00f2ng</span></p><p><span>D\u1ecbch v\u1ee5 ti\u1ebfp th\u1ecb k\u1ef9 thu\u1eadt s\u1ed1</span></p><p><span>A. Qu\u1ea3ng c\u00e1o tr\u00ean m\u1ea1ng x\u00e3 h\u1ed9i</span></p><p><span>B. T\u1ea1o n\u1ed9i dung, bao g\u1ed3m n\u1ed9i dung b\u1eb1ng v\u0103n b\u1ea3n, \u1ea3nh v\u00e0 video</span></p><p><span>C. Ti\u1ebfp th\u1ecb qua email t\u1edbi kh\u00e1ch h\u00e0ng hi\u1ec7n t\u1ea1i v\u00e0 kh\u00e1ch h\u00e0ng ti\u1ec1m n\u0103ng</span></p><p><span>D. Ph\u00e1t tri\u1ec3n v\u00e0 thi\u1ebft k\u1ebf \u1ee9ng d\u1ee5ng di \u0111\u1ed9ng v\u00e0 web</span></p><p><span>T\u00ean kh\u00e1ch h\u00e0ng (t\u00f9y ch\u1ecdn):[</span></p><p><span>\u2014-----------------------</span></p><p><span></span></p><p><span>https://www.theushindigroup.co.ke/services_survey</span></p><p><span>V\u1ec1 ch\u00fang t\u00f4i D\u1ecbch v\u1ee5 K\u1ebf ho\u1ea1ch v\u00e0 gi\u00e1 c\u1ea3 Tin t\u1ee9c c\u00f4ng ty</span></p><p><span>Nh\u1eefng c\u1ea3i ti\u1ebfn \u0111\u1ed1i v\u1edbi d\u1ecbch v\u1ee5 c\u1ee7a ch\u00fang t\u00f4i</span></p><p><span>\u0110\u1ec3 \u0111\u00e1p l\u1ea1i ph\u1ea3n h\u1ed3i c\u1ee7a kh\u00e1ch h\u00e0ng, T\u1eadp \u0111o\u00e0n Ushindi s\u1ebd gi\u1edbi thi\u1ec7u chi\u1ebfn l\u01b0\u1ee3c ti\u1ebfp th\u1ecb qua email m\u1edbi v\u00e0o ng\u00e0y 15 th\u00e1ng 7.</span></p><p><span>Tr\u1ecdng t\u00e2m m\u1edbi c\u1ee7a ch\u00fang t\u00f4i s\u1ebd l\u00e0 c\u00e1c e-mail. E-mail \u0111\u01b0\u1ee3c g\u1eedi \u0111i t\u1ef1 \u0111\u1ed9ng d\u1ef1a tr\u00ean h\u00e0nh vi c\u1ee7a kh\u00e1ch h\u00e0ng v\u00e0 c\u00f3 t\u1ef7 l\u1ec7 ph\u1ea3n h\u1ed3i cao h\u01a1n nhi\u1ec1u so v\u1edbi c\u00e1c e-mail ti\u1ebfp th\u1ecb truy\u1ec1n th\u1ed1ng. C\u00e1c e-mail gi\u00fap c\u00e1c c\u00f4ng ty bi\u1ebfn ng\u01b0\u1eddi mua b\u00ecnh th\u01b0\u1eddng th\u00e0nh kh\u00e1ch h\u00e0ng trung th\u00e0nh.</span></p><p><span>Ch\u00fang t\u00f4i d\u1ef1 \u0111o\u00e1n r\u1eb1ng s\u1ef1 thay \u0111\u1ed5i n\u00e0y s\u1ebd d\u1eabn \u0111\u1ebfn s\u1ef1 gia t\u0103ng \u0111\u00e1ng k\u1ec3 v\u1ec1 s\u1ed1 l\u01b0\u1ee3ng kh\u00e1ch h\u00e0ng th\u01b0\u1eddng xuy\u00ean cho c\u00e1c kh\u00e1ch h\u00e0ng c\u1ee7a ch\u00fang t\u00f4i. Gi\u00e1 c\u1ee7a c\u00e1c d\u1ecbch v\u1ee5 c\u1ee7a ch\u00fang t\u00f4i s\u1ebd v\u1eabn gi\u1eef nguy\u00ean. \u0110\u1ec3 bi\u1ebft th\u00eam th\u00f4ng tin, b\u1ea1n c\u00f3 th\u1ec3 li\u00ean h\u1ec7 tr\u1ef1c ti\u1ebfp v\u1edbi ng\u01b0\u1eddi qu\u1ea3n l\u00fd t\u00e0i kho\u1ea3n ti\u1ebfp th\u1ecb c\u1ee7a m\u00ecnh, h\u00e3y g\u1ecdi cho T\u1eadp \u0111o\u00e0n Ushindi theo s\u1ed1 0800 205 555 ho\u1eb7c g\u1eedi e-mail \u0111\u1ebfn <a class=\"__cf_email__\" data-cfemail=\"a7cec9c1c8e7d3cfc2d2d4cfcec9c3cec0d5c8d2d789c4c889ccc2\" href=\"/cdn-cgi/l/email-protection\">[email\u00a0protected]</a>.</span></p>",
+    "questions": [
+      {
+        "question": "What is stated about Ms. Wairimu in the e-mail?",
+        "number": "186",
+        "A": "She resolved a complaint from one of her clients.",
+        "B": "She responded to an employee questionnaire.",
+        "C": "She is a member of the management team.",
+        "D": "She is highly skilled in survey development.",
+        "answer": "D",
+        "detail": "<p><span>186. \u0110i\u1ec1u g\u00ec \u0111\u01b0\u1ee3c n\u00eau v\u1ec1 c\u00f4 Wairimu trong e-mail?</span></p><p><span>(A) C\u00f4 \u1ea5y \u0111\u00e3 gi\u1ea3i quy\u1ebft khi\u1ebfu n\u1ea1i t\u1eeb m\u1ed9t trong nh\u1eefng kh\u00e1ch h\u00e0ng c\u1ee7a m\u00ecnh.</span></p><p><span>(B) C\u00f4 \u1ea5y \u0111\u00e3 tr\u1ea3 l\u1eddi m\u1ed9t c\u00e2u h\u1ecfi c\u1ee7a nh\u00e2n vi\u00ean.</span></p><p><span>(C) C\u00f4 \u1ea5y l\u00e0 th\u00e0nh vi\u00ean c\u1ee7a \u0111\u1ed9i ng\u0169 qu\u1ea3n l\u00fd.</span></p><p><span>(D) C\u00f4 \u1ea5y c\u00f3 k\u1ef9 n\u0103ng cao trong vi\u1ec7c ph\u00e1t tri\u1ec3n kh\u1ea3o s\u00e1t.</span></p>"
+      },
+      {
+        "question": "What will most likely happen on February 23 ?",
+        "number": "187",
+        "A": "The Ushindi Group\u2019s Web site will be updated.",
+        "B": "Mr. Bunyasi will review the advertising budget.",
+        "C": "Ms. Wairimu will attend a meeting in the afternoon.",
+        "D": "The management team will vote on a policy revision.",
+        "answer": "C",
+        "detail": "<p>187. \u0110i\u1ec1u g\u00ec s\u1ebd x\u1ea3y ra v\u00e0o ng\u00e0y 23 th\u00e1ng 2?</p>\n<p>(A) Trang web c\u1ee7a T\u1eadp \u0111o\u00e0n Ushindi s\u1ebd \u0111\u01b0\u1ee3c c\u1eadp nh\u1eadt.</p>\n<p>(B) \u00d4ng Bunyasi s\u1ebd xem x\u00e9t ng\u00e2n s\u00e1ch qu\u1ea3ng c\u00e1o.</p>\n<p>(C) C\u00f4 Wairimu s\u1ebd tham d\u1ef1 m\u1ed9t cu\u1ed9c h\u1ecdp v\u00e0o bu\u1ed5i chi\u1ec1u.</p>\n<p>(D) Nh\u00f3m qu\u1ea3n l\u00fd s\u1ebd b\u1ecf phi\u1ebfu v\u1ec1 vi\u1ec7c s\u1eeda \u0111\u1ed5i ch\u00ednh s\u00e1ch.</p>"
+      },
+      {
+        "question": "What can be concluded about the satisfaction survey?",
+        "number": "188",
+        "A": "It was sent by mail.",
+        "B": "It was not distributed to clients according to the original timetable.",
+        "C": "It was revised after the management team\u2019s meeting.",
+        "D": "It was sent to clients around the world.",
+        "answer": "B",
+        "detail": "<p>188. C\u00f3 th\u1ec3 k\u1ebft lu\u1eadn g\u00ec v\u1ec1 cu\u1ed9c kh\u1ea3o s\u00e1t m\u1ee9c \u0111\u1ed9 h\u00e0i l\u00f2ng?</p>\n<p>(A) N\u00f3 \u0111\u00e3 \u0111\u01b0\u1ee3c g\u1eedi qua \u0111\u01b0\u1eddng b\u01b0u \u0111i\u1ec7n.</p>\n<p>(B) N\u00f3 kh\u00f4ng \u0111\u01b0\u1ee3c ph\u00e2n ph\u1ed1i cho kh\u00e1ch h\u00e0ng theo th\u1eddi gian bi\u1ec3u ban \u0111\u1ea7u.</p>\n<p>(C) N\u00f3 \u0111\u00e3 \u0111\u01b0\u1ee3c s\u1eeda \u0111\u1ed5i sau cu\u1ed9c h\u1ecdp c\u1ee7a \u0111\u1ed9i ng\u0169 qu\u1ea3n l\u00fd.</p>\n<p>(D) N\u00f3 \u0111\u00e3 \u0111\u01b0\u1ee3c g\u1eedi cho c\u00e1c kh\u00e1ch h\u00e0ng tr\u00ean kh\u1eafp th\u1ebf gi\u1edbi.</p>"
+      },
+      {
+        "question": "What news is reported on the second Web page?",
+        "number": "189",
+        "A": "Service rates will soon increase.",
+        "B": "A marketing manager has been replaced.",
+        "C": "Surveys will be conducted on a monthly basis.",
+        "D": "An automated customer contact system will launch.",
+        "answer": "D",
+        "detail": "<p><span>189. Trang Web th\u1ee9 hai \u0111\u01b0a tin g\u00ec?</span></p><p><span>(A) Gi\u00e1 d\u1ecbch v\u1ee5 s\u1ebd s\u1edbm t\u0103ng.</span></p><p><span>(B) M\u1ed9t ng\u01b0\u1eddi qu\u1ea3n l\u00fd ti\u1ebfp th\u1ecb \u0111\u00e3 \u0111\u01b0\u1ee3c thay th\u1ebf.</span></p><p><span>(C) C\u00e1c cu\u1ed9c kh\u1ea3o s\u00e1t s\u1ebd \u0111\u01b0\u1ee3c ti\u1ebfn h\u00e0nh h\u00e0ng th\u00e1ng.</span></p><p><span>(D) M\u1ed9t h\u1ec7 th\u1ed1ng li\u00ean h\u1ec7 kh\u00e1ch h\u00e0ng t\u1ef1 \u0111\u1ed9ng s\u1ebd ra m\u1eaft.</span></p>"
+      },
+      {
+        "question": "What digital marketing service will The Ushindi Group change based on responses to its survey?",
+        "number": "190",
+        "A": "Service A",
+        "B": "Service B",
+        "C": "Service C",
+        "D": "Service D",
+        "answer": "C",
+        "detail": "<p><span>190. T\u1eadp \u0111o\u00e0n Ushindi s\u1ebd thay \u0111\u1ed5i d\u1ecbch v\u1ee5 ti\u1ebfp th\u1ecb k\u1ef9 thu\u1eadt s\u1ed1 n\u00e0o d\u1ef1a tr\u00ean c\u00e1c c\u00e2u tr\u1ea3 l\u1eddi cho cu\u1ed9c kh\u1ea3o s\u00e1t c\u1ee7a m\u00ecnh?</span></p><p><span>(A) D\u1ecbch v\u1ee5 A</span></p><p><span>(B) D\u1ecbch v\u1ee5 B</span></p><p><span>(C) D\u1ecbch v\u1ee5 C</span></p><p><span>(D) D\u1ecbch v\u1ee5 D</span></p><p><span></span></p>"
+      }
+    ]
+  },
+  {
+    "context_question_img": [
+      "https://study4.com/media/ets2023/img/9/image4.png",
+      "https://study4.com/media/ets2023/img/9/image5.png",
+      "https://study4.com/media/ets2023/img/9/image6.png"
+    ],
+    "context_transcript": "<p><b>D\u1ecbch ngh\u0129a:</b></p><p><span>Gi\u00e1m \u0111\u1ed1c Rubio \u0103n m\u1eebng</span></p><p><span>MERRINGTON (20 th\u00e1ng 7)-M\u1eb7c d\u00f9 Pedro Rubio \u0111\u00e3 ngh\u1ec9 h\u01b0u t\u1eeb m\u01b0\u1eddi n\u0103m tr\u01b0\u1edbc, nh\u1eefng b\u1ed9 phim \u0111o\u1ea1t gi\u1ea3i c\u1ee7a \u00f4ng v\u1eabn c\u00f3 \u1ea3nh h\u01b0\u1edfng \u0111\u1ebfn \u0111i\u1ec7n \u1ea3nh ng\u00e0y nay.</span></p><p><span>Ng\u00f4i nh\u00e0 th\u1eddi th\u01a1 \u1ea5u c\u1ee7a Rubio g\u1ea7n m\u1ed9t r\u1ea1p chi\u1ebfu phim, n\u01a1i anh say m\u00ea lo\u1ea1i h\u00ecnh ngh\u1ec7 thu\u1eadt n\u00e0y. \u00d4ng \u1ea5y xem v\u00e0i b\u1ed9 phim m\u1ed9t tu\u1ea7n, \u0111\u00f4i khi xem nhi\u1ec1u l\u1ea7n c\u00f9ng m\u1ed9t b\u1ed9 phim.</span></p><p><span>S\u1ef1 quen thu\u1ed9c s\u00e2u r\u1ed9ng c\u1ee7a \u00f4ng \u1ea5y v\u1edbi nhi\u1ec1u th\u1ec3 lo\u1ea1i th\u1ec3 hi\u1ec7n r\u00f5 r\u00e0ng trong t\u00e1c ph\u1ea9m c\u1ee7a anh \u1ea5y. Ti\u00eau \u0111\u1ec1 bao g\u1ed3m t\u1eeb l\u00e3ng m\u1ea1n Send Me Some Roses Rubio \u0111\u00e3 ngh\u1ec9 l\u00e0m phim \u1edf tu\u1ed5i 65 sau g\u1ea7n 40 n\u0103m l\u00e0m \u0111\u1ea1o di\u1ec5n, nh\u01b0ng \u00f4ng v\u1eabn lu\u00f4n b\u1eadn r\u1ed9n. G\u1ea7n \u0111\u00e2y nh\u1ea5t, \u00f4ng \u1ea5y \u0111ang l\u00e0m gi\u1ea3ng vi\u00ean th\u1ec9nh gi\u1ea3ng t\u1ea1i Tr\u01b0\u1eddng \u0110i\u1ec7n \u1ea3nh Weberton g\u1ea7n \u0111\u00f3. \u0110\u1ed9c gi\u1ea3 s\u1ebd r\u1ea5t vui khi bi\u1ebft r\u1eb1ng R\u1ea1p chi\u1ebfu phim Merrington c\u1ee7a ch\u00fang t\u00f4i s\u1ebd chi\u1ebfu phim c\u1ee7a Rubio trong su\u1ed1t th\u00e1ng T\u00e1m. Cho d\u00f9 b\u1ea1n l\u00e0 ng\u01b0\u1eddi h\u00e2m m\u1ed9 l\u00e2u n\u0103m hay ch\u01b0a bao gi\u1edd xem phim Rubio, ch\u1eafc ch\u1eafn b\u1ea1n s\u1ebd th\u00edch \u01b0u \u0111\u00e3i n\u00e0y t\u1ea1i R\u1ea1p chi\u1ebfu phim Merrington.</span></p><p><span>\u2014-----------------------</span></p><p><span></span></p><p><span>https://www.merringtoncinema.com</span></p><p><span>L\u1ecbch tr\u00ecnh Trang ch\u1ee7 Li\u00ean h\u1ec7 ch\u00fang t\u00f4i Nh\u1eadn x\u00e9t</span></p><p><span>Ch\u1ecdn t\u00ednh n\u0103ng c\u1ee7a ri\u00eang b\u1ea1n</span></p><p><span>V\u00e0o th\u00e1ng 8, ch\u00fang t\u00f4i s\u1ebd k\u1ef7 ni\u1ec7m sinh nh\u1eadt c\u1ee7a \u0111\u1ea1o di\u1ec5n n\u1ed5i ti\u1ebfng Pedro Rubio b\u1eb1ng c\u00e1ch chi\u1ebfu nhi\u1ec1u b\u1ed9 phim c\u1ee7a \u00f4ng. V\u00e0 b\u1ea1n c\u00f3 th\u1ec3 mua v\u00e9 xem hai b\u1ed9 phim v\u1edbi gi\u00e1 c\u1ee7a m\u1ed9t b\u1ed9 phim! Rubio \u0111\u00e3 th\u1ef1c hi\u1ec7n nh\u1eefng b\u1ed9 phim \u0111\u01b0\u1ee3c li\u1ec7t k\u00ea d\u01b0\u1edbi \u0111\u00e2y khi b\u1eaft \u0111\u1ea7u s\u1ef1 nghi\u1ec7p \u0111\u1ea1o di\u1ec5n c\u1ee7a m\u00ecnh. Xem trang L\u1ecbch tr\u00ecnh \u0111\u1ec3 bi\u1ebft danh s\u00e1ch \u0111\u1ea7y \u0111\u1ee7 c\u00e1c b\u1ed9 phim v\u00e0 th\u1eddi gian xem h\u00e0ng tu\u1ea7n c\u1ee7a ch\u00fang.</span></p><p><span>Put a Roof on It, Phim h\u00e0i, 102 ph\u00fat</span></p><p><span>C\u00f4ng nh\u00e2n x\u00e2y d\u1ef1ng l\u00e0m h\u1ebft s\u1ee9c m\u00ecnh \u0111\u1ec3 x\u00e2y d\u1ef1ng ng\u00f4i nh\u00e0 m\u01a1 \u01b0\u1edbc c\u1ee7a m\u1ed9t ng\u01b0\u1eddi \u0111\u00e0n \u00f4ng gi\u00e0u c\u00f3 trong khi anh ta anh trai c\u1ed1 g\u1eafng ti\u1ebfp qu\u1ea3n d\u1ef1 \u00e1n.</span></p><p><span>Through a Diamond Rain, Khoa h\u1ecdc vi\u1ec5n t\u01b0\u1edfng, 124 ph\u00fat</span></p><p><span>Hai nh\u00f3m nh\u00e0 nghi\u00ean c\u1ee9u du h\u00e0nh t\u1edbi Sao H\u1ea3i V\u01b0\u01a1ng v\u00e0 c\u1ed1 g\u1eafng g\u1eedi l\u1ea1i nh\u1eefng ph\u00e1t hi\u1ec7n c\u1ee7a h\u1ecd \u0111\u1ebfn Tr\u00e1i \u0111\u1ea5t.</span></p><p><span>Cu\u1ed1i Tu\u1ea7n V\u00e0 K\u00fd \u1ee8c, Phim Ch\u00ednh K\u1ecbch, 115 ph\u00fat</span></p><p><span>M\u1ed9t nh\u00f3m b\u1ea1n c\u0169 t\u1ee5 t\u1eadp t\u1ea1i m\u1ed9t ng\u00f4i nh\u00e0 n\u00f4ng th\u00f4n v\u00e0 ph\u00e1t hi\u1ec7n ra r\u1eb1ng nhi\u1ec1u th\u1ee9 \u0111\u00e3 thay \u0111\u1ed5i k\u1ec3 t\u1eeb l\u1ea7n cu\u1ed1i h\u1ecd g\u1eb7p nhau. B\u1ed9 phim n\u00e0y \u0111\u00e3 gi\u00e0nh \u0111\u01b0\u1ee3c gi\u1ea3i th\u01b0\u1edfng Ng\u01b0\u1eddi m\u01a1 m\u1ed9ng v\u00e0ng.</span></p><p><span>The Strange Drive, Western, 107 ph\u00fat</span></p><p><span>Nh\u1eefng ch\u00e0ng cao b\u1ed3i tr\u00ean \u0111\u01b0\u1eddng ch\u0103n th\u1ea3 gia s\u00fac g\u1eb7p ph\u1ea3i h\u00e0ng lo\u1ea1t ng\u01b0\u1eddi l\u1ea1 th\u00fa v\u1ecb v\u00e0 kh\u00e1c th\u01b0\u1eddng.</span></p><p><span>\u2014-----------------------</span></p><p><span></span></p><p><span>https://www.merringtoncinema.com</span></p><p><span>L\u1ecbch tr\u00ecnh Trang ch\u1ee7 Li\u00ean h\u1ec7 ch\u00fang t\u00f4i Nh\u1eadn x\u00e9t</span></p><p><span></span></p><p><span>G\u1ea7n \u0111\u00e2y t\u00f4i \u0111\u00e3 \u0111\u1ecdc m\u1ed9t b\u00e0i b\u00e1o r\u1ea5t hay v\u1ec1 \u0111\u1ea1o di\u1ec5n Pedro Rubio. N\u00f3 ch\u1ee9a r\u1ea5t nhi\u1ec1u th\u00f4ng tin v\u1ec1 c\u00f4ng vi\u1ec7c v\u00e0 cu\u1ed9c s\u1ed1ng c\u1ee7a anh \u1ea5y, bao g\u1ed3m m\u1ed9t s\u1ed1 th\u00f4ng tin \u0111\u00e1ng ng\u1ea1c nhi\u00ean v\u1ec1 nh\u1eefng g\u00ec anh \u1ea5y \u0111\u00e3 l\u00e0m k\u1ec3 t\u1eeb khi ngh\u1ec9 l\u00e0m phim. B\u00e0i b\u00e1o c\u0169ng \u0111\u1ec1 c\u1eadp r\u1eb1ng R\u1ea1p chi\u1ebfu phim Merrington s\u1ebd chi\u1ebfu phim c\u1ee7a anh \u1ea5y. V\u00ec v\u1eady, t\u00f4i \u0111\u00e3 truy c\u1eadp trang web c\u1ee7a r\u1ea1p chi\u1ebfu phim v\u00e0 xem ch\u01b0\u01a1ng tr\u00ecnh mua hai t\u1eb7ng m\u1ed9t. T\u00f4i ngh\u0129 r\u1eb1ng \u0111\u00e2y s\u1ebd l\u00e0 m\u1ed9t c\u00e1ch tuy\u1ec7t v\u1eddi \u0111\u1ec3 t\u1eadn h\u01b0\u1edfng ng\u00e0y th\u1ee9 b\u1ea3y, v\u00ec v\u1eady t\u00f4i \u0111\u00e3 \u0111i! T\u00f4i \u0111\u00e3 xem hai b\u1ed9 phim tuy\u1ec7t v\u1eddi. M\u1ed9t trong nh\u1eefng b\u1ed9 phim t\u00f4i \u0111\u00e3 xem r\u1ea5t m\u1edbi \u0111\u1ed1i v\u1edbi t\u00f4i: \u0111\u00f3 l\u00e0 v\u1ec1 c\u00e1c nh\u00e0 khoa h\u1ecdc \u0111ang th\u1ef1c hi\u1ec7n s\u1ee9 m\u1ec7nh trong kh\u00f4ng gian. T\u00f4i r\u1ea5t th\u00edch b\u1ed9 phim \u0111\u00f3!</span></p><p><span>\u0110\u1ed1i v\u1edbi m\u1ed9t ng\u01b0\u1eddi h\u00e2m m\u1ed9 \u0111i\u1ec7n \u1ea3nh nh\u01b0 t\u00f4i, ch\u01b0\u01a1ng tr\u00ecnh khuy\u1ebfn m\u00e3i c\u1ee7a R\u1ea1p chi\u1ebfu phim Merrington th\u1eadt ho\u00e0n h\u1ea3o. T\u00f4i hi\u1ec3u s\u1ebd c\u00f3 m\u1ed9t ch\u01b0\u01a1ng tr\u00ecnh khuy\u1ebfn m\u00e3i t\u01b0\u01a1ng t\u1ef1 cho phim c\u1ee7a Meredeth B\u00f9i v\u00e0o th\u00e1ng 10. t\u00f4i ch\u1eafc ch\u1eafn s\u1ebd t\u1eadn d\u1ee5ng c\u00e1c \u01b0u \u0111\u00e3i tuy\u1ec7t v\u1eddi nh\u01b0 th\u1ebf n\u00e0y m\u1ed9t l\u1ea7n n\u1eefa.</span></p><p><span>-Talia Pak .</span></p>",
+    "questions": [
+      {
+        "question": "According to the article, how did Mr. Rubio become interested in the cinema?",
+        "number": "191",
+        "A": "His family worked in the movie business.",
+        "B": "He participated in a film club at school.",
+        "C": "He visited a movie theater frequently in his youth.",
+        "D": "He used to be a ticket seller in a movie theater.",
+        "answer": "C",
+        "detail": "<p><b>D\u1ecbch \u0111\u00e1p \u00e1n:</b></p><p><span>191. Theo b\u00e0i b\u00e1o, anh Rubio b\u1eaft \u0111\u1ea7u quan t\u00e2m \u0111\u1ebfn r\u1ea1p chi\u1ebfu phim nh\u01b0 th\u1ebf n\u00e0o?</span></p><p><span>(A) Gia \u0111\u00ecnh anh \u1ea5y l\u00e0m vi\u1ec7c trong ng\u00e0nh kinh doanh \u0111i\u1ec7n \u1ea3nh.</span></p><p><span>(B) Anh \u1ea5y tham gia c\u00e2u l\u1ea1c b\u1ed9 \u0111i\u1ec7n \u1ea3nh \u1edf tr\u01b0\u1eddng.</span></p><p><span>(C) Anh \u1ea5y th\u01b0\u1eddng xuy\u00ean \u0111\u1ebfn r\u1ea1p chi\u1ebfu phim khi c\u00f2n tr\u1ebb.</span></p><p><span>(D) Anh \u1ea5y t\u1eebng l\u00e0 ng\u01b0\u1eddi b\u00e1n v\u00e9 trong r\u1ea1p chi\u1ebfu phim.</span></p>"
+      },
+      {
+        "question": "According to the first Web page, why is Merrington Cinema offering a promotion?",
+        "number": "192",
+        "A": "It recently opened and wants to attract customers.",
+        "B": "It is celebrating a director\u2019s birthday.",
+        "C": "It has partnered with a movie studio to show certain movies.",
+        "D": "It wants to advertise its new upgraded premises.",
+        "answer": "B",
+        "detail": "<p><span>192. Theo trang web \u0111\u1ea7u ti\u00ean, t\u1ea1i sao Merrington Cinema l\u1ea1i c\u00f3 ch\u01b0\u01a1ng tr\u00ecnh khuy\u1ebfn m\u00e3i?</span></p><p><span>(A) N\u00f3 m\u1edbi m\u1edf v\u00e0 mu\u1ed1n thu h\u00fat kh\u00e1ch h\u00e0ng.</span></p><p><span>(B) N\u00f3 \u0111ang t\u1ed5 ch\u1ee9c sinh nh\u1eadt cho \u0111\u1ea1o di\u1ec5n.</span></p><p><span>(C) N\u00f3 \u0111\u00e3 h\u1ee3p t\u00e1c v\u1edbi m\u1ed9t h\u00e3ng phim \u0111\u1ec3 chi\u1ebfu m\u1ed9t s\u1ed1 b\u1ed9 phim.</span></p><p><span>(D) N\u00f3 mu\u1ed1n qu\u1ea3ng c\u00e1o c\u01a1 s\u1edf m\u1edbi \u0111\u01b0\u1ee3c n\u00e2ng c\u1ea5p c\u1ee7a m\u00ecnh.</span></p>"
+      },
+      {
+        "question": "According to the first Web page, what do the four listed movies have in common?",
+        "number": "193",
+        "A": "They are all less than 120 minutes long.",
+        "B": "They all focus on friendships.",
+        "C": "They are all early films of Mr. Rubio's.",
+        "D": "They have all received awards.",
+        "answer": "C",
+        "detail": "<p><span>193. Theo trang web \u0111\u1ea7u ti\u00ean, b\u1ed1n b\u1ed9 phim \u0111\u01b0\u1ee3c li\u1ec7t k\u00ea c\u00f3 \u0111i\u1ec3m g\u00ec chung?</span></p><p><span>(A) T\u1ea5t c\u1ea3 ch\u00fang \u0111\u1ec1u d\u00e0i d\u01b0\u1edbi 120 ph\u00fat.</span></p><p><span>(B) T\u1ea5t c\u1ea3 ch\u00fang \u0111\u1ec1u t\u1eadp trung v\u00e0o t\u00ecnh b\u1ea1n.</span></p><p><span>(C) Ch\u00fang \u0111\u1ec1u l\u00e0 nh\u1eefng b\u1ed9 phim \u0111\u1ea7u ti\u00ean c\u1ee7a \u00f4ng Rubio.</span></p><p><span>(D) T\u1ea5t c\u1ea3 ch\u00fang \u0111\u1ec1u \u0111\u00e3 nh\u1eadn \u0111\u01b0\u1ee3c gi\u1ea3i th\u01b0\u1edfng.</span></p>"
+      },
+      {
+        "question": "What did Ms. Pak find surprising about Mr. Rubio?",
+        "number": "194",
+        "A": "He is teaching at a local film school.",
+        "B": "He directed movies for nearly 40 years.",
+        "C": "He worked in many genres.",
+        "D": "He has opened his own movie theater.",
+        "answer": "A",
+        "detail": "<p><span>194. B\u00e0 Pak th\u1ea5y ng\u1ea1c nhi\u00ean v\u1ec1 \u0111i\u1ec1u g\u00ec \u1edf \u00f4ng Rubio?</span></p><p><span>(A) \u00d4ng \u1ea5y \u0111ang gi\u1ea3ng d\u1ea1y t\u1ea1i m\u1ed9t tr\u01b0\u1eddng \u0111i\u1ec7n \u1ea3nh \u0111\u1ecba ph\u01b0\u01a1ng.</span></p><p><span>(B) \u00d4ng \u1ea5y \u0111\u00e3 \u0111\u1ea1o di\u1ec5n phim trong g\u1ea7n 40 n\u0103m.</span></p><p><span>(C) \u00d4ng \u1ea5y l\u00e0m vi\u1ec7c trong nhi\u1ec1u th\u1ec3 lo\u1ea1i.</span></p><p><span>(D) \u00d4ng \u1ea5y \u0111\u00e3 m\u1edf r\u1ea1p chi\u1ebfu phim c\u1ee7a ri\u00eang m\u00ecnh.</span></p>"
+      },
+      {
+        "question": "What movie did Ms. Pak see recently for the first time?",
+        "number": "195",
+        "A": "Put a Roof on It",
+        "B": "Through a Diamond Rain",
+        "C": "Weekends and Memories",
+        "D": "The Strange Drive",
+        "answer": "B",
+        "detail": "<p><b>D\u1ecbch \u0111\u00e1p \u00e1n:</b></p><p><span>195. G\u1ea7n \u0111\u00e2y c\u00f4 Pak \u0111\u00e3 xem b\u1ed9 phim n\u00e0o l\u1ea7n \u0111\u1ea7u ti\u00ean?</span></p><p><span>(A) Put a Roof on It</span></p><p><span>(B) Through a Diamond Rain</span></p><p><span>(C) Weekends and Memories</span></p><p><span>(D) The Strange Drive</span></p>"
+      }
+    ]
+  },
+  {
+    "context_question_img": [
+      "https://study4.com/media/ets2023/img/9/image7.png",
+      "https://study4.com/media/ets2023/img/9/image8.png",
+      "https://study4.com/media/ets2023/img/9/image9.png"
+    ],
+    "context_transcript": "<p><b>D\u1ecbch ngh\u0129a:</b></p><p><span>Ch\u00ednh s\u00e1ch g\u1eedi</span></p><p><span>Undeniable l\u00e0 m\u1ed9t t\u1ea1p ch\u00ed v\u0103n h\u1ecdc \u0111\u01b0\u1ee3c h\u1ed7 tr\u1ee3 b\u1edfi qu\u1ea3ng c\u00e1o v\u1ec1 ti\u1ec3u thuy\u1ebft ng\u1eafn v\u00e0 phi h\u01b0 c\u1ea5u c\u1ee7a c\u00e1c nh\u00e0 v\u0103n m\u1edbi n\u1ed5i. Ch\u00fang t\u00f4i mi\u1ec5n ph\u00ed $5 cho nh\u1eefng ng\u01b0\u1eddi g\u1eedi l\u1ea7n \u0111\u1ea7u.</span></p><p><span>\u2022C\u00e1c c\u00e2u chuy\u1ec7n ph\u1ea3i t\u1eeb 250 \u0111\u1ebfn 1.000 t\u1eeb (kh\u00f4ng c\u00f3 th\u01a1).</span></p><p><span>\u2022Kh\u00f4ng k\u00e8m h\u00ecnh \u1ea3nh minh h\u1ecda. T\u1ea5t c\u1ea3 c\u00e1c h\u00ecnh minh h\u1ecda \u0111\u01b0\u1ee3c s\u1ea3n xu\u1ea5t in-house.</span></p><p><span>\u2022\u0110\u00ednh k\u00e8m c\u00e2u chuy\u1ec7n c\u1ee7a b\u1ea1n trong e-mail t\u1edbi: <a class=\"__cf_email__\" data-cfemail=\"90e3e5f2fdf9e4e3d0e5fef4f5fef9f1f2fcf5bef3fffd\" href=\"/cdn-cgi/l/email-protection\">[email\u00a0protected]</a>. Vui l\u00f2ng bao g\u1ed3m m\u1ed9t b\u1ea3n t\u00f3m t\u1eaft ng\u1eafn g\u1ecdn v\u1ec1 t\u00e1c ph\u1ea9m c\u1ee7a b\u1ea1n v\u00e0 cho ch\u00fang t\u00f4i bi\u1ebft b\u1ea1n \u0111\u00e3 ph\u00e1t hi\u1ec7n ra Undeniable nh\u01b0 th\u1ebf n\u00e0o.</span></p><p><span>\u2022Ch\u00fang t\u00f4i tr\u1ea3 ti\u1ec1n th\u00f9 lao $50 sau khi ch\u1ea5p nh\u1eadn xu\u1ea5t b\u1ea3n.</span></p><p><span>\u2022N\u1ebfu ch\u00fang t\u00f4i ch\u1ea5p nh\u1eadn c\u00e2u chuy\u1ec7n c\u1ee7a b\u1ea1n, ch\u00fang t\u00f4i s\u1ebd g\u1eedi cho b\u1ea1n h\u1ee3p \u0111\u1ed3ng v\u00e0 bi\u1ec3u m\u1eabu \u0111\u1ec3 thi\u1ebft l\u1eadp chuy\u1ec3n ti\u1ec1n \u0111i\u1ec7n t\u1eed.</span></p><p><span>\u2014-----------------------</span></p><p><span>T\u1edbi: <a class=\"__cf_email__\" data-cfemail=\"e4979186898d9097a4918a80818a8d85868881ca878b89\" href=\"/cdn-cgi/l/email-protection\">[email\u00a0protected]</a></span></p><p><span>T\u1eeb: <a class=\"__cf_email__\" data-cfemail=\"177b7279396462637f72657b7679735778796e6f7a767e7b3974787a\" href=\"/cdn-cgi/l/email-protection\">[email\u00a0protected]</a></span></p><p><span>Ng\u00e0y: 15 th\u00e1ng 3</span></p><p><span>Ch\u1ee7 \u0111\u1ec1: Th\u01b0 xin vi\u1ec7c v\u00e0 n\u1ed9p.</span></p><p><span>T\u1eadp tin \u0111\u00ednh k\u00e8m: H\u00e0nh tr\u00ecnh c\u1ee7a Ji</span></p><p><span>Xin ch\u00e0o!</span></p><p><span>T\u00e0i li\u1ec7u n\u1ed9p c\u1ee7a t\u00f4i, ''H\u00e0nh tr\u00ecnh c\u1ee7a Ji.'' xoay quanh m\u1ed9t nh\u00e0 thi\u1ebft k\u1ebf trang ph\u1ee5c tr\u1ebb tu\u1ed5i, Toby Ji, ng\u01b0\u1eddi \u0111\u00e3 v\u01b0\u1ee3t qua nh\u1eefng tr\u1edf ng\u1ea1i \u0111\u1ec3 th\u1ef1c hi\u1ec7n \u01b0\u1edbc m\u01a1 c\u1ee7a m\u00ecnh trong ng\u00e0nh th\u1eddi trang. T\u00f4i \u0111\u00e3 \u0111\u01b0\u1ee3c ng\u01b0\u1eddi h\u01b0\u1edbng d\u1eabn vi\u1ebft l\u00e1ch c\u1ee7a m\u00ecnh t\u1ea1i Vi\u1ec7n Artman \u1edf Portland, Oregon gi\u1edbi thi\u1ec7u v\u1ec1 Undeniable v\u00e0o n\u0103m ngo\u00e1i v\u00e0 k\u1ec3 t\u1eeb \u0111\u00f3 t\u00f4i \u0111\u00e3 tr\u1edf th\u00e0nh ng\u01b0\u1eddi \u0111\u0103ng k\u00fd. T\u00f4i \u0111\u1eb7c bi\u1ec7t th\u00edch Nonznfiction Corner c\u1ee7a b\u1ea1n; m\u1ed9t trong nh\u1eefng m\u1ee5c y\u00eau th\u00edch c\u1ee7a t\u00f4i l\u00e0 ''Waygone Beach'', \u0111\u00e3 truy\u1ec1n c\u1ea3m h\u1ee9ng cho t\u00f4i vi\u1ebft ''Ji's Journey''. T\u00f4i tin r\u1eb1ng n\u00f3 s\u1ebd l\u00e0 m\u1ed9t s\u1ef1 ph\u00f9 h\u1ee3p l\u00fd t\u01b0\u1edfng cho ph\u1ea7n n\u00e0y. Nh\u01b0 ''Waygone Beach'' ''Ji's Journey'' l\u00e0 m\u1ed9t c\u00e2u chuy\u1ec7n c\u00f3 th\u1eadt v\u1ec1 hy v\u1ecdng v\u00e0 s\u1ef1 ki\u00ean tr\u00ec.</span></p><p><span>C\u1ea3m \u01a1n b\u1ea1n \u0111\u00e3 quan t\u00e2m v\u00e0 t\u1ea1o di\u1ec5n \u0111\u00e0n cho nh\u1eefng ng\u01b0\u1eddi vi\u1ebft m\u1edbi nh\u01b0 t\u00f4i.</span></p><p><span>Tr\u00e2n tr\u1ecdng,</span></p><p><span>Len Sutherland</span></p><p><span>\u2014-----------------------</span></p><p><span></span></p><p><span>\u0110\u1ebeN: <a class=\"__cf_email__\" data-cfemail=\"234f464d0d5056574b46514f424d47634c4d5a5b4e424a4f0d404c4e\" href=\"/cdn-cgi/l/email-protection\">[email\u00a0protected]</a></span></p><p><span>T\u1eeb: <a class=\"__cf_email__\" data-cfemail=\"bfd5dacdcdc6ddcadcd4d2ded1ffcad1dbdad1d6deddd3da91dcd0d2\" href=\"/cdn-cgi/l/email-protection\">[email\u00a0protected]</a></span></p><p><span>Ng\u00e0y: 2 th\u00e1ng 7</span></p><p><span>Ch\u1ee7 th\u1ec3: B\u00e0i n\u1ed9p c\u1ee7a b\u1ea1n</span></p><p><span>Th\u01b0a \u00f4ng Sutherland,</span></p><p><span>C\u00e2u chuy\u1ec7n c\u1ee7a b\u1ea1n, ''H\u00e0nh tr\u00ecnh c\u1ee7a Ji,'' \u0111\u00e3 t\u1ea1o ra r\u1ea5t nhi\u1ec1u ph\u1ea3n h\u1ed3i t\u00edch c\u1ef1c trong th\u00e1ng S\u00e1u. Xin ch\u00fac m\u1eebng! V\u00e0 b\u1ea3n n\u0103ng c\u1ee7a b\u1ea1n \u0111\u00e3 \u0111\u00fang v\u1ec1 v\u1ecb tr\u00ed \u0111\u0103ng t\u1ea3i c\u1ee7a c\u00e2u chuy\u1ec7n c\u1ee7a b\u1ea1n. Ch\u00fang t\u00f4i hi v\u1ecdng b\u1ea1n s\u1ebd g\u1eedi nhi\u1ec1u c\u00e2u chuy\u1ec7n h\u01a1n n\u1eefa cho Undeniable. Nh\u01b0 m\u1ed9t \u0111\u1ed9ng l\u1ef1c b\u1ed5 sung, ch\u00fang t\u00f4i s\u1ebd t\u0103ng s\u1ed1 ti\u1ec1n th\u01b0\u1edfng c\u1ee7a m\u00ecnh l\u00ean 100 \u0111\u00f4 la v\u00e0o \u0111\u1ea7u th\u00e1ng t\u1edbi.</span></p><p><span>L\u00e0 ng\u01b0\u1eddi \u0111\u0103ng k\u00fd, b\u1ea1n c\u00f3 th\u1ec3 quen thu\u1ed9c v\u1edbi m\u1ee5c c\u00e2u h\u1ecfi v\u00e0 c\u00e2u tr\u1ea3 l\u1eddi c\u1ee7a Stacy Jordan gi\u1edbi thi\u1ec7u m\u1ed9t nh\u00e0 v\u0103n kh\u00e1c nhau m\u1ed7i th\u00e1ng. B\u1ea1n c\u00f3 s\u1eb5n s\u00e0ng tr\u1ea3 l\u1eddi m\u1ed9t v\u00e0i c\u00e2u h\u1ecfi v\u1ec1 vi\u1ec7c \u0111\u00e0o t\u1ea1o v\u0103n h\u1ecdc c\u1ee7a b\u1ea1n, ph\u01b0\u01a1ng ph\u00e1p vi\u1ebft, v\u00e0 l\u00e0m th\u1ebf n\u00e0o b\u1ea1n t\u00ecm th\u1ea5y nh\u1eefng \u00fd t\u01b0\u1edfng c\u00e2u chuy\u1ec7n? N\u1ebfu v\u1eady, t\u00f4i s\u1ebd chuy\u1ec3n ti\u1ebfp \u0111\u1ecba ch\u1ec9 e-mail c\u1ee7a b\u1ea1n cho c\u00f4 Jordan, ng\u01b0\u1eddi s\u1ebd li\u00ean l\u1ea1c v\u1edbi b\u1ea1n trong th\u1eddi gian t\u1edbi.</span></p><p><span>Tr\u00e2n tr\u1ecdng, Jerry Buckman</span></p><p><span>Ph\u00f3 t\u1ed5ng bi\u00ean t\u1eadp</span></p>",
+    "questions": [
+      {
+        "question": "What does the policy indicate about Undeniable?",
+        "number": "196",
+        "A": "It does not accept poems.",
+        "B": "It has no advertisements.",
+        "C": "It requires writers to submit drawings.",
+        "D": "It publishes the work of famous authors.",
+        "answer": "A",
+        "detail": "<p>196. Ch\u00ednh s\u00e1ch ch\u1ec9 ra \u0111i\u1ec1u g\u00ec v\u1ec1 Undeniable?</p>\n<p>(A) H\u1ecd kh\u00f4ng ch\u1ea5p nh\u1eadn nh\u1eefng b\u00e0i th\u01a1.</p>\n<p>(B) H\u1ecd kh\u00f4ng c\u00f3 qu\u1ea3ng c\u00e1o.</p>\n<p>(C) H\u1ecd y\u00eau c\u1ea7u ng\u01b0\u1eddi vi\u1ebft n\u1ed9p b\u1ea3n v\u1ebd.</p>\n<p>(D) H\u1ecd xu\u1ea5t b\u1ea3n t\u00e1c ph\u1ea9m c\u1ee7a c\u00e1c t\u00e1c gi\u1ea3 n\u1ed5i ti\u1ebfng.</p>"
+      },
+      {
+        "question": "According to the first e-mail, where did Mr. Sutherland discover Undeniable?",
+        "number": "197",
+        "A": "In a public library",
+        "B": "In a school bookstore",
+        "C": "In a writing class",
+        "D": "In a clothing shop",
+        "answer": "C",
+        "detail": "<p>197. Theo e-mail \u0111\u1ea7u ti\u00ean, \u00f4ng Sutherland \u0111\u00e3 kh\u00e1m ph\u00e1 ra Undeniable 2 \u1edf \u0111\u00e2u?</p>\n<p>(A) Trong m\u1ed9t th\u01b0 vi\u1ec7n c\u00f4ng c\u1ed9ng</p>\n<p>(B) Trong hi\u1ec7u s\u00e1ch tr\u01b0\u1eddng h\u1ecdc</p>\n<p>(C) Trong m\u1ed9t l\u1edbp h\u1ecdc vi\u1ebft</p>\n<p>(D) Trong m\u1ed9t c\u1eeda h\u00e0ng qu\u1ea7n \u00e1o</p>"
+      },
+      {
+        "question": "What can be concluded about \u201cWaygone Beach\u201d?",
+        "number": "198",
+        "A": "It takes place in Portland, Oregon.",
+        "B": "It was not accepted for publication.",
+        "C": "It is Mr. Sutherland\u2019s first story.",
+        "D": "It does not exceed 1,000 words.",
+        "answer": "D",
+        "detail": "<p><span>198. C\u00f3 th\u1ec3 k\u1ebft lu\u1eadn g\u00ec v\u1ec1 \u201cWaygone Beach\u201d?</span></p><p><span>(A) N\u00f3 di\u1ec5n ra \u1edf Portland, Oregon.</span></p><p><span>(B) N\u00f3 kh\u00f4ng \u0111\u01b0\u1ee3c ch\u1ea5p nh\u1eadn \u0111\u1ec3 xu\u1ea5t b\u1ea3n.</span></p><p><span>(C) \u0110\u00f3 l\u00e0 c\u00e2u chuy\u1ec7n \u0111\u1ea7u ti\u00ean c\u1ee7a \u00f4ng Sutherland.</span></p><p><span>(D) N\u00f3 kh\u00f4ng v\u01b0\u1ee3t qu\u00e1 1.000 t\u1eeb.</span></p>"
+      },
+      {
+        "question": "How much did Mr. Sutherland receive for his story in the June issue of Undeniable?",
+        "number": "199",
+        "A": "$5",
+        "B": "$50",
+        "C": "$100",
+        "D": "$250",
+        "answer": "B",
+        "detail": "<p><b>D\u1ecbch \u0111\u00e1p \u00e1n:</b></p><p><span>199. \u00d4ng Sutherland \u0111\u00e3 nh\u1eadn \u0111\u01b0\u1ee3c bao nhi\u00eau cho c\u00e2u chuy\u1ec7n c\u1ee7a m\u00ecnh trong s\u1ed1 th\u00e1ng 6 c\u1ee7a t\u1edd Undeniable 2?</span></p><p><span>(A) $5</span></p><p><span>(B) $50</span></p><p><span>(C) $100</span></p><p><span>(D) $250</span></p>"
+      },
+      {
+        "question": "What does the second e-mail suggest about Ms. Jordan?",
+        "number": "200",
+        "A": "She plans to renew her subscription.",
+        "B": "She writes a column for Undeniable.",
+        "C": "She teaches writing classes.",
+        "D": "She has an unusual writing method.",
+        "answer": "B",
+        "detail": "<p><span>200. Email th\u1ee9 hai g\u1ee3i \u00fd \u0111i\u1ec1u g\u00ec v\u1ec1 c\u00f4 Jordan?</span></p><p><span>(A) C\u00f4 \u1ea5y d\u1ef1 \u0111\u1ecbnh gia h\u1ea1n \u0111\u0103ng k\u00fd c\u1ee7a m\u00ecnh.</span></p><p><span>(B) C\u00f4 \u1ea5y vi\u1ebft m\u1ed9t chuy\u00ean m\u1ee5c cho Undeniable.</span></p><p><span>(C) C\u00f4 \u1ea5y d\u1ea1y c\u00e1c l\u1edbp vi\u1ebft.</span></p><p><span>(D) C\u00f4 \u1ea5y c\u00f3 m\u1ed9t ph\u01b0\u01a1ng ph\u00e1p vi\u1ebft kh\u00e1c th\u01b0\u1eddng.</span></p><p><span></span></p>"
+      }
+    ]
+  }
+]

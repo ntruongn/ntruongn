@@ -1,0 +1,252 @@
+[
+  {
+    "audio": "https://study4.com/media/ets2023/audio/ets-test-05-part-2-7.mp3",
+    "transcript": "<p><span></span></p><p><span>Where can I buy tickets for the orchestra\u2019s fund-raiser?</span></p><p><span>(A) Oyer the next week.</span></p><p><span>(B) On the fifth floor.</span></p><p><span>(C) I suppose; if you want to.</span></p><p><span></span></p>",
+    "number": "7",
+    "A": "",
+    "B": "",
+    "C": "",
+    "answer": "B",
+    "detail": "<p><span>7. T\u00f4i c\u00f3 th\u1ec3 mua v\u00e9 cho bu\u1ed5i bi\u1ec3u di\u1ec5n nh\u1ea1c g\u00e2y qu\u1ef9 \u1edf \u0111\u00e2u?</span></p><p><span>(A) Trong tu\u1ea7n t\u1edbi.</span></p><p><span>(B) \u1ede tr\u00ean t\u1ea7ng 15.</span></p><p><span>(C) T\u00f4i cho r\u1eb1ng; n\u1ebfu b\u1ea1n mu\u1ed1n v\u1eady.</span></p>"
+  },
+  {
+    "audio": "https://study4.com/media/ets2023/audio/ets-test-05-part-2-8.mp3",
+    "transcript": "<p><span></span></p><p><span>How long does your commute take?</span></p><p><span>(A) The gym opens early.</span></p><p><span>(B) I\u2019ve been working here since March.</span></p><p><span>(C) About an hour lately.</span></p><p><span></span></p>",
+    "number": "8",
+    "A": "",
+    "B": "",
+    "C": "",
+    "answer": "C",
+    "detail": "<p><span>8. Th\u1eddi gian \u0111i l\u1ea1i c\u1ee7a b\u1ea1n m\u1ea5t bao l\u00e2u?</span></p><p><span>(A) Ph\u00f2ng th\u1ec3 h\u00ecnh m\u1edf c\u1eeda s\u1edbm</span></p><p><span>(B) T\u00f4i \u0111\u00e3 l\u00e0m vi\u1ec7c \u1edf \u0111\u00e2y t\u1eeb th\u00e1ng 3</span></p><p><span>(C) Kho\u1ea3ng 1 gi\u1edd g\u1ea7n \u0111\u00e2y.</span></p>"
+  },
+  {
+    "audio": "https://study4.com/media/ets2023/audio/ets-test-05-part-2-9.mp3",
+    "transcript": "<p><span></span></p><p><span>What\u2019s good to order at this cafe?</span></p><p><span>(A) I recommend the coffee and baked goods.</span></p><p><span>(B) Your food is on the way.</span></p><p><span>(C) It was sent this morning.</span></p>",
+    "number": "9",
+    "A": "",
+    "B": "",
+    "C": "",
+    "answer": "A",
+    "detail": "<p><span></span></p><p><span>9. M\u00f3n n\u00e0o ngon \u0111\u1ec3 g\u1ecdi \u1edf qu\u00e1n c\u00e0 ph\u00ea n\u00e0y?</span></p><p><span>(A) T\u00f4i ti\u1ebfn c\u1eed c\u00e0 ph\u00ea v\u00e0 b\u00e1nh.</span></p><p><span>(B) \u0110\u1ed3 \u0103n c\u1ee7a b\u1ea1n \u0111ang tr\u00ean \u0111\u01b0\u1eddng.</span></p><p><span>(C) N\u00f3 \u0111\u00e3 \u0111\u1ee3c g\u1eedi v\u00e0o s\u00e1ng nay.</span></p>"
+  },
+  {
+    "audio": "https://study4.com/media/ets2023/audio/ets-test-05-part-2-10.mp3",
+    "transcript": "<p><span></span></p><p><span>When\u2019s the new office furniture going to be delivered?</span></p><p><span>(A) At the end of the report.</span></p><p><span>(B) I already finished the revision.</span></p><p><span>(C) It\u2019ll be here next week.</span></p>",
+    "number": "10",
+    "A": "",
+    "B": "",
+    "C": "",
+    "answer": "C",
+    "detail": "<p><span></span></p><p><span>10. N\u1ed9i th\u1ea5t v\u0103n ph\u00f2ng m\u1edbi s\u1ebd \u0111\u01b0\u1ee3c v\u1eadn chuy\u1ec3n khi n\u00e0o?</span></p><p><span>(A) T\u1ea1i cu\u1ed1i b\u1ea3n b\u00e1o c\u00e1o</span></p><p><span>(B) T\u00f4i \u0111\u00e3 ho\u00e0nh th\u00e0nh xong b\u1ea3n ch\u1ec9nh s\u1eeda.</span></p><p><span>(C) N\u00f3 s\u1ebd t\u1edbi \u0111\u00e2y tu\u1ea7n sau.</span></p>"
+  },
+  {
+    "audio": "https://study4.com/media/ets2023/audio/ets-test-05-part-2-11.mp3",
+    "transcript": "<p><span></span></p><p><span>Who\u2019s holding the training session on Thursday?</span></p><p><span>(A) Marcela\u2019s leading it.</span></p><p><span>(B) I exercise regularly.</span></p><p><span>(C) He was late today.</span></p>",
+    "number": "11",
+    "A": "",
+    "B": "",
+    "C": "",
+    "answer": "A",
+    "detail": "<p><span></span></p><p><span>11. Ai s\u1ebd l\u00e0 ng\u01b0\u1eddi t\u1ed5 ch\u1ee9c bu\u1ed5i \u0111\u00e0o t\u1ea1o v\u00e0o th\u1ee9 5?</span></p><p><span>(A) Marcela s\u1ebd d\u1eabn d\u1eaft n\u00f3.</span></p><p><span>(B) T\u00f4i t\u1eadp th\u1ec3 d\u1ee5c th\u01b0\u1eddng xuy\u00ean.</span></p><p><span>(C) Anh \u1ea5y h\u00f4m nay \u0111\u1ebfn mu\u1ed9n.</span></p>"
+  },
+  {
+    "audio": "https://study4.com/media/ets2023/audio/ets-test-05-part-2-12.mp3",
+    "transcript": "<p><span></span></p><p><span>When should we hire extra help for the holidays?</span></p><p><span>(A) A helpful assistant.</span></p><p><span>(B) A fun party.</span></p><p><span>(C) As soon as possible.</span></p>",
+    "number": "12",
+    "A": "",
+    "B": "",
+    "C": "",
+    "answer": "C",
+    "detail": "<p><span></span></p><p><span>12. Khi n\u00e0o ch\u00fang ta n\u00ean thu\u00ea th\u00eam ng\u01b0\u1eddi gi\u00fap cho k\u1ef3 ngh\u1ec9 l\u1ec5?</span></p><p><span>(A) M\u1ed9t ng\u01b0\u1eddi tr\u1ee3 l\u00fd h\u1eefu \u00edch.</span></p><p><span>(B) M\u1ed9t b\u1eefa ti\u1ec7c vui nh\u1ed9n.</span></p><p><span>(C) C\u00e0ng s\u1edbm c\u00e0ng t\u1ed1t.</span></p>"
+  },
+  {
+    "audio": "https://study4.com/media/ets2023/audio/ets-test-05-part-2-13.mp3",
+    "transcript": "<p><span></span></p><p><span>Why did you pick the color green for the product packaging?</span></p><p><span>(A) Because it matches our uniforms.</span></p><p><span>(B) I will pick it up tomorrow.</span></p><p><span>(C) Not until we know the menu options.</span></p>",
+    "number": "13",
+    "A": "",
+    "B": "",
+    "C": "",
+    "answer": "A",
+    "detail": "<p><span></span></p><p><span>13. T\u1ea1i sao b\u1ea1n l\u1ea1i ch\u1ecdn m\u00e0u xanh cho bao b\u00ec s\u1ea3n ph\u1ea9m?</span></p><p><span>(A) V\u00ec n\u00f3 ph\u00f9 h\u1ee3p v\u1edbi \u0111\u1ed3ng ph\u1ee5c c\u1ee7a ch\u00fang ta.</span></p><p><span>(B) T\u00f4i s\u1ebd l\u1ea5y n\u00f3 v\u00e0o ng\u00e0y mai</span></p><p><span>(C) Kh\u00f4ng cho \u0111\u1ebfn khi ch\u00fang ta bi\u1ebft c\u00e1c t\u00f9y ch\u1ecdn th\u1ef1c \u0111\u01a1n.</span></p>"
+  },
+  {
+    "audio": "https://study4.com/media/ets2023/audio/ets-test-05-part-2-14.mp3",
+    "transcript": "<p><span></span></p><p><span>When's the budget report due?</span></p><p><span>(A) Sounds too expensive.</span></p><p><span>(B) By end of day on Friday.</span></p><p><span>(C) I can pay you back tomorrow.</span></p>",
+    "number": "14",
+    "A": "",
+    "B": "",
+    "C": "",
+    "answer": "B",
+    "detail": "<p><span></span></p><p><span>14. B\u1ea3n b\u00e1o c\u1ea3o ng\u00e2n s\u00e1ch \u0111\u1ebfn h\u1ea1n khi n\u00e0o?</span></p><p><span>(A) Nghe c\u00f3 v\u1ebb \u0111\u1eaft \u0111\u1ea5y.</span></p><p><span>(B) V\u00e0o cu\u1ed1i ng\u00e0y th\u1ee9 6.</span></p><p><span>(C) T\u00f4i c\u00f3 th\u1ec3 tr\u1ea3 l\u1ea1i b\u1ea1n v\u00e0o ng\u00e0y mai</span></p>"
+  },
+  {
+    "audio": "https://study4.com/media/ets2023/audio/ets-test-05-part-2-15.mp3",
+    "transcript": "<p>\u00a0</p>\n<p>\u00a015. Which shopping bag should I bring?</p>\n<p>(A) Just outside the store.</p>\n<p>(B) The large one.</p>\n<p>(C) No, it isn\u2019t.</p>",
+    "number": "15",
+    "A": "",
+    "B": "",
+    "C": "",
+    "answer": "B",
+    "detail": "<p>\u00a0</p>\n<p>15. T\u00f4i n\u00ean mang t\u00fai mua s\u1eafm n\u00e0o nh\u1ec9?</p>\n<p>(A) Ngay ngo\u00e0i c\u1eeda h\u00e0ng.</p>\n<p>(B) C\u00e1i t\u00fai to.</p>\n<p>(C) Kh\u00f4ng, n\u00f3 kh\u00f4ng ph\u1ea3i.</p>"
+  },
+  {
+    "audio": "https://study4.com/media/ets2023/audio/ets-test-05-part-2-16.mp3",
+    "transcript": "<p><span></span></p><p><span> Don\u2019t forget to add another table to the conference room.</span></p><p><span>(A) Probably the yoga class.</span></p><p><span>(B) No, they didn\u2019t.</span></p><p><span>(C) OK, I\u2019ll do that now.</span></p><p><span></span></p>",
+    "number": "16",
+    "A": "",
+    "B": "",
+    "C": "",
+    "answer": "C",
+    "detail": "<p><span>16. \u0110\u1eebng qu\u00ean th\u00eam 1 chi\u1ebfc b\u00e0n kh\u00e1c v\u00e0o ph\u00f2ng h\u1ed9i ngh\u1ecb.</span></p><p><span>(A) C\u00f3 l\u1ebd l\u00e0 l\u1edbp yoga.</span></p><p><span>(B) Kh\u00f4ng, h\u1ecd kh\u00f4ng l\u00e0m.</span></p><p><span>(C) OK, t\u00f4i s\u1ebd l\u00e0m b\u00e2y gi\u1edd.</span></p>"
+  },
+  {
+    "audio": "https://study4.com/media/ets2023/audio/ets-test-05-part-2-17.mp3",
+    "transcript": "<p><span></span></p><p><span>Who from our office is going to the conference?</span></p><p><span>(A) I am enjoying our new assignment.</span></p><p><span>(B) At the hotel downtown.</span></p><p><span>(C) Leslie and her support staff.</span></p><p><span></span></p>",
+    "number": "17",
+    "A": "",
+    "B": "",
+    "C": "",
+    "answer": "C",
+    "detail": "<p><span>17. Ai trong v\u0103n ph\u00f2ng ch\u00fang ta s\u1ebd t\u1edbi h\u1ed9i ngh\u1ecb?</span></p><p><span>(A) T\u00f4i \u0111ang t\u1eadn h\u01b0\u1edfng nhi\u1ec7m v\u1ee5 m\u1edbi c\u1ee7a ch\u00fang ta.</span></p><p><span>(B) T\u1ea1i kh\u00e1ch s\u1ea1n cu\u1ed1i ph\u1ed1.</span></p><p><span>(C) Leslie v\u00e0 nh\u00e2n vi\u00ean h\u1ed7 tr\u1ee3 c\u1ee7a c\u00f4 \u1ea5y.</span></p>"
+  },
+  {
+    "audio": "https://study4.com/media/ets2023/audio/ets-test-05-part-2-18.mp3",
+    "transcript": "<p><span></span></p><p><span>Where are the signs for the sale?</span></p><p><span>(A) We are advertising a fifteen percent discount.</span></p><p><span>(B) On the porch.</span></p><p><span>(C) I didn\u2019t know we had sold those items.</span></p>",
+    "number": "18",
+    "A": "",
+    "B": "",
+    "C": "",
+    "answer": "B",
+    "detail": "<p><span></span></p><p><span>18. B\u1ea3ng hi\u1ec7u b\u00e1n h\u00e0ng \u1edf \u0111\u00e2u v\u1eady?</span></p><p><span>(A) Ch\u00fang t\u00f4i \u0111ang qu\u1ea3ng c\u00e1o gi\u1ea3m gi\u00e1 15%</span></p><p><span>(B) Tr\u00ean c\u1ed5ng v\u00f2m</span></p><p><span>(C) T\u00f4i kh\u00f4ng bi\u1ebft l\u00e0 ch\u00fang ta \u0111\u00e3 b\u00e1n nh\u1eefng s\u1ea3n ph\u1ea9m \u0111\u00f3.</span></p>"
+  },
+  {
+    "audio": "https://study4.com/media/ets2023/audio/ets-test-05-part-2-19.mp3",
+    "transcript": "<p><span></span></p><p><span>Do you think we should place an advertisement in the newspaper?</span></p><p><span>(A) That\u2019s not what happened.</span></p><p><span>(B) No, I already have a subscription.</span></p><p><span>(C) Our budget is quite limited this month.</span></p>",
+    "number": "19",
+    "A": "",
+    "B": "",
+    "C": "",
+    "answer": "C",
+    "detail": "<p><span></span></p><p><span>19. B\u1ea1n c\u00f3 ngh\u0129 l\u00e0 ch\u00fang ta n\u00ean \u0111\u1eb7t m\u1ed9t qu\u1ea3ng c\u00e1o tr\u00ean b\u00e1o kh\u00f4ng?</span></p><p><span>(A) \u0110\u00f3 kh\u00f4ng ph\u1ea3i l\u00e0 nh\u1eefng g\u00ec \u0111\u00e3 x\u1ea3y ra</span></p><p><span>(B) Kh\u00f4ng, t\u00f4i \u0111\u00e3 \u0111\u0103ng k\u00fd</span></p><p><span>(C) Ng\u00e2n s\u00e1ch ch\u00fang ta th\u00e1ng n\u00e0y kh\u00e1 h\u1ea1n ch\u1ebf.</span></p>"
+  },
+  {
+    "audio": "https://study4.com/media/ets2023/audio/ets-test-05-part-2-20.mp3",
+    "transcript": "<p><span></span></p><p><span>I don\u2019t remember where I put my copy of the contract.</span></p><p><span>(A) My calendar is up-to-date.</span></p><p><span>(B) I can look around for it.</span></p><p><span>(C) I don\u2019t think that\u2019s the best idea.</span></p>",
+    "number": "20",
+    "A": "",
+    "B": "",
+    "C": "",
+    "answer": "B",
+    "detail": "<p><span></span></p><p><span>20. T\u00f4i kh\u00f4ng nh\u1edb t\u00f4i \u0111\u1ec3 b\u1ea3n sao h\u1ee3p \u0111\u1ed3ng \u1edf \u0111\u00e2u.</span></p><p><span>(A) L\u1ecbch c\u1ee7a t\u00f4i \u0111\u01b0\u1ee3c c\u1eadp nh\u1eadt.</span></p><p><span>(B) T\u00f4i c\u00f3 th\u1ec3 t\u00ecm n\u00f3 xung quanh.</span></p><p><span>(C) T\u00f4i kh\u00f4ng ngh\u0129 \u0111\u00f3 l\u00e0 \u00fd ki\u1ebfn t\u1ed1t nh\u1ea5t.</span></p>"
+  },
+  {
+    "audio": "https://study4.com/media/ets2023/audio/ets-test-05-part-2-21.mp3",
+    "transcript": "<p><span></span></p><p><span>What should we order for dinner?</span></p><p><span>(A) Yes, I ate some of that yesterday.</span></p><p><span>(B) I\u2019d like something we haven't tried before.</span></p><p><span>(C) That makes sense to me.</span></p>",
+    "number": "21",
+    "A": "",
+    "B": "",
+    "C": "",
+    "answer": "B",
+    "detail": "<p><span></span></p><p><span>21. Ch\u00fang ta n\u00ean g\u1ecdi m\u00f3n g\u00ec cho b\u1eefa t\u1ed1i?</span></p><p><span>(A) V\u00e2ng, t\u00f4i \u0111\u00e3 \u0103n m\u1ed9t \u00edt ng\u00e0y h\u00f4m qua.</span></p><p><span>(B) T\u00f4i th\u00edch m\u00f3n m\u00e0 ch\u00fang ta ch\u01b0a t\u1eebng th\u1eed tr\u01b0\u1edbc \u0111\u00e2y.</span></p><p><span>(C) \u0110i\u1ec1u \u0111\u00f3 c\u00f3 \u00fd ngh\u0129a v\u1edbi t\u00f4i.</span></p>"
+  },
+  {
+    "audio": "https://study4.com/media/ets2023/audio/ets-test-05-part-2-22.mp3",
+    "transcript": "<p><span></span></p><p><span>I thought the new safety training was supposed to start tomorrow.</span></p><p><span>(A) Yes, you're right.</span></p><p><span>(B) An old computer.</span></p><p><span>(C) The ones on the counter.</span></p>",
+    "number": "22",
+    "A": "",
+    "B": "",
+    "C": "",
+    "answer": "A",
+    "detail": "<p><span></span></p><p><span>22. T\u00f4i ngh\u0129 kh\u00f3a \u0111\u00e0o t\u1ea1o an to\u00e0n m\u1edbi \u0111\u00e1ng l\u1ebd ra n\u00ean \u0111\u01b0\u1ee3c b\u1eaft \u0111\u1ea7u v\u00e0o ng\u00e0y mai.</span></p><p><span>(A) V\u00e2ng, b\u1ea1n \u0111\u00fang \u0111\u1ea5y.</span></p><p><span>(B) M\u1ed9t m\u00e1y t\u00ednh c\u0169.</span></p><p><span>(C) Nh\u1eefng c\u00e1i tr\u00ean qu\u1ea7y.</span></p>"
+  },
+  {
+    "audio": "https://study4.com/media/ets2023/audio/ets-test-05-part-2-23.mp3",
+    "transcript": "<p><span></span></p><p><span>Should we buy desktop computers or laptops for the office?</span></p><p><span>(A) The Web site is working now.</span></p><p><span>(B) You can buy them at any store.</span></p><p><span>(C) Most of our staff travel a lot.</span></p>",
+    "number": "23",
+    "A": "",
+    "B": "",
+    "C": "",
+    "answer": "C",
+    "detail": "<p><span></span></p><p><span>23. Ch\u00fang ta n\u00ean mua m\u00e1y t\u00ednh \u0111\u1ec3 b\u00e0n hay m\u00e1y t\u00ednh x\u00e1ch tay cho v\u0103n ph\u00f2ng nh\u1ec9?</span></p><p><span>(A) B\u00e2y gi\u1edd trang web \u0111ang ho\u1ea1t \u0111\u1ed9ng.</span></p><p><span>(B) B\u1ea1n c\u00f3 th\u1ec3 mua ch\u00fang \u1edf b\u1ea5t c\u1ee9 c\u1eeda h\u00e0ng n\u00e0o.</span></p><p><span>(C) H\u1ea7u h\u1ebft nh\u00e2n vi\u00ean c\u1ee7a ch\u00fang ta di chuy\u1ec3n r\u1ea5t nhi\u1ec1u.</span></p><p><span>GT: Nh\u00e2n vi\u00ean di chuy\u1ec3n nhi\u1ec1u v\u00ec v\u1eady n\u00ean l\u1ef1a ch\u1ecdn m\u00e1y t\u00ednh x\u00e1ch tay.</span></p>"
+  },
+  {
+    "audio": "https://study4.com/media/ets2023/audio/ets-test-05-part-2-24.mp3",
+    "transcript": "<p><span></span></p><p><span>Will you be attending the reception tomorrow?</span></p><p><span>(A) Just another day or so.</span></p><p><span>(B) Can you remind me what the topic is?</span></p><p><span>(C) I heard that they ran out of them.</span></p>",
+    "number": "24",
+    "A": "",
+    "B": "",
+    "C": "",
+    "answer": "B",
+    "detail": "<p><span></span></p><p><span>24. B\u1ea1n s\u1ebd tham d\u1ef1 ti\u1ec7c chi\u00eau \u0111\u00e3i v\u00e0o ng\u00e0y mai ch\u1ee9?</span></p><p><span>(A) Ch\u1ec9 m\u1ed9t ng\u00e0y n\u1eefa ho\u1eb7c l\u00e2u h\u01a1n.</span></p><p><span>(B) B\u1ea1n c\u00f3 th\u1ec3 nh\u1eafc l\u1ea1i cho t\u00f4i ch\u1ee7 \u0111\u1ec1 l\u00e0 g\u00ec kh\u00f4ng?</span></p><p><span>(C) T\u00f4i nghe n\u00f3i h\u1ecd \u0111\u00e3 h\u1ebft.</span></p><p><span>GT: Ng\u01b0\u1eddi tr\u1ea3 l\u1eddi h\u1ecfi v\u1ec1 ch\u1ee7 \u0111\u1ec1 c\u1ee7a b\u1eefa ti\u1ec7c \u0111\u1ec3 xem x\u00e9t c\u00f3 \u0111i hay kh\u00f4ng.</span></p>"
+  },
+  {
+    "audio": "https://study4.com/media/ets2023/audio/ets-test-05-part-2-25.mp3",
+    "transcript": "<p><span></span></p><p><span> Did you buy your ticket to the baseball game?</span></p><p><span>(A) Sure, after the game is over.</span></p><p><span>(B) I thought admission was free.</span></p><p><span>(C) A sports tournament.</span></p>",
+    "number": "25",
+    "A": "",
+    "B": "",
+    "C": "",
+    "answer": "B",
+    "detail": "<p><span></span></p><p><span>25. B\u1ea1n \u0111\u00e3 mua v\u00e9 cho tr\u1eadn \u0111\u1ea5u b\u00f3ng ch\u00e0y \u00e0?</span></p><p><span>(A) Ch\u1eafc ch\u1eafn r\u1ed3i, sau khi tr\u00f2 ch\u01a1i k\u1ebft th\u00fac.</span></p><p><span>(B) T\u00f4i t\u01b0\u1edfng v\u00e9 v\u00e0o mi\u1ec5n ph\u00ed.</span></p><p><span>(C) M\u1ed9t gi\u1ea3i \u0111\u1ea5u th\u1ec3 thao</span></p>"
+  },
+  {
+    "audio": "https://study4.com/media/ets2023/audio/ets-test-05-part-2-26.mp3",
+    "transcript": "<p><span></span></p><p><span>How can I get more information about the employee party?</span></p><p><span>(A) A phone number is included in the invitation.</span></p><p><span>(B) The chef is from Italy.</span></p><p><span>(C) Where is the employment office?</span></p>",
+    "number": "26",
+    "A": "",
+    "B": "",
+    "C": "",
+    "answer": "A",
+    "detail": "<p><span></span></p><p><span>26. L\u00e0m th\u1ebf n\u00e0o \u0111\u1ec3 t\u00f4i c\u00f3 th\u1ec3 bi\u1ebft th\u00eam th\u00f4ng tin v\u1ec1 ti\u1ec7c c\u00f4ng ty?</span></p><p><span>(A) S\u1ed1 \u0111i\u1ec7n tho\u1ea1i \u0111\u01b0\u1ee3c bao g\u1ed3m trong gi\u1ea5y m\u1eddi.</span></p><p><span>(B) \u0110\u1ea7u b\u1ebfp \u0111\u1ebfn t\u1eeb \u00dd.</span></p><p><span>(C) V\u0103n ph\u00f2ng nh\u00e2n vi\u00ean \u1edf \u0111\u00e2u?</span></p><p><span>GT: C\u00f3 th\u1ec3 g\u1ecdi v\u00e0o s\u1ed1 \u0111i\u1ec7n tho\u1ea1i trong gi\u1ea5y m\u1eddi \u0111\u1ec3 bi\u1ebft th\u00eam th\u00f4ng th\u00f4ng tin.</span></p>"
+  },
+  {
+    "audio": "https://study4.com/media/ets2023/audio/ets-test-05-part-2-27.mp3",
+    "transcript": "<p><span></span></p><p><span>Could you show me how to transfer funds?</span></p><p><span>(A) No, it\u2019s the other one.</span></p><p><span>(B) Let me just finish this first.</span></p><p><span>(C) Sure, that seems like a reasonable price.</span></p>",
+    "number": "27",
+    "A": "",
+    "B": "",
+    "C": "",
+    "answer": "B",
+    "detail": "<p><span></span></p><p><span>27. B\u1ea1n c\u00f3 th\u1ec3 ch\u1ec9 t\u00f4i c\u00e1ch chuy\u1ec3n ti\u1ec1n \u0111\u01b0\u1ee3c kh\u00f4ng?</span></p><p><span>(A) Kh\u00f4ng, n\u00f3 l\u00e0 1 c\u00e1i kh\u00e1c.</span></p><p><span>(B) \u0110\u1ec3 t\u00f4i ho\u00e0n th\u00e0nh c\u00e1i n\u00e0y tr\u01b0\u1edbc \u0111\u00e3.</span></p><p><span>(C) Ch\u1eafc ch\u1eafn r\u1ed3i, \u0111\u00f3 c\u00f3 v\u1ebb l\u00e0 m\u1ed9t m\u1ee9c gi\u00e1 h\u1ee3p l\u00fd.</span></p>"
+  },
+  {
+    "audio": "https://study4.com/media/ets2023/audio/ets-test-05-part-2-28.mp3",
+    "transcript": "<p><span></span></p><p><span>Will our gym memberships renew automatically?</span></p><p><span>(A) They just saw that.</span></p><p><span>(B) About our manager.</span></p><p><span>(C) That\u2019s what I was told.</span></p>",
+    "number": "28",
+    "A": "",
+    "B": "",
+    "C": "",
+    "answer": "C",
+    "detail": "<p><span></span></p><p><span>28. Th\u1ebb th\u00e0nh vi\u00ean th\u1ec3 h\u00ecnh c\u1ee7a ch\u00fang ta s\u1ebd \u0111\u01b0\u1ee3c t\u1ef1 \u0111\u1ed9ng gia h\u1ea1n ch\u1ee9?</span></p><p><span>(A) H\u1ecd v\u1eeba nh\u00ecn th\u1ea5y n\u00f3.</span></p><p><span>(B) V\u1ec1 qu\u1ea3n l\u00fd c\u1ee7a ch\u00fang t\u00f4i.</span></p><p><span>(C) \u0110\u00f3 l\u00e0 nh\u1eefng g\u00ec t\u00f4i \u0111\u01b0\u1ee3c b\u1ea3o.</span></p>"
+  },
+  {
+    "audio": "https://study4.com/media/ets2023/audio/ets-test-05-part-2-29.mp3",
+    "transcript": "<p><span></span></p><p><span>Isn\u2019t Shinji scheduled to work at the cash register?</span></p><p><span>(A) Yes, he just arrived.</span></p><p><span>(B) The price hasn\u2019t changed.</span></p><p><span>(C) How much does it cost?</span></p>",
+    "number": "29",
+    "A": "",
+    "B": "",
+    "C": "",
+    "answer": "A",
+    "detail": "<p><span></span></p><p><span>29. Kh\u00f4ng ph\u1ea3i Shinji c\u00f3 k\u1ebf ho\u1ea1ch l\u00e0m vi\u1ec7c \u1edf qu\u1ea7y t\u00ednh ti\u1ec1n sao?</span></p><p><span>(A) V\u00e2ng, anh \u1ea5y v\u1eeba \u0111\u1ebfn.</span></p><p><span>(B) Gi\u00e1 kh\u00f4ng \u0111\u1ed5i.</span></p><p><span>(C) N\u00f3 c\u00f3 gi\u00e1 bao nhi\u00eau?</span></p>"
+  },
+  {
+    "audio": "https://study4.com/media/ets2023/audio/ets-test-05-part-2-30.mp3",
+    "transcript": "<p><span></span></p><p><span>Do you have all the ingredients for the recipe?</span></p><p><span>(A) We will plant a garden soon.</span></p><p><span>(B) Yes, my oven is working again.</span></p><p><span>(C) I need to buy some onions.</span></p>",
+    "number": "30",
+    "A": "",
+    "B": "",
+    "C": "",
+    "answer": "C",
+    "detail": "<p><span></span></p><p><span>30. B\u1ea1n c\u00f3 t\u1ea5t c\u1ea3 nguy\u00ean li\u1ec7u cho c\u00f4ng th\u1ee9c n\u1ea5u \u0103n ch\u01b0a?</span></p><p><span>(A) Ch\u00fang t\u00f4i s\u1ebd s\u1edbm tr\u1ed3ng m\u1ed9t ng\u00f4i v\u01b0\u1eddn.</span></p><p><span>(B) V\u00e2ng, l\u00f2 n\u01b0\u1edbng c\u1ee7a t\u00f4i \u0111\u00e3 ho\u1ea1t \u0111\u1ed9ng tr\u1edf l\u1ea1i.</span></p><p><span>(C) T\u00f4i c\u1ea7n mua m\u1ed9t \u00edt h\u00e0nh t\u00e2y.</span></p>"
+  },
+  {
+    "audio": "https://study4.com/media/ets2023/audio/ets-test-05-part-2-31.mp3",
+    "transcript": "<p><span></span></p><p><span>You\u2019re in charge of the supplier discount program, right?</span></p><p><span>(A) The coupons are on the kitchen counter.</span></p><p><span>(B) We have all the supplies we need.</span></p><p><span>(C) Horatio is the one you want to talk to.</span></p><p><span></span></p>",
+    "number": "31",
+    "A": "",
+    "B": "",
+    "C": "",
+    "answer": "C",
+    "detail": "<p><span>31. B\u1ea1n ph\u1ee5 tr\u00e1ch ch\u01b0\u01a1ng tr\u00ecnh gi\u1ea3m gi\u00e1 nh\u00e0 cung c\u1ea5p, \u0111\u00fang kh\u00f4ng?</span></p><p><span>(A) Phi\u1ebfu gi\u1ea3m gi\u00e1 \u1edf tr\u00ean qu\u1ea7y b\u1ebfp.</span></p><p><span>(B) Ch\u00fang t\u00f4i c\u00f3 \u0111\u1ee7 ngu\u1ed3n cung ch\u00fang t\u00f4i c\u1ea7n.</span></p><p><span>(C) Horatio l\u00e0 ng\u01b0\u1eddi b\u1ea1n mu\u1ed1n n\u00f3i chuy\u1ec7n.</span></p><p><span>GT: Horatio l\u00e0 ng\u01b0\u1eddi ph\u1ee5 tr\u00e1ch ch\u01b0\u01a1ng tr\u00ecnh.</span></p>"
+  }
+]

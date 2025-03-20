@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+{% include head.html %}
+
+{% assign date_format = site.darkhack.date_format | default: "%x" %}
+
+<body>
+    <header>
+        {% include navbar.html %}
+    </header>
+    <div class="container">
+        <div class="list-content">
+        <div class="post-list">
+            <p>$ ls --pages</p>
+            <ul>
+            {% for p in site.pages %}
+            {% if p.title != nil and p.title != "home" and p.title != "404" %}
+            {% if p.layout == "page" %}
+                <li><a href="{{ p.url | relative_url }}">
+                    -- {{ p.title }}
+                </a></li>
+            {% endif %}
+            {% endif %}
+            {% endfor %}
+            </ul>
+        </div>
+        <div class="post-list">
+            <p>$ ls --researchs</p>
+            <ul>
+            {% for p in site.researchs %}
+            {% if p.title != nil and p.title != "home" %}
+            {% if p.layout == "post" %}
+                <li><a href="{{ p.url | relative_url }}">
+                    ./ [{{ p.date | default: site.time | date: date_format }}] - {{ p.title }}
+                </a></li>
+            {% endif %}
+            {% endif %}
+            {% endfor %}
+            </ul>
+        </div>
+        <div class="post-list">
+            <p>$ ls --posts</p>
+            <ul>
+            {% for p in site.posts %}
+            {% if p.title != nil and p.title != "home" %}
+            {% if p.layout == "post" %}
+                <li><a href="{{ p.url | relative_url }}">
+                    ./ [{{ p.date | default: site.time | date: date_format }}] - {{ p.title }}
+                </a></li>
+            {% endif %}
+            {% endif %}
+            {% endfor %}
+            </ul>
+        </div>
+        <div class="post-list">
+            <p>$ ls --disclosures</p>
+            <ul>
+            {% for p in site.disclosures %}
+            {% if p.title != nil and p.title != "home" %}
+            {% if p.layout == "disclosure" %}
+                <li><a href="{{ p.url | relative_url }}">
+                    ./ [{{ p.date | default: site.time | date: date_format }}] - {{ p.title }}
+                </a></li>
+            {% endif %}
+            {% endif %}
+            {% endfor %}
+            </ul>
+        </div>
+        </div>
+    </div>
+    <footer>
+        {% include footer.html %}
+    </footer>
+</body>
+</html>

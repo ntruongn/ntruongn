@@ -1,0 +1,25 @@
+<div class="container" style="text-align: center;">
+    <nav class="nav" style="background-color: #333; padding: 2px;">
+        <ul style="list-style-type: none; padding: 0;">
+            <li>$ socials: </li>
+            {% if site.author.github != nil %}
+            <li><a href="https://github.com/{{ site.author.github }}"
+                class="fa fa-github-square"></a></li>
+            {% endif %}
+            {% assign mastodon_instance = site.author.mastodon_instance %}
+            {% assign mastodon_handle = site.author.mastodon_handle %}
+            {% if mastodon_instance != nil and mastodon_handle != nil %}
+            <li><a href="https://{{ mastodon_instance }}/@{{ mastodon_handle }}"
+                class="fa-brands fa-mastodon"></a></li>
+            {% endif %}
+            {% if site.author.twitter != nil %}
+            <li><a href="https://twitter.com/{{ site.author.twitter }}"
+                class="fa fa-twitter"></a></li>
+            {% endif %}
+            {% if site.author.linkedin != nil %}
+            <li><a href="https://linkedin.com/in/{{ site.author.linkedin }}"
+                class="fa fa-linkedin"></a></li>
+            {% endif %}
+        </ul>
+    </nav>
+</div>

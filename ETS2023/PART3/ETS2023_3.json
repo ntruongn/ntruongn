@@ -1,0 +1,489 @@
+[
+  {
+    "context_question_img": [],
+    "context_transcript": "<p><span></span></p><p><span>W-Br: Hello. I heard an announcement on the radio about the garden show you're organizing. They said it's running all week, and </span><span> (32)there will be several demonstrations about innovative gardening tools. Could I attend the demonstration scheduled for Wednesday?</span></p><p><span>M-Au: </span><span> (33)Sorry, but that session's just been canceled. The person leading it had another commitment.</span></p><p><span>W-Br: Oh, too bad. So are all of the demonstrations canceled?</span></p><p><span>M-Au: No, the demonstration for Saturday is still on. That's at 1 p.m. </span><span> (34)l can register you for that session. Just get there about 15 minutes before it starts so you'll get a good seat.</span></p><p><span></span></p><p><span> </span></p><p><b>D\u1ecbch ngh\u0129a:</b></p><p><span>W-Br: Xin ch\u00e0o. T\u00f4i \u0111\u00e3 nghe m\u1ed9t th\u00f4ng b\u00e1o tr\u00ean \u0111\u00e0i ph\u00e1t thanh v\u1ec1 ch\u01b0\u01a1ng tr\u00ecnh l\u00e0m v\u01b0\u1eddn m\u00e0 b\u1ea1n \u0111ang t\u1ed5 ch\u1ee9c. H\u1ecd n\u00f3i r\u1eb1ng n\u00f3 di\u1ec5n ra c\u1ea3 tu\u1ea7n, v\u00e0 </span><span> (32)s\u1ebd c\u00f3 m\u1ed9t s\u1ed1 bu\u1ed5i tr\u00ecnh di\u1ec5n v\u1ec1 c\u00e1c c\u00f4ng c\u1ee5 l\u00e0m v\u01b0\u1eddn \u0111\u1ed5i m\u1edbi. T\u00f4i c\u00f3 th\u1ec3 tham gia bu\u1ed5i tr\u00ecnh di\u1ec5n d\u1ef1 ki\u1ebfn v\u00e0o th\u1ee9 T\u01b0 kh\u00f4ng?</span></p><p><span>M-Au: </span><span> (33)Xin l\u1ed7i, nh\u01b0ng bu\u1ed5i di\u1ec5n \u0111\u00f3 v\u1eeba b\u1ecb h\u1ee7y. Ng\u01b0\u1eddi d\u1eabn d\u1eaft bu\u1ed5i di\u1ec5n \u0111\u00f3 \u0111\u00e3 c\u00f3 vi\u1ec7c b\u1eadn kh\u00e1c.</span></p><p><span>W-Br: Th\u1eadt l\u00e0 \u0111\u00e1ng ti\u1ebfc. V\u1eady th\u00ec t\u1ea5t c\u1ea3 c\u00e1c bu\u1ed5i tr\u00ecnh di\u1ec5n \u0111\u1ec1u b\u1ecb h\u1ee7y \u00e0?</span></p><p><span>M-Au: Kh\u00f4ng, bu\u1ed5i tr\u00ecnh di\u1ec5n v\u00e0o th\u1ee9 B\u1ea3y v\u1eabn di\u1ec5n ra. V\u00e0o l\u00fac 1 gi\u1edd chi\u1ec1u. </span><span> (34)T\u00f4i c\u00f3 th\u1ec3 \u0111\u0103ng k\u00fd cho b\u1ea1n tham gia bu\u1ed5i \u0111\u00f3. Ch\u1ec9 c\u1ea7n \u0111\u1ebfn kho\u1ea3ng 15 ph\u00fat tr\u01b0\u1edbc khi n\u00f3 b\u1eaft \u0111\u1ea7u \u0111\u1ec3 b\u1ea1n c\u00f3 \u0111\u01b0\u1ee3c m\u1ed9t ch\u1ed7 ng\u1ed3i t\u1ed1t.</span></p><p><span></span></p><p><span>T\u00f3m t\u1eaft: W-Br nghe th\u00f4ng b\u00e1o v\u1ec1 ch\u01b0\u01a1ng tr\u00ecnh l\u00e0m v\u01b0\u1eddn c\u00f3 c\u00e1c bu\u1ed5i tr\u00ecnh di\u1ec5n. C\u00f4 \u1ea5y h\u1ecfi v\u1ec1 bu\u1ed5i tr\u00ecnh di\u1ec5n v\u00e0o th\u1ee9 T\u01b0 v\u00e0 \u0111\u01b0\u1ee3c bi\u1ebft r\u1eb1ng n\u00f3 \u0111\u00e3 b\u1ecb h\u1ee7y. Tuy nhi\u00ean, bu\u1ed5i tr\u00ecnh di\u1ec5n v\u00e0o th\u1ee9 B\u1ea3y v\u1eabn di\u1ec5n ra v\u00e0 M-Au c\u00f3 th\u1ec3 \u0111\u0103ng k\u00fd c\u00f4 \u1ea5y tham gia.</span></p>",
+    "audio": "https://study4.com/media/ets2023/audio/ets-test-03-part-3-32-34.mp3",
+    "questions": [
+      {
+        "question": "Why is the woman talking to the man?",
+        "number": "32",
+        "A": "She wants to cancel a reservation.",
+        "B": "She wants to watch a demonstration.",
+        "C": "She wants to rent some equipment.",
+        "D": "She wants to hire a gardener.",
+        "answer": "B",
+        "detail": "<p><span>32. T\u1ea1i sao ng\u01b0\u1eddi ph\u1ee5 n\u1eef n\u00f3i chuy\u1ec7n v\u1edbi ng\u01b0\u1eddi \u0111\u00e0n \u00f4ng?</span></p><p><span>(A) C\u00f4 \u1ea5y mu\u1ed1n h\u1ee7y \u0111\u1eb7t ph\u00f2ng.</span></p><p><span>(B) C\u00f4 \u1ea5y mu\u1ed1n xem m\u1ed9t bu\u1ed5i tr\u00ecnh di\u1ec5n.</span></p><p><span>(C) C\u00f4 \u1ea5y mu\u1ed1n thu\u00ea m\u1ed9t s\u1ed1 thi\u1ebft b\u1ecb.</span></p><p><span>(D) C\u00f4 \u1ea5y mu\u1ed1n thu\u00ea m\u1ed9t ng\u01b0\u1eddi l\u00e0m v\u01b0\u1eddn.</span></p>"
+      },
+      {
+        "question": "What problem does the man mention?",
+        "number": "33",
+        "A": "A garden show has been canceled.",
+        "B": "A radio program was discontinued.",
+        "C": "A presenter is not available.",
+        "D": "Some equipment is late arriving.",
+        "answer": "C",
+        "detail": "<p><span>33. Ng\u01b0\u1eddi \u0111\u00e0n \u00f4ng \u0111\u1ec1 c\u1eadp \u0111\u1ebfn v\u1ea5n \u0111\u1ec1 g\u00ec?</span></p><p><span>(A) M\u1ed9t bu\u1ed5i tr\u00ecnh di\u1ec5n trong v\u01b0\u1eddn \u0111\u00e3 b\u1ecb h\u1ee7y b\u1ecf.</span></p><p><span>(B) M\u1ed9t ch\u01b0\u01a1ng tr\u00ecnh ph\u00e1t thanh \u0111\u00e3 b\u1ecb ng\u1eebng.</span></p><p><span>(C) Ng\u01b0\u1eddi thuy\u1ebft tr\u00ecnh kh\u00f4ng c\u00f3 m\u1eb7t.</span></p><p><span>(D) M\u1ed9t s\u1ed1 thi\u1ebft b\u1ecb \u0111\u1ebfn mu\u1ed9n.</span></p>"
+      },
+      {
+        "question": "What does the man advise the woman to do?",
+        "number": "34",
+        "A": "Talk to the manager on Saturday",
+        "B": "Sign up for a class online",
+        "C": "Place an order for some tools",
+        "D": "Arrive early for an event",
+        "answer": "D",
+        "detail": "<p><span>34. Ng\u01b0\u1eddi \u0111\u00e0n \u00f4ng khuy\u00ean ng\u01b0\u1eddi ph\u1ee5 n\u1eef l\u00e0m g\u00ec?</span></p><p><span>(A) N\u00f3i chuy\u1ec7n v\u1edbi ng\u01b0\u1eddi qu\u1ea3n l\u00fd v\u00e0o th\u1ee9 B\u1ea3y</span></p><p><span>(B) \u0110\u0103ng k\u00fd m\u1ed9t l\u1edbp h\u1ecdc tr\u1ef1c tuy\u1ebfn</span></p><p><span>(C) \u0110\u1eb7t h\u00e0ng m\u1ed9t s\u1ed1 c\u00f4ng c\u1ee5</span></p><p><span>(D) \u0110\u1ebfn s\u1edbm cho m\u1ed9t s\u1ef1 ki\u1ec7n</span></p><p><span></span></p>"
+      }
+    ]
+  },
+  {
+    "context_question_img": [],
+    "context_transcript": "<p><span></span></p><p><span>W-Am: </span><span> (35)l have all these estimates from different companies for repairing the brick work in the front of our office building, and they're all really similar. How can I decide?</span></p><p><span>M-Au: </span><span> (36)We're just having the patio at the entrance repaired, right?</span></p><p><span>W-Am: Well, </span><span> (36)we also need a new retaining wall around the garden and to have some additional pathways laid out across the lawn. It's actually quite a complex job.</span></p><p><span>M-Au: Oh. </span><span> (37)Maybe talk to Mr. Lukich in sales. His background is in construction, so maybe he has familiarity with some of the firms and can help you pick one.</span></p><p><span>W-Am: That's a good idea.`</span></p><p><span></span></p><p><b>D\u1ecbch ngh\u0129a:</b></p><p><span> </span></p><p><span>W-Am: </span><span> (35)T\u00f4i c\u00f3 t\u1ea5t c\u1ea3 nh\u1eefng \u01b0\u1edbc t\u00ednh n\u00e0y t\u1eeb c\u00e1c c\u00f4ng ty kh\u00e1c nhau \u0111\u1ec3 s\u1eeda ch\u1eefa ph\u1ea7n g\u1ea1ch \u1edf ph\u00eda tr\u01b0\u1edbc t\u00f2a nh\u00e0 v\u0103n ph\u00f2ng c\u1ee7a ch\u00fang t\u00f4i, v\u00e0 t\u1ea5t c\u1ea3 ch\u00fang \u0111\u1ec1u t\u01b0\u01a1ng t\u1ef1 nhau. L\u00e0m th\u1ebf n\u00e0o \u0111\u1ec3 t\u00f4i c\u00f3 th\u1ec3 quy\u1ebft \u0111\u1ecbnh?</span></p><p><span>M-Au: </span><span> (36)Ch\u00fang ta v\u1eeba s\u1eeda c\u00e1i hi\u00ean \u1edf l\u1ed1i v\u00e0o ph\u1ea3i kh\u00f4ng?</span></p><p><span>W-Am: Th\u1ef1c ra, </span><span> (36)ch\u00fang t\u00f4i c\u0169ng c\u1ea7n m\u1ed9t b\u1ee9c t\u01b0\u1eddng ch\u1eafn m\u1edbi xung quanh khu v\u01b0\u1eddn v\u00e0 c\u00f3 th\u00eam m\u1ed9t s\u1ed1 l\u1ed1i \u0111i tr\u00ean b\u00e3i c\u1ecf. N\u00f3 th\u1ef1c s\u1ef1 l\u00e0 m\u1ed9t c\u00f4ng vi\u1ec7c kh\u00e1 ph\u1ee9c t\u1ea1p.</span></p><p><span>M-Au: \u00c0, </span><span> (37)C\u00f3 th\u1ec3 n\u00ean n\u00f3i chuy\u1ec7n v\u1edbi \u00f4ng Lukich \u1edf b\u1ed9 ph\u1eadn kinh doanh. \u00d4ng \u1ea5y c\u00f3 kinh nghi\u1ec7m trong l\u0129nh v\u1ef1c x\u00e2y d\u1ef1ng, v\u00ec v\u1eady c\u00f3 th\u1ec3 anh \u1ea5y \u0111\u00e3 quen thu\u1ed9c v\u1edbi m\u1ed9t s\u1ed1 c\u00f4ng ty v\u00e0 c\u00f3 th\u1ec3 gi\u00fap b\u1ea1n ch\u1ecdn m\u1ed9t c\u00f4ng ty.</span></p><p><span>W-Am: \u0110\u00f3 l\u00e0 m\u1ed9t \u00fd ki\u1ebfn hay.</span></p><p><span></span></p><p><span>T\u00f3m t\u1eaft: W-Am ch\u01b0a th\u1ec3 quy\u1ebft \u0111\u1ecbnh c\u00f4ng ty n\u00e0o ph\u1ee5 tr\u00e1ch s\u1eeda ch\u1eefa c\u00f4ng tr\u00ecnh g\u1ea1ch. M-Au \u0111\u1ec1 xu\u1ea5t n\u00f3i chuy\u1ec7n v\u1edbi \u00f4ng Lukich trong b\u1ed9 ph\u1eadn kinh doanh \u0111\u1ec3 nh\u1edd \u00fd ki\u1ebfn v\u00e0 gi\u00fap ch\u1ecdn m\u1ed9t c\u00f4ng ty ph\u00f9 h\u1ee3p. W-Am \u0111\u1ed3ng \u00fd v\u1edbi \u00fd ki\u1ebfn n\u00e0y.</span></p>",
+    "audio": "https://study4.com/media/ets2023/audio/ets-test-03-part-3-35-37.mp3",
+    "questions": [
+      {
+        "question": "What does the woman need advice about?",
+        "number": "35",
+        "A": "Which company to hire",
+        "B": "Which materials to use",
+        "C": "When to begin some repair work",
+        "D": "Where to lay down some paths",
+        "answer": "A",
+        "detail": "<p><span>35. Ng\u01b0\u1eddi ph\u1ee5 n\u1eef c\u1ea7n l\u1eddi khuy\u00ean v\u1ec1 \u0111i\u1ec1u g\u00ec?</span></p><p><span>(A) Thu\u00ea c\u00f4ng ty n\u00e0o</span></p><p><span>(B) V\u1eadt li\u1ec7u n\u00e0o s\u1ebd \u0111\u01b0\u1ee3c s\u1eed d\u1ee5ng</span></p><p><span>(C) Khi n\u00e0o b\u1eaft \u0111\u1ea7u m\u1ed9t s\u1ed1 c\u00f4ng vi\u1ec7c s\u1eeda ch\u1eefa</span></p><p><span>(D) V\u1ecb tr\u00ed \u0111\u1eb7t m\u1ed9t s\u1ed1 l\u1ed1i \u0111i</span></p>"
+      },
+      {
+        "question": "According to the woman, why is some repair work complicated?",
+        "number": "36",
+        "A": "It will take place during the winter.",
+        "B": "It is part of a larger job.",
+        "C": "It has been postponed.",
+        "D": "It requires a special permit.",
+        "answer": "B",
+        "detail": "<p><span>36. Theo ng\u01b0\u1eddi ph\u1ee5 n\u1eef, t\u1ea1i sao m\u1ed9t s\u1ed1 c\u00f4ng vi\u1ec7c s\u1eeda ch\u1eefa l\u1ea1i ph\u1ee9c t\u1ea1p?</span></p><p><span>(A) N\u00f3 s\u1ebd di\u1ec5n ra trong m\u00f9a \u0111\u00f4ng.</span></p><p><span>(B) N\u00f3 l\u00e0 m\u1ed9t ph\u1ea7n c\u1ee7a c\u00f4ng vi\u1ec7c l\u1edbn h\u01a1n.</span></p><p><span>(C) N\u00f3 \u0111\u00e3 b\u1ecb ho\u00e3n l\u1ea1i.</span></p><p><span>(D) N\u00f3 \u0111\u00f2i h\u1ecfi ph\u1ea3i c\u00f3 gi\u1ea5y ph\u00e9p \u0111\u1eb7c bi\u1ec7t. .</span></p>"
+      },
+      {
+        "question": "Why does the man tell the woman to talk to Mr. Lukich?",
+        "number": "37",
+        "A": "He can perform some construction work.",
+        "B": "His sales record is excellent.",
+        "C": "His background is relevant to the woman\u2019s needs.",
+        "D": "He was assigned to the woman\u2019s project.",
+        "answer": "C",
+        "detail": "<p><span>37. T\u1ea1i sao ng\u01b0\u1eddi \u0111\u00e0n \u00f4ng b\u1ea3o ng\u01b0\u1eddi ph\u1ee5 n\u1eef n\u00f3i chuy\u1ec7n v\u1edbi \u00f4ng Lukich?</span></p><p><span>(A) Anh \u1ea5y c\u00f3 th\u1ec3 th\u1ef1c hi\u1ec7n m\u1ed9t s\u1ed1 c\u00f4ng vi\u1ec7c x\u00e2y d\u1ef1ng.</span></p><p><span>(B) Th\u00e0nh t\u00edch b\u00e1n h\u00e0ng c\u1ee7a anh \u1ea5y r\u1ea5t xu\u1ea5t s\u1eafc.</span></p><p><span>(C) N\u1ec1n t\u1ea3ng kinh nghi\u1ec7m c\u1ee7a anh \u1ea5y c\u00f3 li\u00ean quan \u0111\u1ebfn nhu c\u1ea7u c\u1ee7a ng\u01b0\u1eddi ph\u1ee5 n\u1eef.</span></p><p><span>(D) Anh \u1ea5y \u0111\u00e3 \u0111\u01b0\u1ee3c giao cho d\u1ef1 \u00e1n c\u1ee7a ng\u01b0\u1eddi ph\u1ee5 n\u1eef.</span></p><p><span></span></p>"
+      }
+    ]
+  },
+  {
+    "context_question_img": [],
+    "context_transcript": "<p><span></span></p><p><span>W-Am: Hi. I'm the general manager of the Sunrise Mall Shopping Center in town. </span><span> (38)l heard your band playing last month at the town fair and got your contact information. I really enjoyed your music.</span></p><p><span>M-Cn: Thank you! We're a local band and it's always a pleasure to hear from our audience.</span></p><p><span>W-Am: The reason I'm calling is that </span><span> (39)I'm wondering if you'd be interested in playing music at the shopping center on a Saturday afternoon sometime. </span><span> The date can be flexible.</span></p><p><span>M-Cn: Sure. We can play the first Saturday of March. But where exactly will we be performing?</span></p><p><span>W-Am: </span><span> (40)There's a detailed map of the shopping-y center on our Web site. It'll show you where our event space is.</span></p><p><span></span></p><p><span> </span></p><p><b>D\u1ecbch ngh\u0129a:</b></p><p><span>W-Am: Xin ch\u00e0o. T\u00f4i l\u00e0 t\u1ed5ng gi\u00e1m \u0111\u1ed1c c\u1ee7a Trung t\u00e2m mua s\u1eafm Sunrise Mall trong th\u1ecb tr\u1ea5n. </span><span> (38)T\u00f4i \u0111\u00e3 nghe ban nh\u1ea1c c\u1ee7a b\u1ea1n ch\u01a1i v\u00e0o th\u00e1ng tr\u01b0\u1edbc t\u1ea1i h\u1ed9i ch\u1ee3 th\u1ecb tr\u1ea5n v\u00e0 c\u00f3 th\u00f4ng tin li\u00ean l\u1ea1c c\u1ee7a b\u1ea1n. T\u00f4i th\u1ef1c s\u1ef1 r\u1ea5t th\u00edch \u00e2m nh\u1ea1c c\u1ee7a b\u1ea1n.</span></p><p><span>M-Cn: C\u1ea3m \u01a1n b\u1ea1n! Ch\u00fang t\u00f4i l\u00e0 m\u1ed9t ban nh\u1ea1c \u0111\u1ecba ph\u01b0\u01a1ng v\u00e0 r\u1ea5t vui khi \u0111\u01b0\u1ee3c nghe \u00fd ki\u1ebfn t\u1eeb kh\u00e1n gi\u1ea3 c\u1ee7a ch\u00fang t\u00f4i.</span></p><p><span>W-Am: L\u00fd do t\u00f4i g\u1ecdi l\u00e0 </span><span> (39)T\u00f4i t\u1ef1 h\u1ecfi li\u1ec7u b\u1ea1n c\u00f3 mu\u1ed1n ch\u01a1i nh\u1ea1c \u1edf trung t\u00e2m mua s\u1eafm v\u00e0o m\u1ed9t bu\u1ed5i chi\u1ec1u th\u1ee9 B\u1ea3y n\u00e0o \u0111\u00f3 kh\u00f4ng. </span><span> Ng\u00e0y c\u00f3 th\u1ec3 linh ho\u1ea1t.</span></p><p><span>M-Cn: Ch\u1eafc ch\u1eafn r\u1ed3i. Ch\u00fang t\u00f4i c\u00f3 th\u1ec3 bi\u1ec3u di\u1ec5n v\u00e0o th\u1ee9 B\u1ea3y \u0111\u1ea7u ti\u00ean c\u1ee7a th\u00e1ng Ba. Nh\u01b0ng ch\u00ednh x\u00e1c th\u00ec ch\u00fang t\u00f4i s\u1ebd bi\u1ec3u di\u1ec5n \u1edf \u0111\u00e2u?</span></p><p><span>W-Am: </span><span> (40)C\u00f3 m\u1ed9t b\u1ea3n \u0111\u1ed3 chi ti\u1ebft v\u1ec1 trung t\u00e2m mua s\u1eafm tr\u00ean trang Web c\u1ee7a ch\u00fang t\u00f4i. N\u00f3 s\u1ebd cho b\u1ea1n bi\u1ebft kh\u00f4ng gian t\u1ed5 ch\u1ee9c s\u1ef1 ki\u1ec7n c\u1ee7a ch\u00fang t\u00f4i \u1edf \u0111\u00e2u.</span></p><p><span></span></p><p><span>T\u00f3m t\u1eaft: T\u1ed5ng gi\u00e1m \u0111\u1ed1c c\u1ee7a Trung t\u00e2m mua s\u1eafm mu\u1ed1n m\u1eddi ban nh\u1ea1c bi\u1ec3u di\u1ec5n.Ban nh\u1ea1c \u0111\u1ed3ng \u00fd v\u00e0 h\u1ecfi v\u1ecb tr\u00ed bi\u1ec3u di\u1ec5n c\u1ee5 th\u1ec3, h\u1ecd \u0111\u01b0\u1ee3c th\u00f4ng b\u00e1o r\u1eb1ng c\u00f3 m\u1ed9t b\u1ea3n \u0111\u1ed3 chi ti\u1ebft tr\u00ean trang web c\u1ee7a trung t\u00e2m mua s\u1eafm s\u1ebd ch\u1ec9 d\u1eabn \u0111\u1ecba \u0111i\u1ec3m t\u1ed5 ch\u1ee9c s\u1ef1 ki\u1ec7n.</span></p>",
+    "audio": "https://study4.com/media/ets2023/audio/ets-test-03-part-3-38-40.mp3",
+    "questions": [
+      {
+        "question": "Who is the man?",
+        "number": "38",
+        "A": "A marketing agent",
+        "B": "A musician",
+        "C": "An event organizer",
+        "D": "Ajournalist",
+        "answer": "B",
+        "detail": "<p><span>38. Ai l\u00e0 ng\u01b0\u1eddi \u0111\u00e0n \u00f4ng?</span></p><p><span>(A) M\u1ed9t nh\u00e2n vi\u00ean ti\u1ebfp th\u1ecb</span></p><p><span>(B) M\u1ed9t nh\u1ea1c s\u0129</span></p><p><span>(C) M\u1ed9t nh\u00e0 t\u1ed5 ch\u1ee9c s\u1ef1 ki\u1ec7n</span></p><p><span>(D) Nh\u00e0 b\u00e1o</span></p>"
+      },
+      {
+        "question": "What does the woman want to do?",
+        "number": "39",
+        "A": "Host an international fair",
+        "B": "Create a new parking area",
+        "C": "Organize a concert",
+        "D": "Give an interview",
+        "answer": "C",
+        "detail": "<p><span>39. Ng\u01b0\u1eddi ph\u1ee5 n\u1eef mu\u1ed1n l\u00e0m g\u00ec?</span></p><p><span>(A) T\u1ed5 ch\u1ee9c m\u1ed9t h\u1ed9i ch\u1ee3 qu\u1ed1c t\u1ebf</span></p><p><span>(B) T\u1ea1o m\u1ed9t khu v\u1ef1c \u0111\u1ed7 xe m\u1edbi</span></p><p><span>(C) T\u1ed5 ch\u1ee9c m\u1ed9t bu\u1ed5i h\u00f2a nh\u1ea1c</span></p><p><span>(D) Tr\u1ea3 l\u1eddi ph\u1ecfng v\u1ea5n</span></p>"
+      },
+      {
+        "question": "What does the woman suggest the man do?",
+        "number": "40",
+        "A": "View a map",
+        "B": "Schedule a meeting",
+        "C": "Provide references",
+        "D": "Decorate a space",
+        "answer": "A",
+        "detail": "<p><span>40. Ng\u01b0\u1eddi ph\u1ee5 n\u1eef \u0111\u1ec1 xu\u1ea5t ng\u01b0\u1eddi \u0111\u00e0n \u00f4ng l\u00e0m g\u00ec?</span></p><p><span>(A) Xem b\u1ea3n \u0111\u1ed3</span></p><p><span>(B) L\u00ean l\u1ecbch m\u1ed9t cu\u1ed9c h\u1ecdp</span></p><p><span>(C) Cung c\u1ea5p t\u00e0i li\u1ec7u tham kh\u1ea3o</span></p><p><span>(D) Trang tr\u00ed m\u1ed9t kh\u00f4ng gian</span></p><p><span></span></p>"
+      }
+    ]
+  },
+  {
+    "context_question_img": [],
+    "context_transcript": "<p><span></span></p><p><span>M-Au: Hi, Kirstin! </span><span> (41)I'm glad to finally see you. </span><span> Looks like you've been busy!</span></p><p><span>W-Br: Yes, </span><span> (41)this show is particularly popular, (42)Jose's paintings really draw a crowd. (42)He's selling a lot of them, too!</span></p><p><span>M-Au: Oh, they're great. </span><span> (42)I'm thinking of buying one myself.</span></p><p><span>W-Br: You should... sorry I've been so busy lately. I've been swamped at school, plus it's taken a lot to plan this show. Hey, </span><span> (43)would you want to get together with Janet and Miko for lunch next week?</span></p><p><span>M-Au: </span><span> (43)Sure, sounds great.</span></p><p><span></span></p><p><b>D\u1ecbch ngh\u0129a:</b></p><p><span> </span></p><p><span>M-Au: Ch\u00e0o, Kirstin! </span><span> (41)T\u00f4i r\u1ea5t vui v\u00ec cu\u1ed1i c\u00f9ng c\u0169ng \u0111\u01b0\u1ee3c g\u1eb7p b\u1ea1n. </span><span> C\u00f3 v\u1ebb nh\u01b0 b\u1ea1n \u0111\u00e3 r\u1ea5t b\u1eadn r\u1ed9n!</span></p><p><span>W-Br: V\u00e2ng, </span><span> (41)tri\u1ec3n l\u00e3m n\u00e0y \u0111\u1eb7c bi\u1ec7t \u0111\u01b0\u1ee3c \u01b0a chu\u1ed9ng,(42)Nh\u1eefng b\u1ee9c tranh c\u1ee7a Jose th\u1ef1c s\u1ef1 thu h\u00fat \u0111\u00f4ng \u0111\u1ea3o ng\u01b0\u1eddi xem.(42)Anh \u1ea5y c\u0169ng \u0111ang b\u00e1n r\u1ea5t nhi\u1ec1u t\u00e1c ph\u1ea9m!</span></p><p><span>M-Au: Th\u1eadt l\u00e0 tuy\u1ec7t. </span><span> (42)T\u00f4i \u0111ang ngh\u0129 \u0111\u1ebfn vi\u1ec7c mua m\u1ed9t b\u1ee9c tranh cho ri\u00eang m\u00ecnh.</span></p><p><span>W-Br: B\u1ea1n n\u00ean l\u00e0m v\u1eady... xin l\u1ed7i, g\u1ea7n \u0111\u00e2y t\u00f4i r\u1ea5t b\u1eadn. T\u00f4i \u0111\u00e3 b\u1ecb cu\u1ed1n v\u00e0o tr\u01b0\u1eddng h\u1ecdc, c\u1ed9ng v\u1edbi vi\u1ec7c l\u00ean k\u1ebf ho\u1ea1ch cho ch\u01b0\u01a1ng tr\u00ecnh n\u00e0y \u0111\u00e3 m\u1ea5t r\u1ea5t nhi\u1ec1u th\u1eddi gian. \u00c0, </span><span> (43)b\u1ea1n c\u00f3 mu\u1ed1n c\u00f9ng \u0103n tr\u01b0a v\u1edbi Janet v\u00e0 Miko v\u00e0o tu\u1ea7n t\u1edbi kh\u00f4ng?</span></p><p><span>M-Au: </span><span> (43)Ch\u1eafc ch\u1eafn, nghe c\u00f3 v\u1ebb tuy\u1ec7t v\u1eddi.</span></p><p><span></span></p><p><span>T\u00f3m t\u1eaft: Cu\u1ed9c tri\u1ec3n l\u00e3m tranh c\u1ee7a Jose \u0111ang r\u1ea5t \u0111\u01b0\u1ee3c \u01b0a chu\u1ed9ng v\u00e0 anh \u1ea5y \u0111ang b\u00e1n r\u1ea5t nhi\u1ec1u t\u00e1c ph\u1ea9m. M-Au \u0111\u1ecbnh mua m\u1ed9t b\u1ee9c tranh c\u1ee7a Jose. Ng\u01b0\u1eddi ph\u1ee5 n\u1eef (W-Br) xin l\u1ed7i v\u00ec b\u1eadn r\u1ed9n v\u00e0 \u0111\u1ec1 ngh\u1ecb h\u1ecd c\u00f9ng nhau \u0103n tr\u01b0a v\u1edbi Janet v\u00e0 Miko v\u00e0o tu\u1ea7n t\u1edbi, v\u00e0 M-Au \u0111\u1ed3ng \u00fd.</span></p>",
+    "audio": "https://study4.com/media/ets2023/audio/ets-test-03-part-3-41-43.mp3",
+    "questions": [
+      {
+        "question": "Where most likely are the speakers?",
+        "number": "41",
+        "A": "At a cafe",
+        "B": "At an art gallery",
+        "C": "At a school",
+        "D": "At an art supply store",
+        "answer": "B",
+        "detail": "<p><span>41. Nh\u1eefng ng\u01b0\u1eddi n\u00f3i c\u00f3 th\u1ec3 \u1edf \u0111\u00e2u nh\u1ea5t?</span></p><p><span>(A) T\u1ea1i m\u1ed9t qu\u00e1n c\u00e0 ph\u00ea</span></p><p><span>(B) T\u1ea1i m\u1ed9t ph\u00f2ng tr\u01b0ng b\u00e0y ngh\u1ec7 thu\u1eadt</span></p><p><span>(C) T\u1ea1i m\u1ed9t tr\u01b0\u1eddng h\u1ecdc</span></p><p><span>(D) T\u1ea1i m\u1ed9t c\u1eeda h\u00e0ng d\u1ee5ng c\u1ee5 ngh\u1ec7 thu\u1eadt</span></p>"
+      },
+      {
+        "question": "What does the man say he might do?",
+        "number": "42",
+        "A": "Buy a painting",
+        "B": "Speak to Jose",
+        "C": "Invite friends to a show",
+        "D": "Go home",
+        "answer": "A",
+        "detail": "<p><span>42. Ng\u01b0\u1eddi \u0111\u00e0n \u00f4ng n\u00f3i anh ta c\u00f3 th\u1ec3 l\u00e0m g\u00ec?</span></p><p><span>(A) Mua m\u1ed9t b\u1ee9c tranh</span></p><p><span>(B) N\u00f3i chuy\u1ec7n v\u1edbi Jose</span></p><p><span>(C) M\u1eddi b\u1ea1n b\u00e8 \u0111\u1ebfn xem tri\u1ec3n l\u00e3m</span></p><p><span>(D) V\u1ec1 nh\u00e0</span></p>"
+      },
+      {
+        "question": "What plan do the speakers make?",
+        "number": "43",
+        "A": "To visit some artists",
+        "B": "To organize a show",
+        "C": "To meet some sponsors",
+        "D": "To go out to lunch",
+        "answer": "D",
+        "detail": "<p><span>43. Nh\u1eefng ng\u01b0\u1eddi n\u00f3i l\u1eadp k\u1ebf ho\u1ea1ch g\u00ec?</span></p><p><span>(A) \u0110\u1ebfn th\u0103m m\u1ed9t s\u1ed1 ngh\u1ec7 s\u0129</span></p><p><span>(B) T\u1ed5 ch\u1ee9c m\u1ed9t bu\u1ed5i tri\u1ec3n l\u00e3m</span></p><p><span>(C) G\u1eb7p m\u1ed9t s\u1ed1 nh\u00e0 t\u00e0i tr\u1ee3</span></p><p><span>(D) Ra ngo\u00e0i \u0103n tr\u01b0a</span></p><p><span></span></p>"
+      }
+    ]
+  },
+  {
+    "context_question_img": [],
+    "context_transcript": "<p><span></span></p><p><span>W-Am: </span><span> (44)Thanks for stopping by, Lin. I'd like to discuss the candidates we interviewed yesterday for the legal assistant position. (45)l was very impressed with Mr. Smith's work history.</span></p><p><span>M-Au: </span><span> (45)Yeah, he has a lot of relevant experience in the legal field, but he didn't answer our questions very clearly.</span></p><p><span>W-Am: Still, I think he'd be a great help preparing the legal briefs for our clients.</span></p><p><span>M-Au: </span><span> (46)l'd push for Ms. Wong. Not only was she clear and direct, but I called one of her references, and her former supervisor couldn't praise her enough.</span></p><p><span>W-Am: That's good to know.... </span><span> (46)Let me take another look at her work history.</span></p><p><span></span></p><p><span> </span></p><p><b>D\u1ecbch ngh\u0129a:</b></p><p><span>W-Am: </span><span> (44)C\u1ea3m \u01a1n v\u00ec \u0111\u00e3 gh\u00e9 qua, Lin. T\u00f4i mu\u1ed1n th\u1ea3o lu\u1eadn v\u1ec1 c\u00e1c \u1ee9ng vi\u00ean m\u00e0 ch\u00fang ta \u0111\u00e3 ph\u1ecfng v\u1ea5n ng\u00e0y h\u00f4m qua cho v\u1ecb tr\u00ed tr\u1ee3 l\u00fd ph\u00e1p l\u00fd. (45)T\u00f4i r\u1ea5t \u1ea5n t\u01b0\u1ee3ng v\u1edbi qu\u00e1 tr\u00ecnh l\u00e0m vi\u1ec7c c\u1ee7a \u00f4ng Smith.</span></p><p><span>M-Au: </span><span> (45)V\u00e2ng, anh \u1ea5y c\u00f3 r\u1ea5t nhi\u1ec1u kinh nghi\u1ec7m li\u00ean quan trong l\u0129nh v\u1ef1c ph\u00e1p l\u00fd, nh\u01b0ng anh \u1ea5y \u0111\u00e3 kh\u00f4ng tr\u1ea3 l\u1eddi c\u00e2u h\u1ecfi c\u1ee7a ch\u00fang ta m\u1ed9t c\u00e1ch r\u00f5 r\u00e0ng.</span></p><p><span>W-Am: D\u00f9 v\u1eady, t\u00f4i ngh\u0129 anh \u1ea5y s\u1ebd h\u1ed7 tr\u1ee3 r\u1ea5t nhi\u1ec1u trong vi\u1ec7c chu\u1ea9n b\u1ecb c\u00e1c b\u1ea3n t\u00f3m t\u1eaft ph\u00e1p l\u00fd cho kh\u00e1ch h\u00e0ng c\u1ee7a ch\u00fang ta.</span></p><p><span>M-Au: </span><span> (46)T\u00f4i \u1ee7ng h\u1ed9 c\u00f4 Wong. C\u00f4 \u1ea5y kh\u00f4ng ch\u1ec9 tr\u1ea3 l\u1eddi r\u00f5 r\u00e0ng v\u00e0 th\u1eb3ng th\u1eafn, m\u00e0 t\u00f4i c\u00f2n g\u1ecdi cho m\u1ed9t trong nh\u1eefng ng\u01b0\u1eddi gi\u1edbi thi\u1ec7u c\u1ee7a c\u00f4 \u1ea5y, v\u00e0 c\u1ea5p tr\u00ean c\u0169 c\u1ee7a c\u00f4 \u1ea5y \u0111\u00e3 kh\u00f4ng th\u1ec3 kh\u00f4ng khen ng\u1ee3i c\u00f4 \u1ea5y r\u1ea5t nhi\u1ec1u.</span></p><p><span>W-Am: Th\u1eadt t\u1ed1t khi bi\u1ebft \u0111i\u1ec1u \u0111\u00f3 .... </span><span> (46)H\u00e3y \u0111\u1ec3 t\u00f4i xem x\u00e9t l\u1ea1i qu\u00e1 tr\u00ecnh l\u00e0m vi\u1ec7c c\u1ee7a c\u00f4 \u1ea5y.</span></p><p><span></span></p><p><span>T\u00f3m t\u1eaft: W-Am v\u00e0 Lin \u0111ang th\u1ea3o lu\u1eadn v\u1ec1 c\u00e1c \u1ee9ng vi\u00ean cho v\u1ecb tr\u00ed tr\u1ee3 l\u00fd ph\u00e1p l\u00fd \u0111\u00e3 ph\u1ecfng v\u1ea5n. W-Am \u1ea5n t\u01b0\u1ee3ng v\u1edbi \u00f4ng Smith nh\u01b0ng Lin \u1ee7ng h\u1ed9 c\u00f4 Wong. H\u1ecd \u0111\u1ed3ng \u00fd xem x\u00e9t l\u1ea1i qu\u00e1 tr\u00ecnh l\u00e0m vi\u1ec7c c\u1ee7a c\u00f4 Wong.</span></p>",
+    "audio": "https://study4.com/media/ets2023/audio/ets-test-03-part-3-44-46.mp3",
+    "questions": [
+      {
+        "question": "Where do the speakers most likely work?",
+        "number": "44",
+        "A": "At a hospital",
+        "B": "At a law firm",
+        "C": "At a university",
+        "D": "At a manufacturing company",
+        "answer": "B",
+        "detail": "<p><span>44. Nh\u1eefng ng\u01b0\u1eddi n\u00f3i c\u00f3 kh\u1ea3 n\u0103ng l\u00e0m vi\u1ec7c \u1edf \u0111\u00e2u nh\u1ea5t?</span></p><p><span>(A) T\u1ea1i b\u1ec7nh vi\u1ec7n</span></p><p><span>(B) T\u1ea1i m\u1ed9t c\u00f4ng ty lu\u1eadt</span></p><p><span>(C) T\u1ea1i m\u1ed9t tr\u01b0\u1eddng \u0111\u1ea1i h\u1ecdc</span></p><p><span>(D) T\u1ea1i m\u1ed9t c\u00f4ng ty s\u1ea3n xu\u1ea5t</span></p>"
+      },
+      {
+        "question": "Why does the man object to Mr. Smith?",
+        "number": "45",
+        "A": "He does not have an extensive work history.",
+        "B": "He was late for the interview.",
+        "C": "He did not answer questions clearly.",
+        "D": "He did not dress appropriately.",
+        "answer": "C",
+        "detail": "<p><span>45. T\u1ea1i sao ng\u01b0\u1eddi \u0111\u00e0n \u00f4ng ph\u1ea3n \u0111\u1ed1i \u00f4ng Smith?</span></p><p><span>(A) Anh \u1ea5y kh\u00f4ng c\u00f3 qu\u00e1 tr\u00ecnh l\u00e0m vi\u1ec7c r\u1ed9ng r\u00e3i.</span></p><p><span>(B) Anh \u1ea5y \u0111\u1ebfn mu\u1ed9n bu\u1ed5i ph\u1ecfng v\u1ea5n.</span></p><p><span>(C) Anh \u1ea5y \u0111\u00e3 kh\u00f4ng tr\u1ea3 l\u1eddi c\u00e2u h\u1ecfi m\u1ed9t c\u00e1ch r\u00f5 r\u00e0ng.</span></p><p><span>(D) Anh \u1ea5y kh\u00f4ng \u0103n m\u1eb7c ph\u00f9 h\u1ee3p.</span></p>"
+      },
+      {
+        "question": "What will the woman do next?",
+        "number": "46",
+        "A": "Double-check Ms. Wong\u2019s references",
+        "B": "Answer Ms. Wong\u2019s question",
+        "C": "Review Ms. Wong's employment history",
+        "D": "Bring Ms. Wong in for another interview",
+        "answer": "C",
+        "detail": "<p><span>46. Ng\u01b0\u1eddi ph\u1ee5 n\u1eef s\u1ebd l\u00e0m g\u00ec ti\u1ebfp theo?</span></p><p><span>(A) Ki\u1ec3m tra k\u1ef9 t\u00e0i li\u1ec7u c\u1ee7a c\u00f4 Wong</span></p><p><span>(B) Tr\u1ea3 l\u1eddi c\u00e2u h\u1ecfi c\u1ee7a c\u00f4 Wong</span></p><p><span>(C) Xem l\u1ea1i qu\u00e1 tr\u00ecnh l\u00e0m vi\u1ec7c c\u1ee7a c\u00f4 Wong</span></p><p><span>(D) \u0110\u01b0a c\u00f4 Wong v\u00e0o cu\u1ed9c ph\u1ecfng v\u1ea5n kh\u00e1c</span></p><p><span></span></p>"
+      }
+    ]
+  },
+  {
+    "context_question_img": [],
+    "context_transcript": "<p><span></span></p><p><span>M-Au: Good morning! </span><span> (47)This is the front desk. How may I help you?</span></p><p><span>W-Am: Yes... Hi... </span><span> (47)it's 7 a.m., and I am hearing drilling in the room above me.</span></p><p><span>M-Au: That's right. </span><span> (48)We are doing bathroom renovations on that floor. We posted notices about the project near the checkin desk and around the lobby.</span></p><p><span>W-Am: I have a conference call at 8 a.m.</span></p><p><span>M-Au: </span><span> (49)Let me see about finding an alternate accommodation for you in another wing.</span></p><p><span>W-Am: That would be great. Due to a schedule change, I will be working from my room all day.</span></p><p><span></span></p><p><b>D\u1ecbch ngh\u0129a:</b></p><p><span> </span></p><p><span>M-Au: Ch\u00e0o bu\u1ed5i s\u00e1ng! </span><span> (47)\u0110\u00e2y l\u00e0 qu\u1ea7y l\u1ec5 t\u00e2n. T\u00f4i c\u00f3 th\u1ec3 gi\u00fap g\u00ec cho b\u1ea1n?</span></p><p><span>W-Am: V\u00e2ng... Xin ch\u00e0o... </span><span> (47)b\u00e2y gi\u1edd l\u00e0 7 gi\u1edd s\u00e1ng v\u00e0 t\u00f4i \u0111ang nghe th\u1ea5y ti\u1ebfng khoan t\u1eeb c\u0103n ph\u00f2ng ph\u00eda tr\u00ean.</span></p><p><span>M-Au: \u0110\u00fang v\u1eady. </span><span> (48)Ch\u00fang t\u00f4i \u0111ang c\u1ea3i t\u1ea1o ph\u00f2ng t\u1eafm tr\u00ean t\u1ea7ng \u0111\u00f3. Ch\u00fang t\u00f4i \u0111\u0103ng th\u00f4ng b\u00e1o v\u1ec1 d\u1ef1 \u00e1n \u0111\u00f3 g\u1ea7n b\u00e0n ti\u1ebfp t\u00e2n v\u00e0 xung quanh s\u1ea3nh.</span></p><p><span>W-Am: T\u00f4i c\u00f3 m\u1ed9t cu\u1ed9c g\u1ecdi h\u1ed9i th\u1ea3o l\u00fac 8 gi\u1edd s\u00e1ng.</span></p><p><span>M-Au: </span><span> (49)H\u00e3y \u0111\u1ec3 t\u00f4i xem x\u00e9t vi\u1ec7c t\u00ecm m\u1ed9t ph\u00f2ng kh\u00e1c thay th\u1ebf cho b\u1ea1n \u1edf m\u1ed9t khu kh\u00e1c.</span></p><p><span>W-Am: \u0110i\u1ec1u \u0111\u00f3 th\u1eadt tuy\u1ec7t. Do thay \u0111\u1ed5i l\u1ecbch tr\u00ecnh, t\u00f4i s\u1ebd l\u00e0m vi\u1ec7c trong ph\u00f2ng c\u1ea3 ng\u00e0y.</span></p><p><span></span></p><p><span>T\u00f3m t\u1eaft: W-Am g\u1ecdi \u0111\u1ebfn qu\u1ea7y ti\u1ebfp t\u00e2n v\u00e0 th\u00f4ng b\u00e1o v\u1ec1 ti\u1ebfng khoan t\u1eeb ph\u00f2ng ph\u00eda tr\u00ean l\u00fac 7 gi\u1edd s\u00e1ng. Nh\u00e2n vi\u00ean ti\u1ebfp t\u00e2n gi\u1ea3i th\u00edch r\u1eb1ng h\u1ecd \u0111ang c\u1ea3i t\u1ea1o ph\u00f2ng t\u1eafm v\u00e0 \u0111\u00e3 \u0111\u0103ng th\u00f4ng b\u00e1o. W-Am n\u00f3i c\u00f4 c\u00f3 cu\u1ed9c g\u1ecdi h\u1ed9i th\u1ea3o v\u00e0o 8 gi\u1edd s\u00e1ng v\u00e0 y\u00eau c\u1ea7u t\u00ecm m\u1ed9t ph\u00f2ng kh\u00e1c thay th\u1ebf \u0111\u1ec3 l\u00e0m vi\u1ec7c.</span></p>",
+    "audio": "https://study4.com/media/ets2023/audio/ets-test-03-part-3-47-49.mp3",
+    "questions": [
+      {
+        "question": "Where most likely is the conversation taking place?",
+        "number": "47",
+        "A": "In an office building",
+        "B": "In a hotel",
+        "C": "In an apartment complex",
+        "D": "In a hospital",
+        "answer": "B",
+        "detail": "<p><span>47. Cu\u1ed9c n\u00f3i chuy\u1ec7n c\u00f3 kh\u1ea3 n\u0103ng di\u1ec5n ra \u1edf \u0111\u00e2u nh\u1ea5t?</span></p><p><span>(A) Trong m\u1ed9t t\u00f2a nh\u00e0 v\u0103n ph\u00f2ng</span></p><p><span>(B) Trong m\u1ed9t kh\u00e1ch s\u1ea1n</span></p><p><span>(C) Trong m\u1ed9t khu chung c\u01b0</span></p><p><span>(D) Trong b\u1ec7nh vi\u1ec7n</span></p>"
+      },
+      {
+        "question": "What does the woman imply when she says, \u201cI have a conference call at 8 A.M.\u201d?",
+        "number": "48",
+        "A": "She will not be able to meet the man.",
+        "B": "She would like a faster Internet connection.",
+        "C": "She would like to check out early.",
+        "D": "She cannot work because of some noise.",
+        "answer": "D",
+        "detail": "<p><span>48. Ng\u01b0\u1eddi ph\u1ee5 n\u1eef \u00e1m ch\u1ec9 \u0111i\u1ec1u g\u00ec khi c\u00f4 \u1ea5y n\u00f3i, \u201cT\u00f4i c\u00f3 cu\u1ed9c g\u1ecdi h\u1ed9i ngh\u1ecb l\u00fac 8 gi\u1edd s\u00e1ng.\u201d?</span></p><p><span>(A) C\u00f4 \u1ea5y s\u1ebd kh\u00f4ng th\u1ec3 g\u1eb7p ng\u01b0\u1eddi \u0111\u00e0n \u00f4ng \u0111\u00f3.</span></p><p><span>(B) C\u00f4 \u1ea5y mu\u1ed1n k\u1ebft n\u1ed1i Internet nhanh h\u01a1n.</span></p><p><span>(C) C\u00f4 \u1ea5y mu\u1ed1n tr\u1ea3 ph\u00f2ng s\u1edbm.</span></p><p><span>(D) C\u00f4 \u1ea5y kh\u00f4ng th\u1ec3 l\u00e0m vi\u1ec7c v\u00ec m\u1ed9t s\u1ed1 ti\u1ebfng \u1ed3n.</span></p>"
+      },
+      {
+        "question": "What does the man say he will do?",
+        "number": "49",
+        "A": "Try to find the woman another room",
+        "B": "Give the woman a refund",
+        "C": "Bring the notice to the woman\u2019s room",
+        "D": "Ask that the drilling be stopped",
+        "answer": "A",
+        "detail": "<p><span>49. Ng\u01b0\u1eddi \u0111\u00e0n \u00f4ng n\u00f3i anh ta s\u1ebd l\u00e0m g\u00ec?</span></p><p><span>(A) C\u1ed1 g\u1eafng t\u00ecm cho ng\u01b0\u1eddi ph\u1ee5 n\u1eef m\u1ed9t c\u0103n ph\u00f2ng kh\u00e1c</span></p><p><span>(B) Ho\u00e0n l\u1ea1i ti\u1ec1n cho ng\u01b0\u1eddi ph\u1ee5 n\u1eef</span></p><p><span>(C) Mang th\u00f4ng b\u00e1o \u0111\u1ebfn ph\u00f2ng c\u1ee7a ng\u01b0\u1eddi ph\u1ee5 n\u1eef</span></p><p><span>(D) Y\u00eau c\u1ea7u ng\u1eebng khoan</span></p><p><span></span></p><p><span></span></p>"
+      }
+    ]
+  },
+  {
+    "context_question_img": [],
+    "context_transcript": "<p><span></span></p><p><span></span></p><p><span>W-Br: </span><span> (50) l like your idea, Mark, about producing a new line of touchless, voice-activated smart lamps. But if we were going to do that, (50)'(51) we\u2019d need to hire a new consultant familiar with that technology, which would not be cheap.</span></p><p><span>W-Am: </span><span> (51)Given that we went over on our production costs last year, it doesn't seem likely we'd have the budget.</span></p><p><span>M-Au: </span><span> (52)What if we reduced our spending on advertising temporarily and used the savings to hire the new consultant? </span><span> The decrease in advertising might cause a temporary drop in revenue, but I think we should make up for it when we launch the lamps.</span></p><p><span></span></p><p><b>D\u1ecbch ngh\u0129a:</b></p><p><span> </span></p><p><span>W-Br: </span><span> (50)T\u00f4i th\u00edch \u00fd t\u01b0\u1edfng c\u1ee7a b\u1ea1n, Mark, v\u1ec1 vi\u1ec7c s\u1ea3n xu\u1ea5t m\u1ed9t d\u00f2ng s\u1ea3n ph\u1ea9m m\u1edbi l\u00e0 c\u00e1c b\u00f3ng \u0111\u00e8n th\u00f4ng minh kh\u00f4ng ti\u1ebfp x\u00fac v\u00e0 k\u00edch ho\u1ea1t b\u1eb1ng gi\u1ecdng n\u00f3i. Nh\u01b0ng n\u1ebfu ch\u00fang ta \u0111\u1ecbnh l\u00e0m \u0111i\u1ec1u \u0111\u00f3,(50)'(51) ch\u00fang ta c\u1ea7n thu\u00ea m\u1ed9t chuy\u00ean gia t\u01b0 v\u1ea5n m\u1edbi quen thu\u1ed9c v\u1edbi c\u00f4ng ngh\u1ec7 \u0111\u00f3, \u0111i\u1ec1u n\u00e0y s\u1ebd kh\u00f4ng h\u1ec1 r\u1ebb.</span></p><p><span>W-Am: </span><span> (51)V\u00ec ch\u00fang ta \u0111\u00e3 v\u01b0\u1ee3t qu\u00e1 ng\u00e2n s\u00e1ch s\u1ea3n xu\u1ea5t c\u1ee7a m\u00ecnh v\u00e0o n\u0103m ngo\u00e1i, c\u00f3 v\u1ebb nh\u01b0 ch\u00fang ta kh\u00f4ng c\u00f3 \u0111\u1ee7 ng\u00e2n s\u00e1ch.</span></p><p><span>M-Au: </span><span> (52)Nh\u01b0ng n\u1ebfu ch\u00fang ta t\u1ea1m th\u1eddi gi\u1ea3m chi ti\u00eau cho qu\u1ea3ng c\u00e1o v\u00e0 s\u1eed d\u1ee5ng s\u1ed1 ti\u1ec1n ti\u1ebft ki\u1ec7m \u0111\u01b0\u1ee3c \u0111\u1ec3 thu\u00ea chuy\u00ean gia t\u01b0 v\u1ea5n m\u1edbi? </span><span> Gi\u1ea3m qu\u1ea3ng c\u00e1o c\u00f3 th\u1ec3 g\u00e2y ra s\u1ef1 s\u1ee5t gi\u1ea3m doanh thu t\u1ea1m th\u1eddi, nh\u01b0ng t\u00f4i ngh\u0129 ch\u00fang ta s\u1ebd b\u00f9 l\u1ea1i khi ch\u00fang ta tung ra lo\u1ea1i \u0111\u00e8n m\u1edbi.</span></p><p><span></span></p><p><span>T\u00f3m t\u1eaft: 3 ng\u01b0\u1eddi \u0111ang th\u1ea3o lu\u1eadn v\u1ec1 vi\u1ec7c thu\u00ea chuy\u00ean gia t\u01b0 v\u1ea5n m\u1edbi \u0111\u1ec3 th\u1ef1c hi\u1ec7n \u00fd t\u01b0\u1edfng s\u1ea3n xu\u1ea5t b\u00f3ng \u0111\u00e8n th\u00f4ng minh v\u00e0 \u0111\u1ec1 xu\u1ea5t gi\u1ea3m chi ti\u00eau qu\u1ea3ng c\u00e1o \u0111\u1ec3 c\u00f3 \u0111\u1ee7 ti\u1ec1n th\u1ef1c hi\u1ec7n \u00fd t\u01b0\u1edfng.</span></p>",
+    "audio": "https://study4.com/media/ets2023/audio/ets-test-03-part-3-50-52.mp3",
+    "questions": [
+      {
+        "question": "What are the speakers mainly discussing?",
+        "number": "50",
+        "A": "Employee responsibilities",
+        "B": "An advertising campaign",
+        "C": "Developing a new product",
+        "D": "A type of phone",
+        "answer": "C",
+        "detail": "<p><span>50. Ng\u01b0\u1eddi n\u00f3i ch\u1ee7 y\u1ebfu th\u1ea3o lu\u1eadn v\u1ec1 v\u1ea5n \u0111\u1ec1 g\u00ec?</span></p><p><span>(A) Tr\u00e1ch nhi\u1ec7m c\u1ee7a nh\u00e2n vi\u00ean</span></p><p><span>(B) M\u1ed9t chi\u1ebfn d\u1ecbch qu\u1ea3ng c\u00e1o</span></p><p><span>(C) Ph\u00e1t tri\u1ec3n m\u1ed9t s\u1ea3n ph\u1ea9m m\u1edbi</span></p><p><span>(D) M\u1ed9t lo\u1ea1i \u0111i\u1ec7n tho\u1ea1i</span></p>"
+      },
+      {
+        "question": "What do the women imply about hiring a new consultant?",
+        "number": "51",
+        "A": "It would be expensive.",
+        "B": "It might not solve their problem.",
+        "C": "It will be challenging to find someone with the right skills.",
+        "D": "It has already happened.",
+        "answer": "A",
+        "detail": "<p><span>51. Ng\u01b0\u1eddi ph\u1ee5 n\u1eef \u00e1m ch\u1ec9 \u0111i\u1ec1u g\u00ec v\u1ec1 vi\u1ec7c thu\u00ea m\u1ed9t chuy\u00ean gia t\u01b0 v\u1ea5n m\u1edbi?</span></p><p><span>(A) N\u00f3 s\u1ebd r\u1ea5t \u0111\u1eaft.</span></p><p><span>(B) N\u00f3 c\u00f3 th\u1ec3 kh\u00f4ng gi\u1ea3i quy\u1ebft \u0111\u01b0\u1ee3c v\u1ea5n \u0111\u1ec1 c\u1ee7a h\u1ecd.</span></p><p><span>(C) S\u1ebd r\u1ea5t kh\u00f3 \u0111\u1ec3 t\u00ecm \u0111\u01b0\u1ee3c ng\u01b0\u1eddi c\u00f3 k\u1ef9 n\u0103ng ph\u00f9 h\u1ee3p.</span></p><p><span>(D) N\u00f3 \u0111\u00e3 x\u1ea3y ra r\u1ed3i.</span></p>"
+      },
+      {
+        "question": "What does the man suggest they do?",
+        "number": "52",
+        "A": "Stop production",
+        "B": "Hire temporary employees",
+        "C": "Review costs",
+        "D": "Spend less on advertising",
+        "answer": "D",
+        "detail": "<p><span>52. Ng\u01b0\u1eddi \u0111\u00e0n \u00f4ng \u0111\u1ec1 ngh\u1ecb h\u1ecd l\u00e0m g\u00ec?</span></p><p><span>(A) Ng\u1eebng s\u1ea3n xu\u1ea5t</span></p><p><span>(B) Thu\u00ea nh\u00e2n vi\u00ean t\u1ea1m th\u1eddi</span></p><p><span>(C) Xem x\u00e9t chi ph\u00ed</span></p><p><span>(D) Chi ti\u00eau \u00edt h\u01a1n cho qu\u1ea3ng c\u00e1o</span></p>"
+      }
+    ]
+  },
+  {
+    "context_question_img": [],
+    "context_transcript": "<p><span>M-Au: (53)Have you been having any problems with the therapeutic ultrasound machine? My patient just said he didn't feel his muscles were responding as usual.</span></p><p><span>W-Am: It has been acting funny. Perhaps we should call the technician?</span></p><p><span>M-Au: Maybe. I'm afraid it's getting pretty old, though. We may need to replace it.</span></p><p><span>W-Am: OK. (54)I'II notify Barbara since she has to sign off on all purchases.</span></p><p><span>M-Au: By the way, (55) can you see Mr. Cohen for me tomorrow? He just needs to do some exercises for his wrist. He's been responding well to the treatment.</span></p><p><b>D\u1ecbch ngh\u0129a:</b></p><p><span>M-Au: (53)B\u1ea1n c\u00f3 g\u1eb7p b\u1ea5t k\u1ef3 v\u1ea5n \u0111\u1ec1 g\u00ec v\u1edbi m\u00e1y si\u00eau \u00e2m tr\u1ecb li\u1ec7u kh\u00f4ng? B\u1ec7nh nh\u00e2n c\u1ee7a t\u00f4i v\u1eeba n\u00f3i r\u1eb1ng anh \u1ea5y kh\u00f4ng c\u1ea3m th\u1ea5y c\u01a1 b\u1eafp c\u1ee7a m\u00ecnh ph\u1ea3n \u1ee9ng nh\u01b0 b\u00ecnh th\u01b0\u1eddng.</span></p><p><span>W-Am: N\u00f3 \u0111\u00e3 ho\u1ea1t \u0111\u1ed9ng k\u1ef3 l\u1ea1. C\u00f3 l\u1ebd ch\u00fang ta n\u00ean g\u1ecdi k\u1ef9 thu\u1eadt vi\u00ean?</span></p><p><span>M-Au: C\u00f3 th\u1ec3. T\u00f4i e r\u1eb1ng n\u00f3 \u0111\u00e3 kh\u00e1 c\u0169. Ch\u00fang ta c\u00f3 th\u1ec3 c\u1ea7n ph\u1ea3i thay th\u1ebf n\u00f3.</span></p><p><span>W-Am: \u0110\u01b0\u1ee3c.(54)T\u00f4i s\u1ebd th\u00f4ng b\u00e1o cho Barbara v\u00ec c\u00f4 \u1ea5y ph\u1ea3i k\u00fd duy\u1ec7t t\u1ea5t c\u1ea3 c\u00e1c giao d\u1ecbch mua.</span></p><p><span>M-Au: Nh\u00e2n ti\u1ec7n, (55) b\u1ea1n c\u00f3 th\u1ec3 g\u1eb7p \u00f4ng Cohen h\u1ed9 t\u00f4i v\u00e0o ng\u00e0y mai kh\u00f4ng? Anh \u1ea5y ch\u1ec9 c\u1ea7n th\u1ef1c hi\u1ec7n m\u1ed9t s\u1ed1 b\u00e0i t\u1eadp cho c\u1ed5 tay c\u1ee7a m\u00ecnh. Anh \u1ea5y \u0111\u00e3 ph\u1ea3n h\u1ed3i t\u1ed1t v\u1edbi li\u1ec7u ph\u00e1p \u0111i\u1ec1u tr\u1ecb.</span></p>",
+    "audio": "https://study4.com/media/ets2023/audio/ets-test-03-part-3-53-55.mp3",
+    "questions": [
+      {
+        "question": "Where most likely are the speakers?",
+        "number": "53",
+        "A": "In a medical office",
+        "B": "At a repair shop",
+        "C": "At a department store",
+        "D": "In a warehouse",
+        "answer": "A",
+        "detail": "<p><span>53. Ng\u01b0\u1eddi n\u00f3i c\u00f3 kh\u1ea3 n\u0103ng \u1edf \u0111\u00e2u nh\u1ea5t?</span></p><p><span>(A) Trong m\u1ed9t v\u0103n ph\u00f2ng y t\u1ebf</span></p><p><span>(B) T\u1ea1i m\u1ed9t c\u1eeda h\u00e0ng s\u1eeda ch\u1eefa</span></p><p><span>(C) T\u1ea1i m\u1ed9t c\u1eeda h\u00e0ng b\u00e1ch h\u00f3a</span></p><p><span>(D) Trong nh\u00e0 kho</span></p>"
+      },
+      {
+        "question": "Who most likely is Barbara?",
+        "number": "54",
+        "A": "A technician",
+        "B": "A manager",
+        "C": "A salesperson",
+        "D": "A fitness instructor",
+        "answer": "B",
+        "detail": "<p><span>54. Barbara c\u00f3 kh\u1ea3 n\u0103ng l\u00e0 ai nh\u1ea5t?</span></p><p><span>(A) M\u1ed9t k\u1ef9 thu\u1eadt vi\u00ean</span></p><p><span>(B) M\u1ed9t ng\u01b0\u1eddi qu\u1ea3n l\u00fd</span></p><p><span>(C) M\u1ed9t nh\u00e2n vi\u00ean b\u00e1n h\u00e0ng</span></p><p><span>(D) M\u1ed9t hu\u1ea5n luy\u1ec7n vi\u00ean th\u1ec3 h\u00ecnh</span></p>"
+      },
+      {
+        "question": "What does the man ask the woman to do?",
+        "number": "55",
+        "A": "Order some supplies",
+        "B": "Call Barbara",
+        "C": "Reserve an exercise room",
+        "D": "Help a patient tomorrow",
+        "answer": "D",
+        "detail": "<p><span>55. Ng\u01b0\u1eddi \u0111\u00e0n \u00f4ng y\u00eau c\u1ea7u ng\u01b0\u1eddi ph\u1ee5 n\u1eef l\u00e0m g\u00ec?</span></p><p><span>(A) \u0110\u1eb7t mua m\u1ed9t s\u1ed1 v\u1eadt t\u01b0</span></p><p><span>(B) G\u1ecdi cho Barbara</span></p><p><span>(C) \u0110\u1eb7t ph\u00f2ng t\u1eadp th\u1ec3 d\u1ee5c</span></p><p><span>(D) Gi\u00fap b\u1ec7nh nh\u00e2n v\u00e0o ng\u00e0y mai</span></p><p><span></span></p>"
+      }
+    ]
+  },
+  {
+    "context_question_img": [],
+    "context_transcript": "<p><span></span></p><p><span>M-Au: </span><span> (58)I'm preparing the budget report for our monthly meeting, but (56)can I ask you about the bill for landscaping? It seems very high.</span></p><p><span>W-Br: Keep in mind that they maintain the parking area and outdoor lighting.</span></p><p><span>M-Au: Well, </span><span> (57),(58)the real issue is that we share the expenses with the medical clinic next door. With patients coming to the clinic, they use far more parking spaces than we do. And the way we divide the cost should reflect that.</span></p><p><span>W-Br: I think you're right. </span><span> 50l\u2019ll e-mail the clinic about it.</span></p><p><span></span></p><p><b>D\u1ecbch ngh\u0129a:</b></p><p><span> </span></p><p><span>M-Au: </span><span> (58)T\u00f4i \u0111ang chu\u1ea9n b\u1ecb b\u00e1o c\u00e1o ng\u00e2n s\u00e1ch cho cu\u1ed9c h\u1ecdp h\u00e0ng th\u00e1ng c\u1ee7a ch\u00fang ta, nh\u01b0ng(56)T\u00f4i c\u00f3 th\u1ec3 h\u1ecfi b\u1ea1n v\u1ec1 h\u00f3a \u0111\u01a1n c\u1ea3nh quan kh\u00f4ng? N\u00f3 c\u00f3 v\u1ebb r\u1ea5t cao.</span></p><p><span>W-Br: H\u00e3y nh\u1edb r\u1eb1ng h\u1ecd duy tr\u00ec khu v\u1ef1c \u0111\u1ed7 xe v\u00e0 \u00e1nh s\u00e1ng ngo\u00e0i tr\u1eddi.</span></p><p><span>M-Au: V\u00e2ng, </span><span> (57),(58)v\u1ea5n \u0111\u1ec1 th\u1ef1c s\u1ef1 l\u00e0 ch\u00fang ta chia s\u1ebb chi ph\u00ed v\u1edbi ph\u00f2ng kh\u00e1m y t\u1ebf b\u00ean c\u1ea1nh. V\u1edbi nh\u1eefng b\u1ec7nh nh\u00e2n \u0111\u1ebfn ph\u00f2ng kh\u00e1m, h\u1ecd s\u1eed d\u1ee5ng nhi\u1ec1u ch\u1ed7 \u0111\u1eadu xe h\u01a1n ch\u00fang ta. V\u00e0 c\u00e1ch ch\u00fang ta ph\u00e2n chia chi ph\u00ed n\u00ean ph\u1ea3n \u00e1nh \u0111i\u1ec1u \u0111\u00f3.</span></p><p><span>W-Br: T\u00f4i ngh\u0129 b\u1ea1n \u0111\u00fang. </span><span> 50T\u00f4i s\u1ebd g\u1eedi e-mail cho ph\u00f2ng kh\u00e1m v\u1ec1 \u0111i\u1ec1u \u0111\u00f3.</span></p><p><span></span></p><p><span>T\u00f3m t\u1eaft: M-Au \u0111ang chu\u1ea9n b\u1ecb b\u00e1o c\u00e1o ng\u00e2n s\u00e1ch v\u00e0 th\u1ea5y h\u00f3a \u0111\u01a1n c\u1ea3nh quan cao. H\u1ecd chia s\u1ebb chi ph\u00ed v\u1edbi ph\u00f2ng kh\u00e1m b\u00ean c\u1ea1nh, nh\u01b0ng ph\u00f2ng kh\u00e1m s\u1eed d\u1ee5ng nhi\u1ec1u ch\u1ed7 \u0111\u1ed7 xe h\u01a1n. M-Au \u0111\u1ec1 xu\u1ea5t chia s\u1ebb chi ph\u00ed theo t\u1ef7 l\u1ec7 s\u1eed d\u1ee5ng ch\u1ed7 \u0111\u1ed7 xe. W-Br \u0111\u1ed3ng \u00fd v\u00e0 s\u1ebd g\u1eedi email cho ph\u00f2ng kh\u00e1m \u0111\u1ec3 gi\u1ea3i quy\u1ebft v\u1ea5n \u0111\u1ec1 n\u00e0y.</span></p>",
+    "audio": "https://study4.com/media/ets2023/audio/ets-test-03-part-3-56-58-1.mp3",
+    "questions": [
+      {
+        "question": "What does the woman imply when she says, \u201cthey maintain the parking area and outdoor lighting''?",
+        "number": "56",
+        "A": "Items were mistakenly added to a bill.",
+        "B": "Some costs might be reasonable.",
+        "C": "New rates went into effect.",
+        "D": "A billing period is longer than one month.",
+        "answer": "B",
+        "detail": "<p><span>56. Ng\u01b0\u1eddi ph\u1ee5 n\u1eef \u00e1m ch\u1ec9 \u0111i\u1ec1u g\u00ec khi n\u00f3i, \u201ch\u1ecd duy tr\u00ec khu v\u1ef1c \u0111\u1ed7 xe v\u00e0 h\u1ec7 th\u1ed1ng chi\u1ebfu s\u00e1ng ngo\u00e0i tr\u1eddi\u201d?</span></p><p><span>(A) C\u00e1c m\u1eb7t h\u00e0ng \u0111\u00e3 b\u1ecb th\u00eam nh\u1ea7m v\u00e0o h\u00f3a \u0111\u01a1n.</span></p><p><span>(B) M\u1ed9t s\u1ed1 chi ph\u00ed c\u00f3 th\u1ec3 h\u1ee3p l\u00fd.</span></p><p><span>(C) T\u1ef7 gi\u00e1 m\u1edbi c\u00f3 hi\u1ec7u l\u1ef1c.</span></p><p><span>(D) Th\u1eddi h\u1ea1n thanh to\u00e1n d\u00e0i h\u01a1n m\u1ed9t th\u00e1ng.</span></p>"
+      },
+      {
+        "question": "What does the man think a medical clinic should do?",
+        "number": "57",
+        "A": "Hire more employees",
+        "B": "Use fewer parking spaces",
+        "C": "Pay a larger share of a bill",
+        "D": "Move to a new building",
+        "answer": "C",
+        "detail": "<p><span>57. Ng\u01b0\u1eddi \u0111\u00e0n \u00f4ng ngh\u0129 ph\u00f2ng kh\u00e1m y t\u1ebf n\u00ean l\u00e0m g\u00ec?</span></p><p><span>(A) Thu\u00ea th\u00eam nh\u00e2n vi\u00ean</span></p><p><span>(B) S\u1eed d\u1ee5ng \u00edt ch\u1ed7 \u0111\u1eadu xe h\u01a1n</span></p><p><span>(C) Tr\u1ea3 m\u1ed9t ph\u1ea7n l\u1edbn h\u01a1n c\u1ee7a h\u00f3a \u0111\u01a1n</span></p><p><span>(D) Chuy\u1ec3n \u0111\u1ebfn t\u00f2a nh\u00e0 m\u1edbi</span></p>"
+      },
+      {
+        "question": "What will the woman most likely do at the monthly meeting?",
+        "number": "58",
+        "A": "Choose a new landscaping company",
+        "B": "Discuss a payment arrangement",
+        "C": "Suggest enlarging the parking lot",
+        "D": "Review a plan for new outdoor lighting",
+        "answer": "B",
+        "detail": "<p><span>58. Ng\u01b0\u1eddi ph\u1ee5 n\u1eef s\u1ebd c\u00f3 kh\u1ea3 n\u0103ng l\u00e0m g\u00ec nh\u1ea5t trong cu\u1ed9c h\u1ecdp h\u00e0ng th\u00e1ng?</span></p><p><span>(A) Ch\u1ecdn m\u1ed9t c\u00f4ng ty c\u1ea3nh quan m\u1edbi</span></p><p><span>(B) Th\u1ea3o lu\u1eadn v\u1ec1 m\u1ed9t th\u1ecfa thu\u1eadn thanh to\u00e1n</span></p><p><span>(C) \u0110\u1ec1 ngh\u1ecb m\u1edf r\u1ed9ng b\u00e3i \u0111\u1eadu xe</span></p><p><span>(D) Xem x\u00e9t k\u1ebf ho\u1ea1ch chi\u1ebfu s\u00e1ng ngo\u00e0i tr\u1eddi m\u1edbi</span></p><p><span></span></p>"
+      }
+    ]
+  },
+  {
+    "context_question_img": [],
+    "context_transcript": "<p><span></span></p><p><span>W-Am: Thank you both for that lovely dinner.</span></p><p><span>(59)What a nice way to celebrate that our two companies will be working together in the future.</span></p><p><span>M-Cn: We've often held business dinners here. Say, </span><span> (60)l wanted to mention how much I liked the speech you gave at our meeting today. </span><span> Very inspiring!</span></p><p><span>W-Am: Ah, thank you... So, I'm in town until tomorrow afternoon. </span><span> (61)Ms. Rice, should I come by your office in the morning to sign the last few papers?</span></p><p><span>W-Br: (61)Yes, I'll be in at eight thirty... well, actually, make that nine. Does that give you enough time before your flight?</span></p><p><span>W-Am: Yes, that should be plenty of time.</span></p><p><span></span></p><p><b>D\u1ecbch ngh\u0129a:</b></p><p><span> </span></p><p><span>W-Am: C\u1ea3m \u01a1n hai ng\u01b0\u1eddi v\u00ec b\u1eefa t\u1ed1i \u0111\u00e1ng y\u00eau \u0111\u00f3. </span><span> (59)Th\u1eadt l\u00e0 m\u1ed9t c\u00e1ch tuy\u1ec7t v\u1eddi \u0111\u1ec3 \u0103n m\u1eebng r\u1eb1ng hai c\u00f4ng ty c\u1ee7a ch\u00fang ta s\u1ebd h\u1ee3p t\u00e1c v\u1edbi nhau trong t\u01b0\u01a1ng lai.</span></p><p><span>M-Cn: Ch\u00fang t\u00f4i th\u01b0\u1eddng t\u1ed5 ch\u1ee9c c\u00e1c b\u1eefa t\u1ed1i b\u00e0n c\u00f4ng vi\u1ec7c \u1edf \u0111\u00e2y. \u00c0, </span><span> (60)T\u00f4i mu\u1ed1n \u0111\u1ec1 c\u1eadp \u0111\u1ebfn vi\u1ec7c t\u00f4i th\u00edch b\u00e0i ph\u00e1t bi\u1ec3u c\u1ee7a b\u1ea1n t\u1ea1i cu\u1ed9c h\u1ecdp c\u1ee7a ch\u00fang ta ng\u00e0y h\u00f4m nay. </span><span> R\u1ea5t truy\u1ec1n c\u1ea3m!</span></p><p><span>W-Am: Ah, c\u1ea3m \u01a1n... V\u1eady, t\u00f4i s\u1ebd \u1edf th\u1ecb tr\u1ea5n cho \u0111\u1ebfn chi\u1ec1u mai. </span><span> (61)C\u00f4 Rice, t\u00f4i c\u00f3 n\u00ean \u0111\u1ebfn v\u0103n ph\u00f2ng c\u1ee7a c\u00f4 v\u00e0o bu\u1ed5i s\u00e1ng \u0111\u1ec3 k\u00fd nh\u1eefng t\u00e0i li\u1ec7u cu\u1ed1i c\u00f9ng kh\u00f4ng?</span></p><p><span>W-Br: (61)V\u00e2ng, t\u00f4i s\u1ebd \u0111\u1ebfn l\u00fac 8 gi\u1edd 30... \u00e0, th\u1ef1c ra l\u00e0 9 gi\u1edd. \u0110i\u1ec1u \u0111\u00f3 c\u00f3 cho b\u1ea1n \u0111\u1ee7 th\u1eddi gian tr\u01b0\u1edbc chuy\u1ebfn bay kh\u00f4ng?</span></p><p><span>W-Am: V\u00e2ng, \u0111\u00f3 kh\u00e1 l\u00e0 nhi\u1ec1u th\u1eddi gian.</span></p><p><span></span></p><p><span>T\u00f3m t\u1eaft: N\u1eef qu\u1ea3n l\u00fd c\u1ea3m \u01a1n m\u1ecdi ng\u01b0\u1eddi v\u00ec b\u1eefa t\u1ed1i tuy\u1ec7t v\u1eddi \u0111\u1ec3 k\u1ef7 ni\u1ec7m vi\u1ec7c hai c\u00f4ng ty s\u1ebd h\u1ee3p t\u00e1c trong t\u01b0\u01a1ng lai. Ng\u01b0\u1eddi \u0111\u00e0n \u00f4ng khen ng\u1ee3i b\u00e0i ph\u00e1t bi\u1ec3u c\u1ee7a c\u00f4 \u1ea5y t\u1ea1i cu\u1ed9c h\u1ecdp h\u00f4m nay. H\u1ecd s\u1ebd g\u1eb7p nhau v\u00e0o bu\u1ed5i s\u00e1ng \u0111\u1ec3 k\u00fd m\u1ed9t s\u1ed1 t\u00e0i li\u1ec7u tr\u01b0\u1edbc khi ng\u01b0\u1eddi ph\u1ee5 n\u1eef r\u1eddi th\u00e0nh ph\u1ed1 v\u00e0o ng\u00e0y h\u00f4m sau.</span></p>",
+    "audio": "https://study4.com/media/ets2023/audio/ets-test-03-part-3-59-61-1.mp3",
+    "questions": [
+      {
+        "question": "Why are the speakers celebrating?",
+        "number": "59",
+        "A": "A new restaurant is opening.",
+        "B": "Their companies will be working together.",
+        "C": "They have received an important loan.",
+        "D": "They have received an award.",
+        "answer": "B",
+        "detail": "<p><span>59. T\u1ea1i sao nh\u1eefng ng\u01b0\u1eddi n\u00f3i l\u1ea1i \u0103n m\u1eebng?</span></p><p><span>(A) M\u1ed9t nh\u00e0 h\u00e0ng m\u1edbi \u0111ang khai tr\u01b0\u01a1ng.</span></p><p><span>(B) C\u00f4ng ty c\u1ee7a h\u1ecd s\u1ebd l\u00e0m vi\u1ec7c c\u00f9ng nhau.</span></p><p><span>(C) H\u1ecd \u0111\u00e3 nh\u1eadn \u0111\u01b0\u1ee3c m\u1ed9t kho\u1ea3n vay quan tr\u1ecdng.</span></p><p><span>(D) H\u1ecd \u0111\u00e3 nh\u1eadn \u0111\u01b0\u1ee3c gi\u1ea3i th\u01b0\u1edfng.</span></p>"
+      },
+      {
+        "question": "What does the man say he liked about a meeting today?",
+        "number": "60",
+        "A": "Some unexpected news",
+        "B": "Some photos from a presentation",
+        "C": "A speech that was given",
+        "D": "A change to the agenda",
+        "answer": "C",
+        "detail": "<p><span>60. Ng\u01b0\u1eddi \u0111\u00e0n \u00f4ng n\u00f3i r\u1eb1ng anh \u1ea5y th\u00edch \u0111i\u1ec1u g\u00ec trong cu\u1ed9c h\u1ecdp ng\u00e0y h\u00f4m nay?</span></p><p><span>(A) M\u1ed9t s\u1ed1 tin t\u1ee9c b\u1ea5t ng\u1edd</span></p><p><span>(B) M\u1ed9t s\u1ed1 h\u00ecnh \u1ea3nh t\u1eeb m\u1ed9t b\u00e0i thuy\u1ebft tr\u00ecnh</span></p><p><span>(C) M\u1ed9t b\u00e0i ph\u00e1t bi\u1ec3u \u0111\u00e3 \u0111\u01b0\u1ee3c th\u1ef1c hi\u1ec7n</span></p><p><span>(D) M\u1ed9t thay \u0111\u1ed5i trong ch\u01b0\u01a1ng tr\u00ecnh l\u00e0m vi\u1ec7c</span></p>"
+      },
+      {
+        "question": "What will the women do tomorrow morning?",
+        "number": "61",
+        "A": "Finalize some paperwork",
+        "B": "Meet at the airport",
+        "C": "Make sure the office is locked up",
+        "D": "Compare some reports",
+        "answer": "A",
+        "detail": "<p><span>61. Nh\u1eefng ng\u01b0\u1eddi ph\u1ee5 n\u1eef s\u1ebd l\u00e0m g\u00ec v\u00e0o s\u00e1ng mai?</span></p><p><span>(A) Ho\u00e0n thi\u1ec7n m\u1ed9t s\u1ed1 th\u1ee7 t\u1ee5c gi\u1ea5y t\u1edd</span></p><p><span>(B) G\u1eb7p nhau \u1edf s\u00e2n bay</span></p><p><span>(C) \u0110\u1ea3m b\u1ea3o r\u1eb1ng v\u0103n ph\u00f2ng \u0111\u00e3 \u0111\u01b0\u1ee3c kh\u00f3a</span></p><p><span>(D) So s\u00e1nh m\u1ed9t s\u1ed1 b\u00e1o c\u00e1o</span></p><p><span></span></p>"
+      }
+    ]
+  },
+  {
+    "context_question_img": [
+      "https://study4.com/media/ets2023/img/3/image24.png"
+    ],
+    "context_transcript": "<p><span></span></p><p><span></span></p><p><span>M-Au: </span><span> (62)Are we all set for the event? The food is prepared, and the beverages are ready. They're loading the truck now. </span><span> I confirmed the music and other entertainment. And I think we'll arrive early.</span></p><p><span>W-Am: That's good because </span><span> (63)l was actually worried that one hour wouldn't have been enough to get everything ready.</span></p><p><span>M-Au: I agree. How does the rest of the schedule look?</span></p><p><span>W-Am: The timing looks good. </span><span> (64)l wonder if we could actually finish up early at the end of the night. Why don't you tell Pierre to bring the truck back at eleven thirty?</span></p><p><span>M-Au: OK. He should be finished with his hotel delivery by then.</span></p><p><span></span></p><p><b>D\u1ecbch ngh\u0129a:</b></p><p><span> </span></p><p><span>M-Au: </span><span> (62)T\u1ea5t c\u1ea3 ch\u00fang ta \u0111\u00e3 s\u1eb5n s\u00e0ng cho s\u1ef1 ki\u1ec7n n\u00e0y ch\u01b0a? Th\u1ee9c \u0103n \u0111\u00e3 s\u1eb5n s\u00e0ng, \u0111\u1ed3 u\u1ed1ng \u0111\u00e3 s\u1eb5n s\u00e0ng. B\u00e2y gi\u1edd h\u1ecd \u0111ang ch\u1ea5t h\u00e0ng l\u00ean xe t\u1ea3i. </span><span> T\u00f4i \u0111\u00e3 x\u00e1c nh\u1eadn \u00e2m nh\u1ea1c v\u00e0 c\u00e1c d\u1ecbch v\u1ee5 gi\u1ea3i tr\u00ed kh\u00e1c. V\u00e0 t\u00f4i ngh\u0129 ch\u00fang ta s\u1ebd \u0111\u1ebfn s\u1edbm.</span></p><p><span>W-Am: \u0110i\u1ec1u \u0111\u00f3 th\u1eadt t\u1ed1t b\u1edfi v\u00ec </span><span> (63)t\u00f4i \u0111\u00e3 th\u1ef1c s\u1ef1 lo l\u1eafng r\u1eb1ng m\u1ed9t gi\u1edd s\u1ebd kh\u00f4ng \u0111\u1ee7 \u0111\u1ec3 chu\u1ea9n b\u1ecb m\u1ecdi th\u1ee9.</span></p><p><span>M-Au: T\u00f4i \u0111\u1ed3ng \u00fd. Ph\u1ea7n c\u00f2n l\u1ea1i c\u1ee7a l\u1ecbch tr\u00ecnh nh\u01b0 th\u1ebf n\u00e0o?</span></p><p><span>W-Am: Th\u1eddi gian c\u00f3 v\u1ebb t\u1ed1t. </span><span> (64)T\u00f4i t\u1ef1 h\u1ecfi li\u1ec7u ch\u00fang ta th\u1ef1c s\u1ef1 c\u00f3 th\u1ec3 k\u1ebft th\u00fac s\u1edbm v\u00e0o cu\u1ed1i \u0111\u00eam kh\u00f4ng. T\u1ea1i sao b\u1ea1n kh\u00f4ng b\u1ea3o Pierre mang xe t\u1ea3i tr\u1edf l\u1ea1i l\u00fac 11 gi\u1edd 30?</span></p><p><span>M-Au: \u0110\u01b0\u1ee3c. Anh \u1ea5y n\u00ean ho\u00e0n th\u00e0nh vi\u1ec7c giao h\u00e0ng t\u1ea1i kh\u00e1ch s\u1ea1n c\u1ee7a m\u00ecnh tr\u01b0\u1edbc \u0111\u00f3.</span></p><p><span></span></p><p><span>T\u00f3m t\u1eaft: Tr\u1ee3 l\u00fd (M-Au) x\u00e1c nh\u1eadn m\u1ecdi th\u1ee9 \u0111\u00e3 s\u1eb5n s\u00e0ng cho s\u1ef1 ki\u1ec7n, bao g\u1ed3m th\u1ee9c \u0103n, \u0111\u1ed3 u\u1ed1ng, \u00e2m nh\u1ea1c v\u00e0 gi\u1ea3i tr\u00ed. Ng\u01b0\u1eddi qu\u1ea3n l\u00fd (W-Am) lo l\u1eafng r\u1eb1ng m\u1ed9t gi\u1edd kh\u00f4ng \u0111\u1ee7 \u0111\u1ec3 chu\u1ea9n b\u1ecb, nh\u01b0ng l\u1ecbch tr\u00ecnh c\u00f2n l\u1ea1i \u0111\u00e3 \u0111\u01b0\u1ee3c ki\u1ec3m tra v\u00e0 W-Am \u0111\u1ec1 xu\u1ea5t k\u1ebft th\u00fac s\u1ef1 ki\u1ec7n s\u1edbm h\u01a1n. H\u1ecd \u0111\u1ecbnh h\u1eb9n xe t\u1ea3i tr\u1edf v\u1ec1 l\u00fac 11:30 sau khi ho\u00e0n t\u1ea5t vi\u1ec7c giao h\u00e0ng t\u1ea1i kh\u00e1ch s\u1ea1n.</span></p>",
+    "audio": "https://study4.com/media/ets2023/audio/ets-test-03-part-3-62-64-1.mp3",
+    "questions": [
+      {
+        "question": "What industry do the speakers most likely work in?",
+        "number": "62",
+        "A": "Shipping",
+        "B": "Music recording",
+        "C": "Catering",
+        "D": "Tourism",
+        "answer": "C",
+        "detail": "<p><span>62. Ng\u01b0\u1eddi n\u00f3i c\u00f3 kh\u1ea3 n\u0103ng l\u00e0m vi\u1ec7c trong ng\u00e0nh n\u00e0o nh\u1ea5t?</span></p><p><span>(A) V\u1eadn chuy\u1ec3n</span></p><p><span>(B) Ghi \u00e2m \u00e2m nh\u1ea1c</span></p><p><span>(C) D\u1ecbch v\u1ee5 \u0103n u\u1ed1ng</span></p><p><span>(D) Du l\u1ecbch</span></p>"
+      },
+      {
+        "question": "Look at the graphic. What task in the schedule does the woman express concern about?",
+        "number": "63",
+        "A": "Arrive",
+        "B": "Setup",
+        "C": "Entertainment",
+        "D": "Clean up",
+        "answer": "B",
+        "detail": "<p><span>63. Nh\u00ecn v\u00e0o tranh. C\u00f4ng vi\u1ec7c n\u00e0o trong l\u1ecbch tr\u00ecnh m\u00e0 ng\u01b0\u1eddi ph\u1ee5 n\u1eef th\u1ec3 hi\u1ec7n s\u1ef1 lo l\u1eafng?</span></p><p><span>(A) \u0110\u1ebfn n\u01a1i</span></p><p><span>(B) Chu\u1ea9n b\u1ecb</span></p><p><span>(C) Gi\u1ea3i tr\u00ed</span></p><p><span>(D) D\u1ecdn d\u1eb9p</span></p>"
+      },
+      {
+        "question": "What does the woman ask the man to do?",
+        "number": "64",
+        "A": "Check on a hotel delivery",
+        "B": "Help to prepare some food",
+        "C": "Help to load some supplies",
+        "D": "Arrange for the truck to arrive early",
+        "answer": "D",
+        "detail": "<p><span>64. Ng\u01b0\u1eddi ph\u1ee5 n\u1eef y\u00eau c\u1ea7u ng\u01b0\u1eddi \u0111\u00e0n \u00f4ng l\u00e0m g\u00ec?</span></p><p><span>(A) Ki\u1ec3m tra giao h\u00e0ng t\u1ea1i kh\u00e1ch s\u1ea1n</span></p><p><span>(B) Gi\u00fap chu\u1ea9n b\u1ecb m\u1ed9t s\u1ed1 th\u1ee9c \u0103n</span></p><p><span>(C) Gi\u00fap t\u1ea3i m\u1ed9t s\u1ed1 v\u1eadt t\u01b0</span></p><p><span>(D) S\u1eafp x\u1ebfp \u0111\u1ec3 xe t\u1ea3i \u0111\u1ebfn s\u1edbm</span></p>"
+      }
+    ]
+  },
+  {
+    "context_question_img": [
+      "https://study4.com/media/ets2023/img/3/image26.png"
+    ],
+    "context_transcript": "<p><span></span></p><p><span>W-Am: </span><span> (65)Are you all set for the environmental fair our company is putting on at the park (65),(67)this weekend? </span><span> I just finished finding supplies for my game about recycling.</span></p><p><span>M-Cn: Yes, I've finished writing the questions for the environmental trivia game I'm leading. Hey, I wanted to check with you: </span><span> (66)What else can I do to be helpful that day? </span><span> Would you like me to hang signs or something? Help decorate?</span></p><p><span>W-Am: </span><span> (66)0ne thing we could use is someone to stand at the park entrance and direct people to the pavilion where the fair will take place.</span></p><p><span>M-Cn: Wait, </span><span> (67)aren't there several entrances to the park?</span></p><p><span>W-Am: Yes, but </span><span> (67)only the entrance on Court Street is open on weekends.</span></p><p><span></span></p><p><b>D\u1ecbch ngh\u0129a:</b></p><p><span> </span></p><p><span>W-Am: </span><span> (65)B\u1ea1n \u0111\u00e3 s\u1eb5n s\u00e0ng cho h\u1ed9i ch\u1ee3 m\u00f4i tr\u01b0\u1eddng m\u00e0 c\u00f4ng ty ch\u00fang t\u00f4i t\u1ed5 ch\u1ee9c t\u1ea1i c\u00f4ng vi\u00ean cu\u1ed1i tu\u1ea7n n\u00e0y ch\u01b0a(65),(67)? </span><span> T\u00f4i v\u1eeba ho\u00e0n th\u00e0nh vi\u1ec7c t\u00ecm ngu\u1ed3n cung c\u1ea5p cho tr\u00f2 ch\u01a1i t\u00e1i ch\u1ebf c\u1ee7a m\u00ecnh.</span></p><p><span>M-Cn: V\u00e2ng, t\u00f4i \u0111\u00e3 vi\u1ebft xong c\u00e1c c\u00e2u h\u1ecfi cho tr\u00f2 ch\u01a1i \u0111\u1ed1 vui v\u1ec1 m\u00f4i tr\u01b0\u1eddng m\u00e0 t\u00f4i \u0111ang h\u01b0\u1edbng d\u1eabn. \u00c0, t\u00f4i mu\u1ed1n h\u1ecfi b\u1ea1n: </span><span> (66)T\u00f4i c\u00f3 th\u1ec3 l\u00e0m g\u00ec kh\u00e1c \u0111\u1ec3 h\u1ed7 tr\u1ee3 v\u00e0o ng\u00e0y h\u00f4m \u0111\u00f3? </span><span> B\u1ea1n c\u00f3 mu\u1ed1n t\u00f4i treo b\u1ea3ng hi\u1ec7u hay c\u00e1i g\u00ec \u0111\u00f3 kh\u00f4ng? Gi\u00fap trang tr\u00ed?</span></p><p><span>W-Am: </span><span> (66)\u0110i\u1ec1u duy nh\u1ea5t ch\u00fang t\u00f4i c\u00f3 th\u1ec3 c\u1ea7n ng\u01b0\u1eddi gi\u00fap l\u00e0 ai \u0111\u00f3 \u0111\u1ee9ng \u1edf l\u1ed1i v\u00e0o c\u00f4ng vi\u00ean v\u00e0 h\u01b0\u1edbng d\u1eabn m\u1ecdi ng\u01b0\u1eddi \u0111\u1ebfn gian h\u00e0ng n\u01a1i di\u1ec5n ra h\u1ed9i ch\u1ee3.</span></p><p><span>M-Cn: \u0110\u1ee3i \u0111\u00e3, </span><span> (67)kh\u00f4ng ph\u1ea3i l\u00e0 c\u00f3 nhi\u1ec1u l\u1ed1i v\u00e0o c\u00f4ng vi\u00ean sao?</span></p><p><span>W-Am: \u0110\u00fang, nh\u01b0ng </span><span> (67)ch\u1ec9 c\u00f3 l\u1ed1i v\u00e0o tr\u00ean Ph\u1ed1 Court m\u1edf c\u1eeda v\u00e0o cu\u1ed1i tu\u1ea7n.</span></p><p><span></span></p><p><span>T\u00f3m t\u1eaft: 2 ng\u01b0\u1eddi th\u1ea3o lu\u1eadn v\u1ec1 vi\u1ec7c chu\u1ea9n b\u1ecb cho c\u00e1c tr\u00f2 ch\u01a1i t\u1ea1i h\u1ed9i ch\u1ee3 m\u00f4i tr\u01b0\u1eddng c\u1ee7a c\u00f4ng ty. M-Cn \u0111\u1ec1 ngh\u1ecb gi\u00fap v\u00e0 W-Am \u0111\u1ec1 xu\u1ea5t c\u1ea7n ng\u01b0\u1eddi \u0111\u1ee9ng t\u1ea1i l\u1ed1i v\u00e0o c\u00f4ng vi\u00ean tr\u00ean ph\u1ed1 Court \u0111\u1ec3 h\u01b0\u1edbng d\u1eabn m\u1ecdi ng\u01b0\u1eddi.</span></p>",
+    "audio": "https://study4.com/media/ets2023/audio/ets-test-03-part-3-65-67-1.mp3",
+    "questions": [
+      {
+        "question": "What event will the speakers attend at the park this weekend?",
+        "number": "65",
+        "A": "A picnic",
+        "B": "An athletic event",
+        "C": "An environmental fair",
+        "D": "A volunteer trash cleanup",
+        "answer": "C",
+        "detail": "<p><span>65. Ng\u01b0\u1eddi n\u00f3i s\u1ebd tham d\u1ef1 s\u1ef1 ki\u1ec7n g\u00ec \u1edf c\u00f4ng vi\u00ean v\u00e0o cu\u1ed1i tu\u1ea7n n\u00e0y?</span></p><p><span>(A) M\u1ed9t bu\u1ed5i d\u00e3 ngo\u1ea1i</span></p><p><span>(B) M\u1ed9t s\u1ef1 ki\u1ec7n th\u1ec3 thao</span></p><p><span>(C) M\u1ed9t h\u1ed9i ch\u1ee3 m\u00f4i tr\u01b0\u1eddng</span></p><p><span>(D) M\u1ed9t ho\u1ea1t \u0111\u1ed9ng d\u1ecdn r\u00e1c t\u00ecnh nguy\u1ec7n</span></p>"
+      },
+      {
+        "question": "What does the woman ask the man to do the day of the event?",
+        "number": "66",
+        "A": "Hand out prizes",
+        "B": "Direct people where to go",
+        "C": "Decorate the park pavilion",
+        "D": "Hang up signs",
+        "answer": "B",
+        "detail": "<p><span>66. Ng\u01b0\u1eddi ph\u1ee5 n\u1eef y\u00eau c\u1ea7u ng\u01b0\u1eddi \u0111\u00e0n \u00f4ng l\u00e0m g\u00ec v\u00e0o ng\u00e0y di\u1ec5n ra s\u1ef1 ki\u1ec7n?</span></p><p><span>(A) Ph\u00e1t ph\u1ea7n th\u01b0\u1edfng</span></p><p><span>(B) H\u01b0\u1edbng d\u1eabn m\u1ecdi ng\u01b0\u1eddi \u0111i \u0111\u00e2u</span></p><p><span>(C) Trang tr\u00ed gian h\u00e0ng c\u00f4ng vi\u00ean</span></p><p><span>(D) Treo bi\u1ec3n b\u00e1o</span></p>"
+      },
+      {
+        "question": "Look at the graphic. Which entrance will participants use for the event?",
+        "number": "67",
+        "A": "Entrance A",
+        "B": "Entrance B",
+        "C": "Entrance C",
+        "D": "Entrance D",
+        "answer": "A",
+        "detail": "<p><span>67. Nh\u00ecn v\u00e0o \u0111\u1ed3 h\u1ecda. Ng\u01b0\u1eddi tham gia s\u1ebd s\u1eed d\u1ee5ng l\u1ed1i v\u00e0o n\u00e0o cho s\u1ef1 ki\u1ec7n?</span></p><p><span>(A) L\u1ed1i v\u00e0o A</span></p><p><span>(B) L\u1ed1i v\u00e0o B</span></p><p><span>(C) L\u1ed1i v\u00e0o C</span></p><p><span>(D) L\u1ed1i v\u00e0o D</span></p><p><span></span></p>"
+      }
+    ]
+  },
+  {
+    "context_question_img": [
+      "https://study4.com/media/ets2023/img/3/image25.png"
+    ],
+    "context_transcript": "<p><span></span></p><p><span>W-Br: I came by in person to see how the construction of my town house is proceeding. </span><span> (68)l was a bit worried after that text you sent me yesterday.</span></p><p><span>M-Cn: Yes, </span><span> (68),(69)we finished stage three of the project last week, but as I said in my text, there'll be a delay for stage four.</span></p><p><span>W-Br: I understand there's a problem with the supply of drywall sheets?</span></p><p><span>M-Cn: There's a delay right now. But we should get them next week.</span></p><p><span>W-Br: </span><span> (70)ls there anything we can do whilewve wait?</span></p><p><span>M-Cn: </span><span> (70)l suggest you start working with your interior designer to decide on the finishing touches. </span><span> As soon as the drywall arrives, we'll be ready to finish the interior.</span></p><p><span></span></p><p><b>D\u1ecbch ngh\u0129a:</b></p><p><span></span></p><p><span>W-Br: T\u00f4i \u0111\u00e3 tr\u1ef1c ti\u1ebfp \u0111\u1ebfn \u0111\u1ec3 xem ti\u1ebfn \u0111\u1ed9 x\u00e2y d\u1ef1ng ng\u00f4i nh\u00e0 ph\u1ed1 c\u1ee7a m\u00ecnh. </span><span> (68)T\u00f4i h\u01a1i lo l\u1eafng sau tin nh\u1eafn b\u1ea1n g\u1eedi cho t\u00f4i ng\u00e0y h\u00f4m qua.</span></p><p><span>M-Cn: V\u00e2ng, </span><span> (68),(69)ch\u00fang t\u00f4i \u0111\u00e3 ho\u00e0n th\u00e0nh giai \u0111o\u1ea1n ba c\u1ee7a d\u1ef1 \u00e1n v\u00e0o tu\u1ea7n tr\u01b0\u1edbc, nh\u01b0ng nh\u01b0 t\u00f4i \u0111\u00e3 n\u00f3i trong tin nh\u1eafn, giai \u0111o\u1ea1n b\u1ed1n s\u1ebd b\u1ecb tr\u00ec ho\u00e3n.</span></p><p><span>W-Br: T\u00f4i hi\u1ec3u r\u1eb1ng c\u00f3 v\u1ea5n \u0111\u1ec1 v\u1edbi vi\u1ec7c cung c\u1ea5p t\u1ea5m v\u00e1ch th\u1ea1ch cao?</span></p><p><span>M-Cn: Hi\u1ec7n \u0111ang c\u00f3 s\u1ef1 ch\u1eadm tr\u1ec5. Nh\u01b0ng ch\u00fang t\u00f4i s\u1ebd nh\u1eadn \u0111\u01b0\u1ee3c ch\u00fang v\u00e0o tu\u1ea7n t\u1edbi.</span></p><p><span>W-Br: </span><span> (70)Ch\u00fang ta c\u00f3 th\u1ec3 l\u00e0m g\u00ec trong khi ch\u1edd \u0111\u1ee3i kh\u00f4ng?</span></p><p><span>M-Cn: </span><span> (70)T\u00f4i \u0111\u1ec1 xu\u1ea5t b\u1ea1n n\u00ean b\u1eaft \u0111\u1ea7u l\u00e0m vi\u1ec7c v\u1edbi nh\u00e0 thi\u1ebft k\u1ebf n\u1ed9i th\u1ea5t c\u1ee7a m\u00ecnh \u0111\u1ec3 quy\u1ebft \u0111\u1ecbnh nh\u1eefng ph\u1ea7n ho\u00e0n thi\u1ec7n. </span><span> Ngay sau khi v\u00e1ch th\u1ea1ch cao \u0111\u1ebfn, ch\u00fang t\u00f4i s\u1ebd s\u1eb5n s\u00e0ng ho\u00e0n thi\u1ec7n n\u1ed9i th\u1ea5t.</span></p><p><span></span></p><p><span>T\u00f3m t\u1eaft: N\u1eef qu\u1ea3n l\u00fd (W-Br) \u0111\u1ebfn ki\u1ec3m tra ti\u1ebfn \u0111\u1ed9 x\u00e2y d\u1ef1ng c\u0103n nh\u00e0 v\u00e0 lo l\u1eafng v\u00ec tin nh\u1eafn tr\u01b0\u1edbc \u0111\u00f3 n\u00f3i v\u1ec1 s\u1ef1 tr\u00ec ho\u00e3n giai \u0111o\u1ea1n b\u1ed1n. Ng\u01b0\u1eddi \u0111\u00e0n \u00f4ng (M-Cn) x\u00e1c nh\u1eadn s\u1ef1 tr\u00ec ho\u00e3n do v\u1ea5n \u0111\u1ec1 cung c\u1ea5p t\u1ea5m v\u00e1ch th\u1ea1ch cao. M-Cn \u0111\u1ec1 xu\u1ea5t b\u1eaft \u0111\u1ea7u l\u00e0m vi\u1ec7c v\u1edbi nh\u00e0 thi\u1ebft k\u1ebf n\u1ed9i th\u1ea5t trong l\u00fac ch\u1edd \u0111\u1ee3i \u0111\u1ec3 chu\u1ea9n b\u1ecb cho vi\u1ec7c ho\u00e0n thi\u1ec7n khi t\u1ea5m v\u00e1ch t\u1edbi.</span></p>",
+    "audio": "https://study4.com/media/ets2023/audio/ets-test-03-part-3-68-70-1.mp3",
+    "questions": [
+      {
+        "question": "What did the man do yesterday?",
+        "number": "68",
+        "A": "Communicated with the woman about the schedule.",
+        "B": "Contacted an electrician.",
+        "C": "Changed an aspect of the house\u2019s design.",
+        "D": "Ordered some supplies.",
+        "answer": "A",
+        "detail": "<p><span>68. Ng\u01b0\u1eddi \u0111\u00e0n \u00f4ng \u0111\u00e3 l\u00e0m g\u00ec ng\u00e0y h\u00f4m qua?</span></p><p><span>(A) Trao \u0111\u1ed5i v\u1edbi ng\u01b0\u1eddi ph\u1ee5 n\u1eef v\u1ec1 l\u1ecbch tr\u00ecnh</span></p><p><span>(B) \u0110\u00e3 li\u00ean h\u1ec7 v\u1edbi m\u1ed9t th\u1ee3 \u0111i\u1ec7n</span></p><p><span>(C) Thay \u0111\u1ed5i m\u1ed9t kh\u00eda c\u1ea1nh trong thi\u1ebft k\u1ebf c\u1ee7a ng\u00f4i nh\u00e0</span></p><p><span>(D) \u0110\u1eb7t h\u00e0ng m\u1ed9t s\u1ed1 v\u1eadt t\u01b0</span></p>"
+      },
+      {
+        "question": "Look at the graphic. What stage has recently been completed?",
+        "number": "69",
+        "A": "Framing",
+        "B": "Plumbing",
+        "C": "Insulation",
+        "D": "Drywall installation",
+        "answer": "C",
+        "detail": "<p><span>69. Nh\u00ecn v\u00e0o \u0111\u1ed3 h\u1ecda. Giai \u0111o\u1ea1n n\u00e0o g\u1ea7n \u0111\u00e2y \u0111\u00e3 \u0111\u01b0\u1ee3c ho\u00e0n th\u00e0nh?</span></p><p><span>(A) \u0110\u00f3ng khung</span></p><p><span>(B) H\u1ec7 th\u1ed1ng n\u01b0\u1edbc</span></p><p><span>(C) C\u00e1ch nhi\u1ec7t</span></p><p><span>(D) L\u1eafp \u0111\u1eb7t v\u00e1ch th\u1ea1ch cao</span></p>"
+      },
+      {
+        "question": "What does the man suggest the woman do?",
+        "number": "70",
+        "A": "Cancel an order",
+        "B": "Make some design decisions",
+        "C": "Pay a bill in advance",
+        "D": "Change suppliers",
+        "answer": "B",
+        "detail": "<p><span>70. Ng\u01b0\u1eddi \u0111\u00e0n \u00f4ng \u0111\u1ec1 ngh\u1ecb ng\u01b0\u1eddi ph\u1ee5 n\u1eef l\u00e0m g\u00ec?</span></p><p><span>(A) H\u1ee7y \u0111\u01a1n \u0111\u1eb7t h\u00e0ng</span></p><p><span>(B) \u0110\u01b0a ra m\u1ed9t s\u1ed1 quy\u1ebft \u0111\u1ecbnh thi\u1ebft k\u1ebf</span></p><p><span>(C) Thanh to\u00e1n h\u00f3a \u0111\u01a1n tr\u01b0\u1edbc</span></p><p><span>(D) Thay \u0111\u1ed5i nh\u00e0 cung c\u1ea5p</span></p><p><span></span></p>"
+      }
+    ]
+  }
+]

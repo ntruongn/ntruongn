@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <!-- Bootstrap CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+  <title>ÔN TẬP PART 3</title>
+  <style>
+    #container {
+      font-size: 20px;
+      width: 800px;
+      margin: 0 auto;
+    }
+    .answer-option {
+      display: block;
+      margin: 10px auto;
+    }
+    #result {
+      margin-top: 20px;
+    }
+    .context-column, .questions-column {
+      max-height: calc(100vh - 200px);
+      overflow-y: auto;
+    }
+  </style>
+</head>
+<body>
+  <div class="container text-center mt-4" style="font-size: 24px">
+    <p id="score"></p>
+  </div>
+  <div class="container text-center mt-4">
+    <div class="row">
+      <div class="col-12 col-md-4 mb-2">
+        <button class="btn btn-success w-100" id="prevQuestion" style="font-size: 24px">Câu hỏi trước đó</button>
+      </div>
+      <div class="col-12 col-md-4 mb-2">
+        <button class="btn btn-success w-100" id="nextQuestion" style="font-size: 24px">Câu hỏi tiếp theo</button>
+      </div>
+      <div class="col-12 col-md-4 mb-2">
+        <button class="btn btn-danger w-100" id="retryIncorrectQuestions" style="font-size: 24px">Dịch đoạn văn</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="container mt-4">
+    <audio id="audioPlayer" controls loop autoplay style="width: 100%;">
+        <source src="your-audio-url.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+    </audio>
+  </div>
+
+  <div class="container-fluid mt-4" style="font-size: 24px">
+    <div class="row">
+      <div class="context-column col-6">
+        <div id="contextImgElement"></div>
+        <div id="contextTranscript" class="bg-light m-2 p-2"></div>
+      </div>
+      <div class="questions-column col-6">
+        <div id="listQuestion">
+          <p id="question"></p>
+          <div id="answerOptions"></div>
+          <p id="result"></p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    let userInput = prompt("ĐANG LÀM ĐỀ ETS2023 PART6! - HÃY NHẬP TEST MUỐN LÀM:", 1);
+
+    const contextImgElement = document.getElementById("contextImgElement");
+    const questionElement = document.getElementById("question");
+    const answerOptionsContainer = document.getElementById("answerOptions");
+    const listQuestion = document.getElementById("listQuestion");
+    const scoreElement = document.getElementById("score");
+    const nextQuestionButton = document.getElementById("nextQuestion");
+    const prevQuestionButton = document.getElementById("prevQuestion");
+    const retryIncorrectQuestionsButton = document.getElementById("retryIncorrectQuestions");
+    const contextTranscript = document.getElementById("contextTranscript");
+    const audioPlayer = document.getElementById("audioPlayer");
+    let questionData = [];
+    let currentQuestionIndex = 0;
+    let correctCount = 0;
+    let incorrectCount = 0;
+    let userAnswers = [];
+    let incorrectQuestions = [];
+
+    fetch('PART3/ETS2023_' + userInput + '.json')
+      .then(response => response.json())
+      .then(data => {
+        questionData = data;
+        displayQuestion();
+      })
+      .catch(error => console.error('Lỗi tải tệp JSON:', error));
+
+    function displayQuestion() {
+      if (currentQuestionIndex >= questionData.length) {
+        resultElement.innerHTML = `<div class="alert alert-success" role="alert">Bạn đã hoàn thành tất cả các câu hỏi!</div>`;
+        nextQuestionButton.disabled = true;
+        return;
+      }
+      if (currentQuestionIndex < 0) {
+        currentQuestionIndex = 0;
+        return;
+      }
+      const currentQuestion = questionData[currentQuestionIndex];
+      
+      if (currentQuestion.context_question_img.length!=0) {
+        contextImgElement.innerHTML = `<img src="${currentQuestion.context_question_img}" alt="Image" width="100%">`;
+      } else {
+        contextImgElement.innerHTML = "";
+      }
+       
+      audioPlayer.src = currentQuestion.audio;
+      contextTranscript.innerHTML = "";
+      listQuestion.innerHTML = '';
+
+      currentQuestion.questions.forEach(element => {
+        const question = document.createElement("div");
+        question.id = element.number;
+        question.classList.add("border", "border-primary", "p-2", "mb-2", "rounded");
+
+        const question_number = document.createElement("b");
+        question_number.textContent = `Câu ${element.number}. ${element.question}`;
+        question.appendChild(question_number);
+
+        const question_answerOptions = document.createElement("div");
+
+        for (const key in element) {
+          if (key.match(/^[A-D]$/)) {
+            const label = document.createElement("label");
+            label.classList.add("answer-option");
+            label.innerHTML = `
+              <input type="radio" name="answer_for_${element.number}" value="${key}">
+              ${key}: ${element[key]}
+            `;
+            question_answerOptions.appendChild(label);
+          }
+        }
+        question.appendChild(question_answerOptions);
+        listQuestion.appendChild(question);
+      });
+
+      currentQuestion.questions.forEach(element => {
+        const answerOptions = document.getElementById(element.number);
+        const resultElement = document.createElement("div");
+
+        answerOptions.addEventListener("change", function(event) {
+          const selectedAnswer = event.target.value;
+          if (selectedAnswer === element.answer) {
+            resultElement.innerHTML = `<div class="alert alert-success" role="alert">ĐÚNG! NHƯNG ĐỪNG CHỦ QUAN NHÉ!</div> ${element.detail}`;
+            userAnswers[currentQuestionIndex] = { answer: selectedAnswer, correct: true };
+            correctCount++;
+          } else {
+            resultElement.innerHTML = `<div class="alert alert-warning" role="alert">Đáp án đúng: ${element.answer}</div>${element.detail}`;
+            userAnswers[currentQuestionIndex] = { answer: selectedAnswer, correct: false };
+            incorrectCount++;
+            incorrectQuestions.push(currentQuestionIndex);
+          }
+          answerOptions.appendChild(resultElement);
+          this.querySelectorAll("input").forEach(input => input.disabled = true);
+          updateScore();
+        });
+      });
+
+      if (userAnswers[currentQuestionIndex] !== undefined) {
+        const selectedAnswer = userAnswers[currentQuestionIndex];
+        resultElement.innerHTML = selectedAnswer.correct ? 
+          `<div class="alert alert-success" role="alert">ĐÚNG! NHƯNG ĐỪNG CHỦ QUAN NHÉ!</div> ${currentQuestion.detail}` : 
+          `<div class="alert alert-warning" role="alert">Đáp án đúng: ${currentQuestion.answer}</div>${currentQuestion.detail}`;
+        answerOptionsContainer.querySelector(`input[value="${selectedAnswer.answer}"]`).checked = true;
+      } else {
+        resultElement.textContent = "";
+      }
+      
+      updateScore();
+    }
+
+    function updateScore() {
+      scoreElement.textContent = `Số câu đúng: ${correctCount} | Số câu sai: ${incorrectCount}`;
+    }
+
+    nextQuestionButton.onclick = () => {
+      currentQuestionIndex++;
+      displayQuestion();
+    };
+
+    prevQuestionButton.onclick = () => {
+      currentQuestionIndex--;
+      displayQuestion();
+    };
+
+    retryIncorrectQuestionsButton.onclick = () => {
+      contextTranscript.innerHTML = questionData[currentQuestionIndex].context_transcript;
+    };
+  </script>
+</body>
+</html>
