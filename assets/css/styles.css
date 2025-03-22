@@ -103,7 +103,10 @@ html, body {
     z-index: -1;
 }
 
+.page-command li {
+    color: #00ff00 !important;
+}
+
 .page-command li a {
     text-decoration: none;
-    color: #00ff00 !important;
 }
