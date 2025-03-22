@@ -16,7 +16,7 @@ html, body {
 
 .navbar a {
     color: white !important;
-    font-size: 1.5rem;
+    font-size: 1.2rem;
 }
 
 /* Flex-grow to push footer to the bottom */
