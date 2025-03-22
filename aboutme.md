@@ -2,7 +2,7 @@
 title: Ngoc-Truong Nguyen
 layout: page
 type: code
-# profile_pic: "https://avatars.githubusercontent.com/u/74845360?v=4"
+profile_pic: "https://avatars.githubusercontent.com/u/74845360?v=4"
 # profile_pic_alt: ""
 # short_bio: Hi there this is Sharad, the developer of this theme.
 ---
