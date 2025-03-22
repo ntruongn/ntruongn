@@ -35,11 +35,11 @@
                 <li style="color: blue;"># </li>
                 {% if page.command != nil %}
                     <li>{{ page.command }}</li>
-                    {% if page.collection != nil %}<li><a href="{{ site.url }}/{{ page.collection }}">{{ page.collection }} / </a></li>{% endif %}
+                    {% if page.collection != nil %}<li><a href="{{ site.url }}/{{ page.collection }}">{{ page.collection }}/</a></li>{% endif %}
                     <li>{% assign page_name = page.id | split: "/" | last %}{% if page_name == nil %}{% assign page_name = page.name %}{% endif %}<a href="{{ page.url | relative_url }}">{{ page_name | split: "." | first }}</a></li>
                 {% else %}
                     <li>cat </li>
-                    {% if page.collection != nil %}<li><a href="{{ site.url }}/{{ page.collection }}">{{ page.collection }} / </a></li>{% endif %}
+                    {% if page.collection != nil %}<li><a href="{{ site.url }}/{{ page.collection }}">{{ page.collection }}/</a></li>{% endif %}
                     <li>{% assign page_name = page.id | split: "/" | last %}{% if page_name == nil %}{% assign page_name = page.name %}{% endif %}<a href="{{ page.url | relative_url }}">{{ page_name | split: "." | first }}.html</a></li>
                 {% endif %}
             </ul>
