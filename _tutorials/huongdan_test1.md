@@ -1,11 +1,6 @@
 ---
-collection: disclosures
-title: Exploit Example
+title: Hướng dẫn test 1
 layout: post
-type: code
-vuln_type: RCE
-severity: High
-cve: CVE-2222-4242
 ---
 
 ## Vulnerability
