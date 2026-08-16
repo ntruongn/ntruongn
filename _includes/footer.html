@@ -1,0 +1,95 @@
+<footer class="footer-cyber">
+    <div class="container text-center">
+        <!-- Status Indicator -->
+        <div class="mb-3">
+            <span class="cyber-badge badge-green">
+                <span class="pulse-dot"></span>
+                <span data-lang="vi">Sẵn sàng hợp tác nghiên cứu &amp; dự án</span>
+                <span data-lang="en">Available for research collaboration</span>
+            </span>
+        </div>
+
+        <!-- Social Buttons -->
+        <div class="footer-social-links">
+            {% if site.author.github %}
+            <a href="https://github.com/{{ site.author.github }}" target="_blank" rel="noopener noreferrer" class="footer-social-btn" title="GitHub">
+                <i class="bi bi-github"></i>
+            </a>
+            {% endif %}
+            {% if site.author.linkedin %}
+            <a href="https://linkedin.com/in/{{ site.author.linkedin }}" target="_blank" rel="noopener noreferrer" class="footer-social-btn" title="LinkedIn">
+                <i class="bi bi-linkedin"></i>
+            </a>
+            {% endif %}
+            {% if site.author.email %}
+            <a href="mailto:{{ site.author.email }}" class="footer-social-btn" title="Email: {{ site.author.email }}">
+                <i class="bi bi-envelope-fill"></i>
+            </a>
+            {% endif %}
+        </div>
+
+        <!-- Copyright & Tagline -->
+        <div class="footer-copy">
+            <p class="mb-1 text-secondary">
+                <span data-lang="vi">Thiết kế &amp; Phát triển bởi</span>
+                <span data-lang="en">Designed &amp; Developed by</span>
+                <strong class="text-light">{{ site.author.name }}</strong> &copy; {{ 'now' | date: "%Y" }}
+            </p>
+            <p class="small text-muted mb-0 font-monospace">
+                <code>[ system.uptime: active | environment: jekyll-pages ]</code>
+            </p>
+        </div>
+    </div>
+</footer>
+
+<!-- Floating Back to Top Button -->
+<button id="backToTopBtn" class="back-to-top-btn" title="Back to top">
+    <i class="bi bi-chevron-up"></i>
+</button>
+
+<!-- Bootstrap Bundle & Scripts -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/particles.js/2.0.0/particles.min.js"></script>
+<script>
+    if (document.getElementById('particles-js')) {
+        particlesJS("particles-js", {
+            particles: {
+                number: { value: 45, density: { enable: true, value_area: 900 } },
+                color: { value: ["#38bdf8", "#818cf8", "#10b981"] },
+                shape: { type: "circle" },
+                opacity: { value: 0.35, random: true },
+                size: { value: 2.5, random: true },
+                line_linked: {
+                    enable: true,
+                    distance: 140,
+                    color: "#38bdf8",
+                    opacity: 0.15,
+                    width: 1
+                },
+                move: {
+                    enable: true,
+                    speed: 1.2,
+                    direction: "none",
+                    random: true,
+                    straight: false,
+                    out_mode: "out",
+                    bounce: false
+                }
+            },
+            interactivity: {
+                detect_on: "canvas",
+                events: {
+                    onhover: { enable: true, mode: "grab" },
+                    onclick: { enable: true, mode: "push" },
+                    resize: true
+                },
+                modes: {
+                    grab: { distance: 150, line_linked: { opacity: 0.4 } },
+                    push: { particles_nb: 3 }
+                }
+            },
+            retina_detect: true
+        });
+    }
+</script>
+<script src="/assets/js/main.js"></script>

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
+<head>
+    {% include head.html %}
+</head>
+<body>
+    <div id="particles-js"></div>
+    <div class="cyber-grid-overlay"></div>
+
+    <!-- Sticky Navbar -->
+    {% include navbar.html %}
+
+    <!-- Main Content -->
+    <main class="content-wrapper">
+        <div class="container">
+            <!-- Command Breadcrumb -->
+            <div class="page-command-bar">
+                <span class="user-host">root@ntruongn</span>:<span class="cmd-path">~{% if page.collection %}/{{ page.collection }}{% endif %}</span>$ 
+                <span class="cmd-file">cat {{ page.slug | default: page.title | slugify }}.md</span>
+            </div>
+
+            <!-- Content Card -->
+            <div class="cyber-card content-body">
+                {{ content }}
+            </div>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    {% include footer.html %}
+</body>
+</html>

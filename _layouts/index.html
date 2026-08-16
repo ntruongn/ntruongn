@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {% include head.html %}
+</head>
+<body>
+    <div id="particles-js"></div>
+    <div class="cyber-grid-overlay"></div>
+
+    <!-- Sticky Navbar -->
+    {% include navbar.html %}
+
+    <!-- Main Content -->
+    <main class="content-wrapper">
+        <div class="container">
+            {{ content }}
+        </div>
+    </main>
+
+    <!-- Footer -->
+    {% include footer.html %}
+</body>
+</html>

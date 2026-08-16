@@ -1,0 +1,39 @@
+title: Ngoc-Truong Nguyen | Cybersecurity & AI Researcher
+markdown: kramdown
+url: "https://nguyenngoctruong.id.vn"
+baseurl: ""
+
+author:
+  name: Ngoc-Truong Nguyen
+  handle: ntruongn
+  email: 2k1.nguyenngoctruong@gmail.com
+  github: ntruongn
+  linkedin: nguyenngoctruong
+  bio: "Cybersecurity Engineer & AI Researcher specializing in Adversarial ML, Malware Analysis, and Network Security."
+  status: "🟢 Available for Research & Collaboration"
+
+description: "Personal Portfolio & Research Hub of Ngoc-Truong Nguyen - Cybersecurity Engineer, AI/ML Researcher, and Software Developer."
+tagline: "Bridging the gap between Artificial Intelligence and Information Security."
+
+ntruongn:
+  date_format: "%b %d, %Y"
+
+collections:
+  disclosures:
+    output: true
+    permalink: /disclosures/:path/
+  researchs:
+    output: true
+    permalink: /researchs/:path/
+  tutorials:
+    output: true
+    permalink: /tutorials/:path/
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - run.sh
+  - build.sh
+  - .gitignore
+  - .github/

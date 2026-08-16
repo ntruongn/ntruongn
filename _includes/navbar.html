@@ -1,0 +1,73 @@
+<nav class="navbar navbar-expand-lg navbar-cyber">
+    <div class="container">
+        <!-- Brand Logo -->
+        <a class="brand-cyber" href="/">
+            <span class="brand-prefix">$</span>
+            <span class="brand-name">ntruongn</span>
+            <span class="brand-cursor"></span>
+        </a>
+
+        <!-- Mobile Toggler -->
+        <button class="navbar-toggler border-0 shadow-none" type="button" data-bs-toggle="collapse" data-bs-target="#navbarMain" aria-controls="navbarMain" aria-expanded="false" aria-label="Toggle navigation">
+            <i class="bi bi-list fs-2 text-info"></i>
+        </button>
+
+        <!-- Navbar Links -->
+        <div class="collapse navbar-collapse" id="navbarMain">
+            <ul class="navbar-nav ms-auto align-items-lg-center gap-1">
+                <li class="nav-item {% if page.url == '/' %}active{% endif %}">
+                    <a class="nav-link-cyber" href="/">
+                        <i class="bi bi-house-door"></i>
+                        <span data-lang="vi">Trang chủ</span>
+                        <span data-lang="en">Home</span>
+                    </a>
+                </li>
+                <li class="nav-item {% if page.url contains 'publication' or page.collection == 'researchs' %}active{% endif %}">
+                    <a class="nav-link-cyber" href="/publications/">
+                        <i class="bi bi-journal-text"></i>
+                        <span data-lang="vi">Công bố khoa học</span>
+                        <span data-lang="en">Publications</span>
+                    </a>
+                </li>
+                <li class="nav-item {% if page.collection == 'tutorials' or page.url contains 'tutorials' %}active{% endif %}">
+                    <a class="nav-link-cyber" href="/tutorials/">
+                        <i class="bi bi-code-slash"></i>
+                        <span data-lang="vi">Hướng dẫn</span>
+                        <span data-lang="en">Tutorials</span>
+                    </a>
+                </li>
+                <li class="nav-item {% if page.url contains 'aboutme' %}active{% endif %}">
+                    <a class="nav-link-cyber" href="/aboutme.html">
+                        <i class="bi bi-person-badge"></i>
+                        <span data-lang="vi">Giới thiệu &amp; CV</span>
+                        <span data-lang="en">About &amp; CV</span>
+                    </a>
+                </li>
+
+                <!-- Action Toolbar: Language Switcher, Theme Toggle & Social Icons -->
+                <li class="nav-item ms-lg-2 d-flex align-items-center gap-1 mt-2 mt-lg-0">
+                    <!-- Language Switcher Button -->
+                    <button id="langToggleBtn" class="lang-switch-btn" title="Chuyển ngôn ngữ / Switch Language" aria-label="Switch Language">
+                        <span id="langFlag">🇻🇳</span>
+                        <span id="langLabel">VI</span>
+                    </button>
+
+                    <!-- Dark / Light Theme Toggle Button -->
+                    <button id="themeToggleBtn" class="nav-icon-btn theme-toggle-btn" title="Toggle Dark/Light Mode" aria-label="Toggle Theme">
+                        <i class="bi bi-sun-fill" id="themeIcon"></i>
+                    </button>
+
+                    <a href="https://github.com/{{ site.author.github }}" target="_blank" rel="noopener noreferrer" class="nav-icon-btn" title="GitHub Profile">
+                        <i class="bi bi-github"></i>
+                    </a>
+                    <a href="https://linkedin.com/in/{{ site.author.linkedin }}" target="_blank" rel="noopener noreferrer" class="nav-icon-btn" title="LinkedIn Profile">
+                        <i class="bi bi-linkedin"></i>
+                    </a>
+                    <a href="mailto:{{ site.author.email }}" class="nav-icon-btn" title="Send Email">
+                        <i class="bi bi-envelope-fill"></i>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
