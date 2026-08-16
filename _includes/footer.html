@@ -1,23 +1,38 @@
 <footer class="footer-cyber">
     <div class="container text-center">
-        <!-- Status Indicator -->
+        <!-- Researcher Status Indicator -->
         <div class="mb-3">
             <span class="cyber-badge badge-green">
                 <span class="pulse-dot"></span>
-                <span data-lang="vi">Sẵn sàng hợp tác nghiên cứu &amp; dự án</span>
-                <span data-lang="en">Available for research collaboration</span>
+                <span data-lang="vi">Sẵn sàng hợp tác nghiên cứu, học thuật &amp; dự án</span>
+                <span data-lang="en">Available for research collaboration &amp; academic projects</span>
             </span>
         </div>
 
-        <!-- Social Buttons -->
+        <!-- Academic & Social Links -->
         <div class="footer-social-links">
+            {% if site.author.scholar %}
+            <a href="{{ site.author.scholar }}" target="_blank" rel="noopener noreferrer" class="footer-social-btn" title="Google Scholar Profile">
+                <i class="ai ai-google-scholar"></i>
+            </a>
+            {% endif %}
+            {% if site.author.orcid %}
+            <a href="{{ site.author.orcid }}" target="_blank" rel="noopener noreferrer" class="footer-social-btn" title="ORCID Profile">
+                <i class="ai ai-orcid"></i>
+            </a>
+            {% endif %}
+            {% if site.author.arxiv %}
+            <a href="{{ site.author.arxiv }}" target="_blank" rel="noopener noreferrer" class="footer-social-btn" title="arXiv Author Profile">
+                <i class="ai ai-arxiv"></i>
+            </a>
+            {% endif %}
             {% if site.author.github %}
-            <a href="https://github.com/{{ site.author.github }}" target="_blank" rel="noopener noreferrer" class="footer-social-btn" title="GitHub">
+            <a href="https://github.com/{{ site.author.github }}" target="_blank" rel="noopener noreferrer" class="footer-social-btn" title="GitHub: @{{ site.author.github }}">
                 <i class="bi bi-github"></i>
             </a>
             {% endif %}
             {% if site.author.linkedin %}
-            <a href="https://linkedin.com/in/{{ site.author.linkedin }}" target="_blank" rel="noopener noreferrer" class="footer-social-btn" title="LinkedIn">
+            <a href="https://linkedin.com/in/{{ site.author.linkedin }}" target="_blank" rel="noopener noreferrer" class="footer-social-btn" title="LinkedIn Profile">
                 <i class="bi bi-linkedin"></i>
             </a>
             {% endif %}
@@ -28,24 +43,32 @@
             {% endif %}
         </div>
 
-        <!-- Copyright & Tagline -->
+        <!-- Copyright & Academic Tagline -->
         <div class="footer-copy">
             <p class="mb-1 text-secondary">
-                <span data-lang="vi">Thiết kế &amp; Phát triển bởi</span>
-                <span data-lang="en">Designed &amp; Developed by</span>
-                <strong class="text-light">{{ site.author.name }}</strong> &copy; {{ 'now' | date: "%Y" }}
+                <span data-lang="vi">Bản quyền nội dung &amp; nghiên cứu</span>
+                <span data-lang="en">Research &amp; Content Copyright</span>
+                &copy; {{ 'now' | date: "%Y" }} <strong class="text-light">{{ site.author.name }}</strong> ({{ site.author.native_name }}).
             </p>
             <p class="small text-muted mb-0 font-monospace">
-                <code>[ system.uptime: active | environment: jekyll-pages ]</code>
+                <code>[ focus: ai-security &bull; malware-analysis &bull; privacy-preserving-ml ]</code>
             </p>
         </div>
     </div>
 </footer>
 
 <!-- Floating Back to Top Button -->
-<button id="backToTopBtn" class="back-to-top-btn" title="Back to top">
+<button id="backToTopBtn" class="back-to-top-btn" title="Lên đầu trang / Back to top" aria-label="Back to top">
     <i class="bi bi-chevron-up"></i>
 </button>
+
+<!-- Toast Notification Container for Copied BibTeX/Email -->
+<div id="cyberToast" class="cyber-toast" role="alert" aria-live="assertive" aria-atomic="true">
+    <div class="toast-content">
+        <i class="bi bi-check-circle-fill text-success me-2"></i>
+        <span id="cyberToastMsg">Copied to clipboard!</span>
+    </div>
+</div>
 
 <!-- Bootstrap Bundle & Scripts -->
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
@@ -54,11 +77,11 @@
     if (document.getElementById('particles-js')) {
         particlesJS("particles-js", {
             particles: {
-                number: { value: 45, density: { enable: true, value_area: 900 } },
+                number: { value: 40, density: { enable: true, value_area: 900 } },
                 color: { value: ["#38bdf8", "#818cf8", "#10b981"] },
                 shape: { type: "circle" },
                 opacity: { value: 0.35, random: true },
-                size: { value: 2.5, random: true },
+                size: { value: 2.2, random: true },
                 line_linked: {
                     enable: true,
                     distance: 140,
@@ -68,7 +91,7 @@
                 },
                 move: {
                     enable: true,
-                    speed: 1.2,
+                    speed: 1.0,
                     direction: "none",
                     random: true,
                     straight: false,
@@ -84,7 +107,7 @@
                     resize: true
                 },
                 modes: {
-                    grab: { distance: 150, line_linked: { opacity: 0.4 } },
+                    grab: { distance: 140, line_linked: { opacity: 0.4 } },
                     push: { particles_nb: 3 }
                 }
             },

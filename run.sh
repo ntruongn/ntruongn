@@ -2,7 +2,7 @@
 
 # ==============================================================================
 # Script chạy website cá nhân ở môi trường Local
-# Hỗ trợ tự động phát hiện: Podman / Docker / Python
+# Hỗ trợ tự động phát hiện: Podman / Docker / Ruby / Python
 # ==============================================================================
 
 PORT=4000
@@ -22,11 +22,32 @@ else
 fi
 
 if [ -n "$CONTAINER_ENGINE" ]; then
+    # Kiểm tra xem có container jekyll nào đang chạy trên cổng 4000 không
+    RUNNING_CONTAINER=$($CONTAINER_ENGINE ps --filter "name=jekyll" -q)
+    if [ -n "$RUNNING_CONTAINER" ]; then
+        echo "[!] Phát hiện container Jekyll đang chạy ($RUNNING_CONTAINER)."
+        echo "[+] Website hiện đã sẵn sàng tại: http://localhost:$PORT"
+        echo "[+] Bạn có thể truy cập ngay hoặc chạy lệnh sau để xem log:"
+        echo "    $CONTAINER_ENGINE logs -f $RUNNING_CONTAINER"
+        echo "---------------------------------------------------------"
+        read -p "Bạn có muốn khởi động lại container mới không? (y/N): " -n 1 -r
+        echo
+        if [[ $REPLY =~ ^[Yy]$ ]]; then
+            echo "[+] Đang dừng container cũ..."
+            $CONTAINER_ENGINE stop $RUNNING_CONTAINER
+        else
+            echo "[+] Giữ nguyên server đang chạy. Truy cập: http://localhost:$PORT"
+            exit 0
+        fi
+    fi
+
     echo "[+] Đang chạy website qua $CONTAINER_ENGINE với Jekyll Live-Reload..."
     echo "[+] Truy cập website tại: http://localhost:$PORT"
     echo "[+] Nhấn Ctrl+C để dừng server."
     echo "---------------------------------------------------------"
-    $CONTAINER_ENGINE run --rm -it \
+    $CONTAINER_ENGINE rm -f jekyll_site &> /dev/null || true
+    $CONTAINER_ENGINE run --rm \
+        --name jekyll_site \
         -e JEKYLL_NO_BUNDLER_REQUIRE=true \
         -v "$SITE_DIR:/srv/jekyll:Z" \
         -p $PORT:4000 \
@@ -57,3 +78,4 @@ fi
 echo "[X] Lỗi: Không tìm thấy Podman, Docker, Ruby hoặc Python3 trên hệ thống!"
 echo "Vui lòng cài đặt Docker/Podman hoặc Ruby để chạy dự án."
 exit 1
+

@@ -5,14 +5,22 @@ baseurl: ""
 
 author:
   name: Ngoc-Truong Nguyen
+  native_name: Nguyễn Ngọc Trường
   handle: ntruongn
   email: 2k1.nguyenngoctruong@gmail.com
   github: ntruongn
   linkedin: nguyenngoctruong
-  bio: "Cybersecurity Engineer & AI Researcher specializing in Adversarial ML, Malware Analysis, and Network Security."
-  status: "🟢 Available for Research & Collaboration"
+  scholar: "https://scholar.google.com/citations?user=1dTi3rQAAAAJ&hl=en"
+  orcid: "https://orcid.org"
+  dblp: "https://dblp.org"
+  arxiv: "https://arxiv.org"
+  researchgate: "https://researchgate.net"
+  affiliation: "Information Security & AI Research Group (IEC Group)"
+  location: "Vietnam"
+  bio: "Cybersecurity Engineer & AI Researcher specializing in Adversarial ML, Privacy-Preserving AI, and Android Malware Reverse Engineering."
+  status: "🟢 Available for Research Collaboration & Projects"
 
-description: "Personal Portfolio & Research Hub of Ngoc-Truong Nguyen - Cybersecurity Engineer, AI/ML Researcher, and Software Developer."
+description: "Personal Academic Website & Research Hub of Ngoc-Truong Nguyen - Cybersecurity Engineer and AI/ML Researcher specializing in ML Privacy, Adversarial Robustness, and Systems Defense."
 tagline: "Bridging the gap between Artificial Intelligence and Information Security."
 
 ntruongn:

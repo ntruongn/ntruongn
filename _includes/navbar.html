@@ -1,7 +1,7 @@
 <nav class="navbar navbar-expand-lg navbar-cyber">
     <div class="container">
-        <!-- Brand Logo -->
-        <a class="brand-cyber" href="/">
+        <!-- Brand Logo with Terminal Badge -->
+        <a class="brand-cyber" href="/" title="Home - {{ site.author.name }}">
             <span class="brand-prefix">$</span>
             <span class="brand-name">ntruongn</span>
             <span class="brand-cursor"></span>
@@ -32,20 +32,50 @@
                 <li class="nav-item {% if page.collection == 'tutorials' or page.url contains 'tutorials' %}active{% endif %}">
                     <a class="nav-link-cyber" href="/tutorials/">
                         <i class="bi bi-code-slash"></i>
-                        <span data-lang="vi">Hướng dẫn</span>
-                        <span data-lang="en">Tutorials</span>
+                        <span data-lang="vi">Hướng dẫn &amp; Lab</span>
+                        <span data-lang="en">Tutorials &amp; Lab</span>
                     </a>
                 </li>
                 <li class="nav-item {% if page.url contains 'aboutme' %}active{% endif %}">
                     <a class="nav-link-cyber" href="/aboutme.html">
                         <i class="bi bi-person-badge"></i>
-                        <span data-lang="vi">Giới thiệu &amp; CV</span>
-                        <span data-lang="en">About &amp; CV</span>
+                        <span data-lang="vi">Hồ sơ &amp; CV</span>
+                        <span data-lang="en">Profile &amp; CV</span>
                     </a>
                 </li>
 
-                <!-- Action Toolbar: Language Switcher, Theme Toggle & Social Icons -->
+                <!-- Academic Profiles & Toolbar -->
                 <li class="nav-item ms-lg-2 d-flex align-items-center gap-1 mt-2 mt-lg-0">
+                    <!-- Google Scholar -->
+                    {% if site.author.scholar %}
+                    <a href="{{ site.author.scholar }}" target="_blank" rel="noopener noreferrer" class="nav-icon-btn scholar-btn" title="Google Scholar Profile">
+                        <i class="ai ai-google-scholar"></i>
+                    </a>
+                    {% endif %}
+
+                    <!-- ORCID -->
+                    {% if site.author.orcid %}
+                    <a href="{{ site.author.orcid }}" target="_blank" rel="noopener noreferrer" class="nav-icon-btn orcid-btn" title="ORCID Profile">
+                        <i class="ai ai-orcid"></i>
+                    </a>
+                    {% endif %}
+
+                    <!-- GitHub -->
+                    {% if site.author.github %}
+                    <a href="https://github.com/{{ site.author.github }}" target="_blank" rel="noopener noreferrer" class="nav-icon-btn" title="GitHub">
+                        <i class="bi bi-github"></i>
+                    </a>
+                    {% endif %}
+
+                    <!-- LinkedIn -->
+                    {% if site.author.linkedin %}
+                    <a href="https://linkedin.com/in/{{ site.author.linkedin }}" target="_blank" rel="noopener noreferrer" class="nav-icon-btn" title="LinkedIn">
+                        <i class="bi bi-linkedin"></i>
+                    </a>
+                    {% endif %}
+
+                    <div class="nav-divider d-none d-lg-block mx-1"></div>
+
                     <!-- Language Switcher Button -->
                     <button id="langToggleBtn" class="lang-switch-btn" title="Chuyển ngôn ngữ / Switch Language" aria-label="Switch Language">
                         <span id="langFlag">🇻🇳</span>
@@ -56,16 +86,6 @@
                     <button id="themeToggleBtn" class="nav-icon-btn theme-toggle-btn" title="Toggle Dark/Light Mode" aria-label="Toggle Theme">
                         <i class="bi bi-sun-fill" id="themeIcon"></i>
                     </button>
-
-                    <a href="https://github.com/{{ site.author.github }}" target="_blank" rel="noopener noreferrer" class="nav-icon-btn" title="GitHub Profile">
-                        <i class="bi bi-github"></i>
-                    </a>
-                    <a href="https://linkedin.com/in/{{ site.author.linkedin }}" target="_blank" rel="noopener noreferrer" class="nav-icon-btn" title="LinkedIn Profile">
-                        <i class="bi bi-linkedin"></i>
-                    </a>
-                    <a href="mailto:{{ site.author.email }}" class="nav-icon-btn" title="Send Email">
-                        <i class="bi bi-envelope-fill"></i>
-                    </a>
                 </li>
             </ul>
         </div>

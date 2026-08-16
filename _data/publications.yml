@@ -1,0 +1,19 @@
+# ==============================================================================
+# DANH SÁCH NGHIÊN CỨU & BÀI BÁO KHOA HỌC (PUBLICATIONS & RESEARCH)
+# Ngoc-Truong Nguyen (@ntruongn)
+# ==============================================================================
+# Đơn giản hóa: Chỉ cần cung cấp DOI và Github / Preprint (nếu có).
+# Mọi thông tin (Tiêu đề, Tác giả, Tạp chí, Năm, Abstract & BibTeX) sẽ tự động lấy qua DOI API.
+# ==============================================================================
+
+- doi: "https://doi.org/10.1016/j.array.2025.100583"
+  github: "https://github.com/ntruongn"
+
+- doi: "10.1109/RIVF68649.2025.11365059"
+  github: "https://github.com/ntruongn"
+
+- doi: "10.1007/978-3-032-10209-6_31"
+  github: "https://github.com/ntruongn"
+
+- doi: "10.1109/ICOIN56518.2023.10048962"
+  github: "https://github.com/ntruongn"
